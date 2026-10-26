@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Shadow_fight_ending.mp4",
+    "bytes": 6174357,
+    "sha256": "72231af0f148c811a5ee266732c791205fdbea6a94fd11cf004f6ae994dc98c3",
+    "catalog": {
+      "ID": "135",
+      "Name": "Shadow_fight_ending.mp4",
+      "Url": "https://assets.nekki.com/shadowfight/video/Shadow_fight_ending.mp4",
+      "MinVersion": "2.0.0",
+      "PlatformID": "2",
+      "Attach": "0",
+      "ObjectNumber": "2",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "6174357",
+      "Hash": "2fb0f27957f4147352f541774893fc24"
+    },
+    "catalog_hash_verified": true,
+    "matching_digest": [
+      "raw MD5 hexadecimal",
+      "raw MD5 unpadded byte hexadecimal"
+    ]
+  },
+  {
+    "name": "shadow_gate.mp4",
+    "bytes": 6324209,
+    "sha256": "6cd337aa6c00a03dd033f50bafdb2c398ec7cd45148e90857617b8caf0f73756",
+    "catalog": {
+      "ID": "135",
+      "Name": "shadow_gate.mp4",
+      "Url": "https://assets.nekki.com/shadowfight/video/shadow_gate.mp4",
+      "MinVersion": "2.0.0",
+      "PlatformID": "2",
+      "Attach": "0",
+      "ObjectNumber": "3",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "6324209",
+      "Hash": "c48c9a2505745193d137dc742ad24418"
+    },
+    "catalog_hash_verified": true,
+    "matching_digest": [
+      "raw MD5 hexadecimal"
+    ]
+  }
+]

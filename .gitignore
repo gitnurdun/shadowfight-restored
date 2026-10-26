@@ -1,0 +1,14 @@
+# Android release binaries are distributed through GitHub Releases, never Git.
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.gradle/
+build/

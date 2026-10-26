@@ -1,0 +1,626 @@
+{
+  "algorithm": "uppercase_hex(MD5(ASCII(uppercase_hex(MD5(file))) + UTF8(salt)))",
+  "salt_fields": [
+    22524,
+    22856
+  ],
+  "salt_length": 88,
+  "results": [
+    {
+      "name": "ZONE_1",
+      "actual": "DA0CF9F86426D10EA0CB084E108582BC",
+      "expected": "DA0CF9F86426D10EA0CB084E108582BC",
+      "match": true,
+      "sha256": "c7f32e93c6bfe9747288f1eb5216cdf0c343bdb59466b12af39748673e9f1162"
+    },
+    {
+      "name": "MODELS",
+      "actual": "0FE1A6E3BB7C56AED789A8694B93E5C6",
+      "expected": "0FE1A6E3BB7C56AED789A8694B93E5C6",
+      "match": true,
+      "sha256": "583025207cf8519b2af63f996fa744f6f6e1956e0ee3b2afbd2059bd1dc37a25"
+    },
+    {
+      "name": "ANIMATIONS",
+      "actual": "550EDCCB34072EBDFA547A4D142394E5",
+      "expected": "550EDCCB34072EBDFA547A4D142394E5",
+      "match": true,
+      "sha256": "4d9ec8adca57a5c16849bff0f987aa97a34ab999256629af6bc8265e1046e697"
+    },
+    {
+      "name": "VERSIONAL_CONFIGS",
+      "actual": "7C8C379D0B12B7E93EACD0DFB164C794",
+      "expected": "7C8C379D0B12B7E93EACD0DFB164C794",
+      "match": true,
+      "sha256": "951dc6690fd0d5fef39bb8d1d41f3be36925225d82161b4bdcc55b00f6fce415"
+    },
+    {
+      "name": "ZONE_2",
+      "actual": "1768D4E15B5B8147419D3146CAE67F1C",
+      "expected": "1768D4E15B5B8147419D3146CAE67F1C",
+      "match": true,
+      "sha256": "b78263e4dbd6606ffe768f8a52f98484514db7f6ecfee54354027171925ee024"
+    },
+    {
+      "name": "ZONE_3",
+      "actual": "7EB2233B3230905F9C9D01344447DF1A",
+      "expected": "7EB2233B3230905F9C9D01344447DF1A",
+      "match": true,
+      "sha256": "7edf56d6d096a28db970b79c6c3fc61cc3a37b4096b1c017ebde860285df0043"
+    },
+    {
+      "name": "ZONE_4",
+      "actual": "714A2B43F927F036AE28857D32F7405D",
+      "expected": "714A2B43F927F036AE28857D32F7405D",
+      "match": true,
+      "sha256": "6a8cccc45becdbbff6a4a4dd9d5525da8a43b935b1a458c750141e36755344fd"
+    },
+    {
+      "name": "ZONE_5",
+      "actual": "181308A5BDD7061B313481B66800413F",
+      "expected": "181308A5BDD7061B313481B66800413F",
+      "match": true,
+      "sha256": "adb5e67aae00a5b749a6b84195d92e22b5b97d770d15dee8479ef141861f4c8d"
+    },
+    {
+      "name": "ZONE_6",
+      "actual": "D4F1DF1D540722F2EAD6120558692B88",
+      "expected": "D4F1DF1D540722F2EAD6120558692B88",
+      "match": true,
+      "sha256": "550935ad9a48ee5b0ddaff233d5c19053f35a0ae29d0ab67c7a8ea8a1e7917da"
+    },
+    {
+      "name": "ZONE_7",
+      "actual": "728353D0883F31309EACF3FB1E15D941",
+      "expected": "728353D0883F31309EACF3FB1E15D941",
+      "match": true,
+      "sha256": "10492f6bb12fd09bd054359ab7f1e50906ec8962dc693bdd28876bddc6740787"
+    },
+    {
+      "name": "ZONE_7_2",
+      "actual": "99851081620F43ADB3D0C2F965A85660",
+      "expected": "99851081620F43ADB3D0C2F965A85660",
+      "match": true,
+      "sha256": "f45205da237a7b7d9e0798f13aa036d12e0717ef9476e09d83ab43bfa0f0445a"
+    },
+    {
+      "name": "ZONE_7_3",
+      "actual": "AFCC5443B226BF532843DB9C150A58B3",
+      "expected": "AFCC5443B226BF532843DB9C150A58B3",
+      "match": true,
+      "sha256": "b6e568d93a4285e9142216c759d6a5e0f822eb197dbfdf550fd4d82aef94b8c4"
+    },
+    {
+      "name": "ZONE_IM",
+      "actual": "E43C527C303418BA70171B28B209AFD3",
+      "expected": "E43C527C303418BA70171B28B209AFD3",
+      "match": true,
+      "sha256": "ffbf326f3d93483ac7b9860587db51910510365e94fb07e16e1c7f3695b64c48"
+    },
+    {
+      "name": "TACTICS",
+      "actual": "D3B351201649B7049EECDD6F30490C98",
+      "expected": "D3B351201649B7049EECDD6F30490C98",
+      "match": true,
+      "sha256": "29a50133b75e94731525cd9e837f71e511092821a597b14f84a4e003d501bba9"
+    },
+    {
+      "name": "ASCENSION",
+      "actual": "CEDC8F6D1AEBAF95078B80AA5157307B",
+      "expected": "CEDC8F6D1AEBAF95078B80AA5157307B",
+      "match": true,
+      "sha256": "f2dfc92b71b13fba2ec39b740b9857d9622d2ace01bfa32c333b1517db788dca"
+    },
+    {
+      "name": "ASIAN",
+      "actual": "B431D5E014CB5BB4BD2C303DB87B58B2",
+      "expected": "B431D5E014CB5BB4BD2C303DB87B58B2",
+      "match": true,
+      "sha256": "b501343072f015e7f9105791830438ffea4aa847d7c60d29bd8f87baa939b35e"
+    },
+    {
+      "name": "AZTEC_24",
+      "actual": "85B62F7F7BA0E5946022124EA31EE44E",
+      "expected": "85B62F7F7BA0E5946022124EA31EE44E",
+      "match": true,
+      "sha256": "3da8fcb73748c287e060eb53a9de20519df510e5ac88302416483481f6bd3d06"
+    },
+    {
+      "name": "CLANS",
+      "actual": "57BF185A9E8B218FB61589A898910210",
+      "expected": "57BF185A9E8B218FB61589A898910210",
+      "match": true,
+      "sha256": "8453dd478ae5195ca9858dc2fcc9a3aab8fcada50504865b57d93764b8e2d6fd"
+    },
+    {
+      "name": "EVENTS/EVENTS_COMMON",
+      "actual": "F91723DB6DB52439C3A1B96ACC45A26C",
+      "expected": "F91723DB6DB52439C3A1B96ACC45A26C",
+      "match": true,
+      "sha256": "3f398ee5879fdefc8929ab2ac66568e2ad758493adcabc0450b174b1fbdd842a"
+    },
+    {
+      "name": "EVENTS/MA_FEST_26",
+      "actual": "8D30FF50FD7BFB32522FFAA5F7ED5975",
+      "expected": "8D30FF50FD7BFB32522FFAA5F7ED5975",
+      "match": true,
+      "sha256": "88bad56e7e59a9e28e3f75d257ba438dcd2b36b206e6b88b6147d0109d439c6f"
+    },
+    {
+      "name": "EVENTS/RITUAL",
+      "actual": "3F36AD50FB4C643885717AA7B81CDAB4",
+      "expected": "3F36AD50FB4C643885717AA7B81CDAB4",
+      "match": true,
+      "sha256": "abe189e7bc3b561c0d0915c1b62dcec41940bd8e1436dbef7c3ec3d605afbd27"
+    },
+    {
+      "name": "EVENTS/RITUAL_FUNGUS",
+      "actual": "1AA26E88FDC3C5E932F4CE19036C6E49",
+      "expected": "1AA26E88FDC3C5E932F4CE19036C6E49",
+      "match": true,
+      "sha256": "73c327d7f9ab5d33ba78e60653cb05e146bdd786183aa7cf15a6027c9cf0ee21"
+    },
+    {
+      "name": "EVENTS/RITUAL_HUNGER",
+      "actual": "C72392366684048A195CC8B97D5CD4ED",
+      "expected": "C72392366684048A195CC8B97D5CD4ED",
+      "match": true,
+      "sha256": "3ee5b18a31f7e29ac4e9666deac685492c4dcb46e144a565ac76a12270458a26"
+    },
+    {
+      "name": "EVENTS/RITUAL_VULCAN",
+      "actual": "47331261E2D89767B0DB98AAF8CABBA4",
+      "expected": "47331261E2D89767B0DB98AAF8CABBA4",
+      "match": true,
+      "sha256": "f590c99489b454f533c49409c53298e06f5c99c9a07388e9efe4a0bbfe04bb5d"
+    },
+    {
+      "name": "EVENTS/SUMMER_FEST_25",
+      "actual": "A1A9478898EA0097F4C3D13746AC3917",
+      "expected": "A1A9478898EA0097F4C3D13746AC3917",
+      "match": true,
+      "sha256": "d219571b6745beec1c73eb0b0d29152b852f7f70652a570473bab5868f5bb286"
+    },
+    {
+      "name": "EVENTS/SUMMER_FEST_26",
+      "actual": "E3394F0F903A5472E6B4CB8CF1406731",
+      "expected": "E3394F0F903A5472E6B4CB8CF1406731",
+      "match": true,
+      "sha256": "be2a21f46f8f67f627a9ed01aa5639221e9816489bce2e041e46b315dd9fa20a"
+    },
+    {
+      "name": "EVENTS/SUMMER_FEST_CHEST",
+      "actual": "3E7CA2A435A9AB4490398FF24AE92840",
+      "expected": "3E7CA2A435A9AB4490398FF24AE92840",
+      "match": true,
+      "sha256": "7307b4be300bd55cd2126f3cde72792886fd8ca60d581edb5b40e804c4821ff9"
+    },
+    {
+      "name": "EVENT_HW_24",
+      "actual": "E6E1CDE50527A89295877E089FD48F7B",
+      "expected": "E6E1CDE50527A89295877E089FD48F7B",
+      "match": true,
+      "sha256": "40551ab3698bbb91f1de42cdc45069fa61b28988b825d8dd01834d71a17d6dbc"
+    },
+    {
+      "name": "FOREST_DEMON_25",
+      "actual": "105BFCAEDF4460176357C81366A46916",
+      "expected": "105BFCAEDF4460176357C81366A46916",
+      "match": true,
+      "sha256": "a8f6855a908f2e69c506d5b7a5157f9591aaf282fa838f75cadc5b79eba216a4"
+    },
+    {
+      "name": "FUNGUS_SET",
+      "actual": "99676CED0EDAB3DDFAD021C0BBC14D25",
+      "expected": "99676CED0EDAB3DDFAD021C0BBC14D25",
+      "match": true,
+      "sha256": "07dae4bf293861e2f2edab6fd2d41a521888403455cd827173b41d2ff80d23f3"
+    },
+    {
+      "name": "NEW_YEAR_25",
+      "actual": "F8DF6F23EA3FC18CA4F87218813DF22C",
+      "expected": "F8DF6F23EA3FC18CA4F87218813DF22C",
+      "match": true,
+      "sha256": "3de043bfd7ca59e566364acb8d898c6339efb7d5b46169a174d52ee66607a2c1"
+    },
+    {
+      "name": "OFFERS/AGNISSEAL_OFFER",
+      "actual": "36487FACD6724620FFCF32C53C3600D9",
+      "expected": "36487FACD6724620FFCF32C53C3600D9",
+      "match": true,
+      "sha256": "e07b8972b11f04f5b521ec147d26ffafa213219f83aeeb8b3566480c9ff05fac"
+    },
+    {
+      "name": "OFFERS/EVENT_FALL_24",
+      "actual": "19317F0244814B3F12F01E113B02CCC1",
+      "expected": "19317F0244814B3F12F01E113B02CCC1",
+      "match": true,
+      "sha256": "567fea119a9c597c545ea3bfeb66e499f9d69a375961a225d3b9d23345c36a1c"
+    },
+    {
+      "name": "OFFERS/EVENT_FALL_26",
+      "actual": "88AB4F35DA52D8525199F890F2CD2FC8",
+      "expected": "88AB4F35DA52D8525199F890F2CD2FC8",
+      "match": true,
+      "sha256": "ffadc03c3aefb93cc1d59eb84aa403823a6c94bf1527c0dbb11d1dd1fa017236"
+    },
+    {
+      "name": "OFFERS/GIFT_12_YEARS_SF2_NAGINATA",
+      "actual": "3CB9C3CB95C3B6D8010AB83F2F20C6CF",
+      "expected": "3CB9C3CB95C3B6D8010AB83F2F20C6CF",
+      "match": true,
+      "sha256": "b714e9306f6a5ba82f1f9998487e2f54d0fa194255d43f7be314dfa394c10a74"
+    },
+    {
+      "name": "OFFERS/MA_FEST_26_ITEMS",
+      "actual": "6558C6D26D7F5BE59E5723FF3E00E7D3",
+      "expected": "6558C6D26D7F5BE59E5723FF3E00E7D3",
+      "match": true,
+      "sha256": "08e0b8f73510a6e74565680257182cb64d0a09fe390b45d954ffc5a188254267"
+    },
+    {
+      "name": "OFFERS/SUMMER_FEST_25",
+      "actual": "D636BDA95FD5B2EC5C697C1813393305",
+      "expected": "D636BDA95FD5B2EC5C697C1813393305",
+      "match": true,
+      "sha256": "7f8c1146e8f69aa9415996d3bfa54c605368c672b89aaec7be6445cad41c31ce"
+    },
+    {
+      "name": "OFFERS/SUMMER_FEST_26",
+      "actual": "3B877AD155D863F0C8B0AE0C3ED22669",
+      "expected": "3B877AD155D863F0C8B0AE0C3ED22669",
+      "match": true,
+      "sha256": "cac6bc96ae326e73da6f9af192cddb551cf3a08f08cdf8c192d94cc7bffbb5b3"
+    },
+    {
+      "name": "OFFERS/WEEKLYOFFER12",
+      "actual": "58EF72B5F727C056CD11555D836BD705",
+      "expected": "58EF72B5F727C056CD11555D836BD705",
+      "match": true,
+      "sha256": "ab000cb8a1a74c5ee08610b24938d05ec2aed2f5142d86fd5493a5baa6ae2812"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_13",
+      "actual": "6221A2D7866CE05F7F18239F73AEB425",
+      "expected": "6221A2D7866CE05F7F18239F73AEB425",
+      "match": true,
+      "sha256": "fbba84f665a0f3455bdd73f6e155f229d4745beb0b350e604b7ad26adc598119"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_14",
+      "actual": "E69597CBAE4CA7FD73D45A591E6B96B9",
+      "expected": "E69597CBAE4CA7FD73D45A591E6B96B9",
+      "match": true,
+      "sha256": "6ad387af5e78be99a6b4b97cfef5e6e58ae5ee9955888480125a94c3d200c5dd"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_15",
+      "actual": "D621DCA00E4716AB1203930C12BB71F0",
+      "expected": "D621DCA00E4716AB1203930C12BB71F0",
+      "match": true,
+      "sha256": "9a35d5cd34f605d6e24a0162d3aeb7962e260857a8fb2178b35846931e1da66a"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_16",
+      "actual": "2430FA20C208635BD69C352AA939C6A1",
+      "expected": "2430FA20C208635BD69C352AA939C6A1",
+      "match": true,
+      "sha256": "73fa3fb65cbacdcf3801d7b252ad02804a565a51de8d96fd4730890632213066"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_17",
+      "actual": "63FC3AFF6A971EF48DDB8477B37D885B",
+      "expected": "63FC3AFF6A971EF48DDB8477B37D885B",
+      "match": true,
+      "sha256": "d2f3d3a986fa36ec8763a16f9aa6c2845cf29cdf9f0b62fbe320ec1c66f5e99c"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_18",
+      "actual": "3EDEBB192810D8C23C7E492DA5BA2936",
+      "expected": "3EDEBB192810D8C23C7E492DA5BA2936",
+      "match": true,
+      "sha256": "66f0ff2ee193827cd9f4caed3ebd9e0184b5a5b5b20f9af1959e5b41d95a6154"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_19",
+      "actual": "9802A4432DA0993C17CF2F3B72E4227D",
+      "expected": "9802A4432DA0993C17CF2F3B72E4227D",
+      "match": true,
+      "sha256": "2305e6195a3d272e296f5ed1819512519f420fdbafc9a364b9952de5731ccc67"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_20_FUTURIST_MAGIC",
+      "actual": "8EA58D98F76C8482619CE96746806740",
+      "expected": "8EA58D98F76C8482619CE96746806740",
+      "match": true,
+      "sha256": "6ae79d82e08f10d7db930242f9155ee33be805ae8336c03f50ce4202f6c8235c"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_21",
+      "actual": "82AB87AFF10039FA05BCC87C59C30EBD",
+      "expected": "82AB87AFF10039FA05BCC87C59C30EBD",
+      "match": true,
+      "sha256": "55ab56e7f3bf5d4771248a5b0a8b4dcb34bee82efd8e52434c640dd1ca3db527"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_22_GLAIVE_GOD_EATER",
+      "actual": "94F2757620030F2CB2B8D5D170408D79",
+      "expected": "94F2757620030F2CB2B8D5D170408D79",
+      "match": true,
+      "sha256": "dfb139df809d37e75bd34721783d28ad5db3587231240fd3fddb6a0a50ef359a"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_23_PINK_ENERGYBALL_MAGIC",
+      "actual": "40515B164633388A3A5BA148C4821B35",
+      "expected": "40515B164633388A3A5BA148C4821B35",
+      "match": true,
+      "sha256": "fb2771d20470757f0946b9846b89cb7552a0ea28e9de678f266245457380d745"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_24_EGYPT_ARMOR",
+      "actual": "C256839E32C0C16A4A4C7C1228FE9314",
+      "expected": "C256839E32C0C16A4A4C7C1228FE9314",
+      "match": true,
+      "sha256": "89efd133278b1d831e553a52eb4c4092ae6dd837d1b19414f8f24b9ad7792ffd"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON",
+      "actual": "8D45761DE8E30592D2C796213C92A524",
+      "expected": "8D45761DE8E30592D2C796213C92A524",
+      "match": true,
+      "sha256": "4f5b69869d527fb3b9a01ab2f95b114a273c9daa88ecffd8d9a0f6fca29283f1"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE",
+      "actual": "B9EFF297A5DDEFEC7C1F198334CE2D2C",
+      "expected": "B9EFF297A5DDEFEC7C1F198334CE2D2C",
+      "match": true,
+      "sha256": "f53e1d847d4ef21b40a2779a1473ba2e291006789a54c32211bd47c22839fe3c"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC",
+      "actual": "9AFB2B7EEB44DFD80111ABF015A284B6",
+      "expected": "9AFB2B7EEB44DFD80111ABF015A284B6",
+      "match": true,
+      "sha256": "5e231f9513e6b1c2537b1951fde5909b901c97279ebb86d5f552b8635cad49c1"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID",
+      "actual": "5B0B810221F4563CAD5752D51E35D02A",
+      "expected": "5B0B810221F4563CAD5752D51E35D02A",
+      "match": true,
+      "sha256": "26887efe7c76a53b470d47819ae59d5e3950798f7ee65dd53ed996380d112165"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER",
+      "actual": "0673C9F136A4D2907F7414EBCE03400C",
+      "expected": "0673C9F136A4D2907F7414EBCE03400C",
+      "match": true,
+      "sha256": "ffc326458c24e6e70d4cf5f30780444b8b4affacb8886e605996a18e131158dd"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON",
+      "actual": "3D20E6D9C8D347370172EF51C78BC279",
+      "expected": "3D20E6D9C8D347370172EF51C78BC279",
+      "match": true,
+      "sha256": "96bdfc34816d24615217e71255cf3668908c0d6c542a21ed93133e71fae2d109"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION",
+      "actual": "4FCBC63F29C4A6EF635DF8064CBA5D02",
+      "expected": "4FCBC63F29C4A6EF635DF8064CBA5D02",
+      "match": true,
+      "sha256": "0d5d57d2f7330ffb26d85d2217e28e80ced06b728bde98ca12815993c0488aa9"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25",
+      "actual": "88C4907E42808295CC9935FFD8EE03E9",
+      "expected": "88C4907E42808295CC9935FFD8EE03E9",
+      "match": true,
+      "sha256": "59d4467383eafdb8c8ad6d29d30388344887173a7d4af13b2e6d7d8e6f65dac1"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25",
+      "actual": "7B19018037E2052116889917AF60A121",
+      "expected": "7B19018037E2052116889917AF60A121",
+      "match": true,
+      "sha256": "fc30ff10aaeb7f08cb725aa63a5ecdadd737993796b1fbb10c05d81cb15464a1"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25",
+      "actual": "35B5ACD88D3ADDC946578669FF814E73",
+      "expected": "35B5ACD88D3ADDC946578669FF814E73",
+      "match": true,
+      "sha256": "7846a17d7d0337561f15c1ebdeadb483dc139a651e59ec5486321e8b45815968"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25",
+      "actual": "D26A19B60A76076CFD4CFF39115F27BF",
+      "expected": "D26A19B60A76076CFD4CFF39115F27BF",
+      "match": true,
+      "sha256": "27c47673d8cca486c13f9615f233d8fce98907fab9c4416fce968eeb281ec29c"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25",
+      "actual": "5C96B51EC506FB9951F44F952903430D",
+      "expected": "5C96B51EC506FB9951F44F952903430D",
+      "match": true,
+      "sha256": "950deab5c01cb398865fbd75aa8e983495b55a5d79de168ee63fb4bd6a24f3bc"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25",
+      "actual": "39F63DBB94EAD0B631A95A393727A474",
+      "expected": "39F63DBB94EAD0B631A95A393727A474",
+      "match": true,
+      "sha256": "1c95587c22e57edc01d5d968ffc5c11050bdb41b2f7446bf9730e6a0d2c5432b"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25",
+      "actual": "C86CE95909C5BC5F06645EBE1643F274",
+      "expected": "C86CE95909C5BC5F06645EBE1643F274",
+      "match": true,
+      "sha256": "35f0dda0e244a7e61b2a44c961f255afc0c9d201d60ed689a2508c507314a5e3"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25",
+      "actual": "E45AE3434ADA53A2138C46D251591AD4",
+      "expected": "E45AE3434ADA53A2138C46D251591AD4",
+      "match": true,
+      "sha256": "3ad257e40d8bb77ea7c2f393fb2bdf7a38b7d500501e32de112464be2255ccdc"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_40_OLD_KING_25",
+      "actual": "4A0FD5880882EB13A5DC90234B67DD5D",
+      "expected": "4A0FD5880882EB13A5DC90234B67DD5D",
+      "match": true,
+      "sha256": "56ff5cefaaf52a5cbe70964c1f70a5afeedf3b9cdce3a92e4de0083a0c85acae"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25",
+      "actual": "BE2FD6C66AA02014170798AC453B3E02",
+      "expected": "BE2FD6C66AA02014170798AC453B3E02",
+      "match": true,
+      "sha256": "934fcc4ed2aa9c49da20320047309da42ae0f9e04d1e57576fc348f3a5815bf2"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26",
+      "actual": "06C06DE84BD22B32E27D69867E296577",
+      "expected": "06C06DE84BD22B32E27D69867E296577",
+      "match": true,
+      "sha256": "37b93e3030864849379bab1b17a296d2ac6bc251e1ed91136d0c83685dd01b14"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26",
+      "actual": "95A0E1871AE06A13FE7E2E6D71B60DDD",
+      "expected": "95A0E1871AE06A13FE7E2E6D71B60DDD",
+      "match": true,
+      "sha256": "e5b3c5f5c024533fed407bcf86cebfde397af22f6390dbe99c4c89c97cf6c6dd"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26",
+      "actual": "C8D96069CE58132F45652C5AAD012329",
+      "expected": "C8D96069CE58132F45652C5AAD012329",
+      "match": true,
+      "sha256": "394704d40f11b93bbb06dcda27afef03111d124c2d77b719cb6725a0cd07ff07"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26",
+      "actual": "2F1D03F123B48A5DF40B0D26151A05F5",
+      "expected": "2F1D03F123B48A5DF40B0D26151A05F5",
+      "match": true,
+      "sha256": "dd4c8054b16cf553e2738a5694125c9e460ccbf6716c9008153e639f45837ad0"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26",
+      "actual": "09EF6EFA952A48CE2D28F01795BA49FF",
+      "expected": "09EF6EFA952A48CE2D28F01795BA49FF",
+      "match": true,
+      "sha256": "b1c74f5d0e494bcf3721023b64810b1b44d773996944cd801c9ab99616cab507"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26",
+      "actual": "2D9D624F25EF5095BB7A9E2BF95043AD",
+      "expected": "2D9D624F25EF5095BB7A9E2BF95043AD",
+      "match": true,
+      "sha256": "bde6880880de5619a7bc15054a3b43cc5ee6acb0ffec8706ef436f82334f447f"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26",
+      "actual": "D6D83CA9605F795710444CDA6E938849",
+      "expected": "D6D83CA9605F795710444CDA6E938849",
+      "match": true,
+      "sha256": "bfb829b47e413237a68905fb3d263bbd40580988a197bf6cac5b58cc51cc4c72"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26",
+      "actual": "FC47E421B2B500BD7848D760456D0C91",
+      "expected": "FC47E421B2B500BD7848D760456D0C91",
+      "match": true,
+      "sha256": "afc4f1b96f283e10c86c1f92f8d1eaaf4ba08f9ae19f9ab7a2694a5f45e97f06"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26",
+      "actual": "4382E66E78DA8AC16B4F3AF15638B3C2",
+      "expected": "4382E66E78DA8AC16B4F3AF15638B3C2",
+      "match": true,
+      "sha256": "6c37ac8870cc4a4ac95f7586b5effe8a986d8d00b8cc603159345951f49e04f8"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26",
+      "actual": "3FAD03D9CCE826A553070999EE3DDD1F",
+      "expected": "3FAD03D9CCE826A553070999EE3DDD1F",
+      "match": true,
+      "sha256": "19ef099f0269fb1e12e2bad230abb4b7448614f3980b79a1c38da468a60e3ff0"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26",
+      "actual": "7FA5335C1818C4EEEC603ACC7330D5FF",
+      "expected": "7FA5335C1818C4EEEC603ACC7330D5FF",
+      "match": true,
+      "sha256": "1ce07e7c9153037c8c663554f8c8a80df947b7476ae968eae8daebf26ec55bdf"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26",
+      "actual": "79B5476CBEA4D05CB9F7003D7591513F",
+      "expected": "79B5476CBEA4D05CB9F7003D7591513F",
+      "match": true,
+      "sha256": "16c13c7874a53ce3a08377a82c7f4a31e8fe97ae76d9b838346a572617592934"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26",
+      "actual": "1D9B2102AAA34D5C98FBEF464AEC6E08",
+      "expected": "1D9B2102AAA34D5C98FBEF464AEC6E08",
+      "match": true,
+      "sha256": "15a749cadb9d9ee2f6f8aefb11a9309a1575c30c3fe3800ea338056d57e9390c"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26",
+      "actual": "0D5DD510852060FDD400A082342A235B",
+      "expected": "0D5DD510852060FDD400A082342A235B",
+      "match": true,
+      "sha256": "7b84db0454f921802794eb930b103f8848126c643b885d5493a2f9f591ea1452"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26",
+      "actual": "A7F5BA409E99F783675FB0CA8EDDFE6E",
+      "expected": "A7F5BA409E99F783675FB0CA8EDDFE6E",
+      "match": true,
+      "sha256": "8874c23ac0b07c35ee1a3b5ec214a0097340b02d94787be9d439010b4b3b8317"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26",
+      "actual": "0B5B609E7DEFD45F89BA6D5924DE9F3B",
+      "expected": "0B5B609E7DEFD45F89BA6D5924DE9F3B",
+      "match": true,
+      "sha256": "c1c6f11c1cc6ba560d1c12686ca2caeaa5e1e06e93895146f3a83fb727f090e0"
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_58_STACCATO_26",
+      "actual": "5031C7A04E7D82CBFEE81C1E8FDC33AD",
+      "expected": "5031C7A04E7D82CBFEE81C1E8FDC33AD",
+      "match": true,
+      "sha256": "ea293f272c3990c6829c4f22a30e08634ad468958796d3d93afbb7201681e7c8"
+    },
+    {
+      "name": "SETS/KARCER_SET",
+      "actual": "E4FCED8B8D81F5715F3A18E5ECAC78F5",
+      "expected": "E4FCED8B8D81F5715F3A18E5ECAC78F5",
+      "match": true,
+      "sha256": "b2320935b5c6b2304d497e08ee96ce14381630c7d2852e506bbc31bca2a31d7b"
+    },
+    {
+      "name": "VOLCANO_SET",
+      "actual": "1FD2D162205441AE06F4B87127C15D34",
+      "expected": "1FD2D162205441AE06F4B87127C15D34",
+      "match": true,
+      "sha256": "eeee1a273dc0a58a8e90aaef89b8ff9721ce6ff4760a9bd55533342f1d4596dd"
+    },
+    {
+      "name": "ZONE_RAID",
+      "actual": "AE4F96B71484EFDDF84760D94EC476F5",
+      "expected": "AE4F96B71484EFDDF84760D94EC476F5",
+      "match": true,
+      "sha256": "461492a1bda3bbc3b46072bb8e4a02c6cd0e49600c495bd896b9cd6e8837e4ea"
+    }
+  ]
+}

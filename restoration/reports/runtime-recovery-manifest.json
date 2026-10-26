@@ -1,0 +1,63 @@
+{
+  "algorithm": "AES-256-CBC / PKCS7 / Base64",
+  "counts": {
+    "not_base64": 246,
+    "xml": 6
+  },
+  "files": [
+    {
+      "source": "extracted-runtime/TextAsset/list.bytes",
+      "output": "recovered-runtime/list.xml",
+      "bytes": 802767,
+      "sha256": "b48966bcf30cf75bc9c5218451932b00b03e816678deb3827b99f4edf41f2d79",
+      "xml_root": "List",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted-runtime/TextAsset/moves.bytes",
+      "output": "recovered-runtime/moves.xml",
+      "bytes": 2142858,
+      "sha256": "1e78b5b8ba2444a71fa9c776d12d1a56abc41de5596e59b00e2dd7c844c04094",
+      "xml_root": "Movesxml",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted-runtime/TextAsset/packs.bytes",
+      "output": "recovered-runtime/packs.xml",
+      "bytes": 22779,
+      "sha256": "063e5d87df01307215ed229f03c4ac424bf11478368b04578b8f2a1ceb8e2ee8",
+      "xml_root": "Packs",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted-runtime/TextAsset/perks.bytes",
+      "output": "recovered-runtime/perks.xml",
+      "bytes": 213203,
+      "sha256": "39f541bb6d06dada4de8160d12d00de758a8bdc420c181ff97445ecb818e0fd4",
+      "xml_root": "Perks",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted-runtime/TextAsset/server_quests.bytes",
+      "output": "recovered-runtime/server_quests.xml",
+      "bytes": 10339,
+      "sha256": "410f885addf86bf9ac6bf9ccfd2625bcc9a4400aaeab44963f9e9f2fb2d2a825",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted-runtime/TextAsset/tacticSettings.bytes",
+      "output": "recovered-runtime/tacticSettings.xml",
+      "bytes": 18514,
+      "sha256": "91859e3c3ea8c23424c4dea5f34f8150323583cc3b4d11647fd3e56ae915ac7e",
+      "xml_root": "TacticsSettings",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "source": "APK",
+    "asset": "list",
+    "changes": 9291,
+    "source_sha256": "67daec0a7526c11609f73dbd77cca4f38dabd3bebd8684369f3cc8160b9b6ff1",
+    "modified_sha256": "cccd4aab4c1d729472a3c1de6be38bffcc3cd5078a4044249b1e07904af13acc"
+  },
+  {
+    "source": "APK",
+    "asset": "forge",
+    "changes": 3060,
+    "source_sha256": "7b4bb173af9ea47cc70a444620a75766b935fbc6c326e5659664d2d632f4941f",
+    "modified_sha256": "c1a5ddfafe1d832f964958d7947ed15e83fa74dfcaeec945282990985fafcbda"
+  },
+  {
+    "source": "APK",
+    "asset": "stages",
+    "changes": 1524,
+    "source_sha256": "e1ea05c1d2fd5b5aa539524d30c09f7be5b217f43f33aa0e701f82cb9da18ab9",
+    "modified_sha256": "33cc7a5b4dc2d52bac0abcf18d921094cd6b10b2a54adb6afe614271e7c9341a"
+  },
+  {
+    "source": "APK",
+    "asset": "BuildSettings",
+    "changes": 1,
+    "source_sha256": "e42ab7b6c9a5d60d573c9e54dd0dbb3a732477bc03660193b8933637d2e9537d",
+    "modified_sha256": "bd191652bd939904cd789d5981e453e26028cf9ecb973e19e477f51a32ba3c5d"
+  },
+  {
+    "source": "APK",
+    "asset": "login_notify",
+    "changes": 1,
+    "source_sha256": "17c98c1f35cc5bd7dc421277b40f516d3c92c08c85ad66ee087870fb3d4ac566",
+    "modified_sha256": "f22c3552dd96c341f1e70133179242f789268b7917cfbb8194a2b061d13d2ac9"
+  },
+  {
+    "source": "APK",
+    "asset": "quests",
+    "changes": 3,
+    "source_sha256": "09cd2d37c8dd8ab286a5d8c0a39b997f5a80b560e0e74eb7aaf924cca493b028",
+    "modified_sha256": "871217cc13b7ad2fbe92151659969167446264d50672810339d0c403b9ba9e9a"
+  },
+  {
+    "source": "APK",
+    "asset": "raid_quests",
+    "changes": 1,
+    "source_sha256": "137a7c63d4adcb4f004744643df1535da6e8cc01b9777c4132bc6465d87fb426",
+    "modified_sha256": "10e68d123fd38015a56c35bf8d173d07f5e80d9347b213f620a10fd13d67d822"
+  },
+  {
+    "source": "VERSIONAL_CONFIGS",
+    "asset": "list",
+    "changes": 9291
+  }
+]

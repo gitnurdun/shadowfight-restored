@@ -1,0 +1,1410 @@
+[
+  {
+    "name": "ZONE_1",
+    "bytes": 36541298,
+    "sha256": "c7f32e93c6bfe9747288f1eb5216cdf0c343bdb59466b12af39748673e9f1162",
+    "catalog": {
+      "Name": "ZONE_1",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_1_16-37-26_06_06_2025_46e02e552ef30c0406537fdda39d8008_1654772078_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "36541298",
+      "Hash": "DA0CF9F86426D10EA0CB084E108582BC"
+    }
+  },
+  {
+    "name": "MODELS",
+    "bytes": 81039982,
+    "sha256": "583025207cf8519b2af63f996fa744f6f6e1956e0ee3b2afbd2059bd1dc37a25",
+    "catalog": {
+      "Name": "MODELS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/models_13-11-13_21_09_2026_6de7c56d02f04b7c96b209379216ff96_2602702795_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "81039982",
+      "Hash": "0FE1A6E3BB7C56AED789A8694B93E5C6"
+    }
+  },
+  {
+    "name": "ANIMATIONS",
+    "bytes": 6355087,
+    "sha256": "4d9ec8adca57a5c16849bff0f987aa97a34ab999256629af6bc8265e1046e697",
+    "catalog": {
+      "Name": "ANIMATIONS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/animations_19-59-43_18_09_2026_7a2da5a269d40489b3a99573fc43f7b0_3580520704_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "6355087",
+      "Hash": "550EDCCB34072EBDFA547A4D142394E5"
+    }
+  },
+  {
+    "name": "VERSIONAL_CONFIGS",
+    "bytes": 6757881,
+    "sha256": "951dc6690fd0d5fef39bb8d1d41f3be36925225d82161b4bdcc55b00f6fce415",
+    "catalog": {
+      "Name": "VERSIONAL_CONFIGS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_11-13-33_19_10_2026_39faaf5df59b3f7a45fe3d6af24e25ed_3885747667_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "6757881",
+      "Hash": "7C8C379D0B12B7E93EACD0DFB164C794"
+    }
+  },
+  {
+    "name": "ZONE_2",
+    "bytes": 15497050,
+    "sha256": "b78263e4dbd6606ffe768f8a52f98484514db7f6ecfee54354027171925ee024",
+    "catalog": {
+      "Name": "ZONE_2",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_2_13-20-21_24_11_2025_00872616b91397bc5a1b0fcd08bd0395_3946112396_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "15497050",
+      "Hash": "1768D4E15B5B8147419D3146CAE67F1C"
+    }
+  },
+  {
+    "name": "ZONE_3",
+    "bytes": 15216705,
+    "sha256": "7edf56d6d096a28db970b79c6c3fc61cc3a37b4096b1c017ebde860285df0043",
+    "catalog": {
+      "Name": "ZONE_3",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_3_18-25-16_14_10_2025_894e0d5b67a3d9926c5b52631be04c8f_359814821_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "15216705",
+      "Hash": "7EB2233B3230905F9C9D01344447DF1A"
+    }
+  },
+  {
+    "name": "ZONE_4",
+    "bytes": 13589818,
+    "sha256": "6a8cccc45becdbbff6a4a4dd9d5525da8a43b935b1a458c750141e36755344fd",
+    "catalog": {
+      "Name": "ZONE_4",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_4_19-50-48_25_11_2025_b4ff6b5ec6a149f167909426b77c49a3_3553739910_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "13589818",
+      "Hash": "714A2B43F927F036AE28857D32F7405D"
+    }
+  },
+  {
+    "name": "ZONE_5",
+    "bytes": 15368234,
+    "sha256": "adb5e67aae00a5b749a6b84195d92e22b5b97d770d15dee8479ef141861f4c8d",
+    "catalog": {
+      "Name": "ZONE_5",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_5_12-13-10_31_01_2024_aa8075bf987708c472c9fa8eebf7bacd_2260739885_android",
+      "MinVersion": "2.33.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "15368234",
+      "Hash": "181308A5BDD7061B313481B66800413F"
+    }
+  },
+  {
+    "name": "ZONE_6",
+    "bytes": 26240767,
+    "sha256": "550935ad9a48ee5b0ddaff233d5c19053f35a0ae29d0ab67c7a8ea8a1e7917da",
+    "catalog": {
+      "Name": "ZONE_6",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_6_15-38-51_07_02_2025_36964cd81db8ac893305bd9f01ad65f8_3588992083_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "26240767",
+      "Hash": "D4F1DF1D540722F2EAD6120558692B88"
+    }
+  },
+  {
+    "name": "ZONE_7",
+    "bytes": 13261412,
+    "sha256": "10492f6bb12fd09bd054359ab7f1e50906ec8962dc693bdd28876bddc6740787",
+    "catalog": {
+      "Name": "ZONE_7",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_7_19-59-43_18_09_2026_b48bdfbd46c547258cd35cd27fb87930_1476413529_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "13261412",
+      "Hash": "728353D0883F31309EACF3FB1E15D941"
+    }
+  },
+  {
+    "name": "ZONE_7_2",
+    "bytes": 3460593,
+    "sha256": "f45205da237a7b7d9e0798f13aa036d12e0717ef9476e09d83ab43bfa0f0445a",
+    "catalog": {
+      "Name": "ZONE_7_2",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_7_2_12-13-10_31_01_2024_828d76bf914930767431079f895a085c_3295614242_android",
+      "MinVersion": "2.33.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "3460593",
+      "Hash": "99851081620F43ADB3D0C2F965A85660"
+    }
+  },
+  {
+    "name": "ZONE_7_3",
+    "bytes": 15508617,
+    "sha256": "b6e568d93a4285e9142216c759d6a5e0f822eb197dbfdf550fd4d82aef94b8c4",
+    "catalog": {
+      "Name": "ZONE_7_3",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_7_3_17-08-55_20_12_2024_7ccb51424b8b818af3b7fc9d8e2f3654_2691393839_android",
+      "MinVersion": "2.40.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "15508617",
+      "Hash": "AFCC5443B226BF532843DB9C150A58B3"
+    }
+  },
+  {
+    "name": "ZONE_IM",
+    "bytes": 4476476,
+    "sha256": "ffbf326f3d93483ac7b9860587db51910510365e94fb07e16e1c7f3695b64c48",
+    "catalog": {
+      "Name": "ZONE_IM",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_im_14-13-37_22_10_2024_68d671f3c4c5c60024952772056cda16_3698917337_android",
+      "MinVersion": "2.38.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "4476476",
+      "Hash": "E43C527C303418BA70171B28B209AFD3"
+    }
+  },
+  {
+    "name": "TACTICS",
+    "bytes": 63583196,
+    "sha256": "29a50133b75e94731525cd9e837f71e511092821a597b14f84a4e003d501bba9",
+    "catalog": {
+      "Name": "TACTICS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/tactics_12-13-10_31_01_2024_739c29456b8837614bd1829d43c0bb55_2822293039_android",
+      "MinVersion": "2.33.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "63583196",
+      "Hash": "D3B351201649B7049EECDD6F30490C98"
+    }
+  },
+  {
+    "name": "ASCENSION",
+    "bytes": 3817692,
+    "sha256": "f2dfc92b71b13fba2ec39b740b9857d9622d2ace01bfa32c333b1517db788dca",
+    "catalog": {
+      "Name": "ASCENSION",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ascension_19-34-46_26_03_2025_8ecd50730cdbeffdd2005ab2c588d10c_1023415720_android",
+      "MinVersion": "2.41.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "3817692",
+      "Hash": "CEDC8F6D1AEBAF95078B80AA5157307B"
+    }
+  },
+  {
+    "name": "ASIAN",
+    "bytes": 29980052,
+    "sha256": "b501343072f015e7f9105791830438ffea4aa847d7c60d29bd8f87baa939b35e",
+    "catalog": {
+      "Name": "ASIAN",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/asian_12-13-10_31_01_2024_5fa944f754bf43b70eca46e8bb9bc1e8_4015292876_android",
+      "MinVersion": "2.33.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "29980052",
+      "Hash": "B431D5E014CB5BB4BD2C303DB87B58B2"
+    }
+  },
+  {
+    "name": "AZTEC_24",
+    "bytes": 3541659,
+    "sha256": "3da8fcb73748c287e060eb53a9de20519df510e5ac88302416483481f6bd3d06",
+    "catalog": {
+      "Name": "AZTEC_24",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/aztec_24_15-38-51_07_02_2025_1d0222deb887ca0d6a4c5c91302a5a34_206887614_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "3541659",
+      "Hash": "85B62F7F7BA0E5946022124EA31EE44E"
+    }
+  },
+  {
+    "name": "CLANS",
+    "bytes": 72076851,
+    "sha256": "8453dd478ae5195ca9858dc2fcc9a3aab8fcada50504865b57d93764b8e2d6fd",
+    "catalog": {
+      "Name": "CLANS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/clans_18-24-12_28_09_2026_fc1c47555287f42f79c47b566c39d318_3884215909_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "72076851",
+      "Hash": "57BF185A9E8B218FB61589A898910210"
+    }
+  },
+  {
+    "name": "EVENTS/EVENTS_COMMON",
+    "bytes": 185974,
+    "sha256": "3f398ee5879fdefc8929ab2ac66568e2ad758493adcabc0450b174b1fbdd842a",
+    "catalog": {
+      "Name": "EVENTS/EVENTS_COMMON",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/events_common_17-10-53_11_02_2026_2748057eb90915eb18c988f5ac962a66_1503175109_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "185974",
+      "Hash": "F91723DB6DB52439C3A1B96ACC45A26C"
+    }
+  },
+  {
+    "name": "EVENTS/MA_FEST_26",
+    "bytes": 14193197,
+    "sha256": "88bad56e7e59a9e28e3f75d257ba438dcd2b36b206e6b88b6147d0109d439c6f",
+    "catalog": {
+      "Name": "EVENTS/MA_FEST_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ma_fest_26_18-31-06_21_09_2026_93dfc29dd33930ad2b77a53a9e06bc48_2966803602_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "14193197",
+      "Hash": "8D30FF50FD7BFB32522FFAA5F7ED5975"
+    }
+  },
+  {
+    "name": "EVENTS/RITUAL",
+    "bytes": 966935,
+    "sha256": "abe189e7bc3b561c0d0915c1b62dcec41940bd8e1436dbef7c3ec3d605afbd27",
+    "catalog": {
+      "Name": "EVENTS/RITUAL",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_17-56-56_01_04_2025_0ee8377463125135a96a5fa11290b389_2547637779_android",
+      "MinVersion": "2.41.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "966935",
+      "Hash": "3F36AD50FB4C643885717AA7B81CDAB4"
+    }
+  },
+  {
+    "name": "EVENTS/RITUAL_FUNGUS",
+    "bytes": 692679,
+    "sha256": "73c327d7f9ab5d33ba78e60653cb05e146bdd786183aa7cf15a6027c9cf0ee21",
+    "catalog": {
+      "Name": "EVENTS/RITUAL_FUNGUS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_fungus_19-08-17_03_08_2026_d9ed35e67cc3b60f751dc1556bf95aef_224056094_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "692679",
+      "Hash": "1AA26E88FDC3C5E932F4CE19036C6E49"
+    }
+  },
+  {
+    "name": "EVENTS/RITUAL_HUNGER",
+    "bytes": 944012,
+    "sha256": "3ee5b18a31f7e29ac4e9666deac685492c4dcb46e144a565ac76a12270458a26",
+    "catalog": {
+      "Name": "EVENTS/RITUAL_HUNGER",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_hunger_19-08-17_03_08_2026_a65656df5ad8928970d50785043403cb_3965070494_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "944012",
+      "Hash": "C72392366684048A195CC8B97D5CD4ED"
+    }
+  },
+  {
+    "name": "EVENTS/RITUAL_VULCAN",
+    "bytes": 670441,
+    "sha256": "f590c99489b454f533c49409c53298e06f5c99c9a07388e9efe4a0bbfe04bb5d",
+    "catalog": {
+      "Name": "EVENTS/RITUAL_VULCAN",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_14-22-21_12_05_2026_ac562de19266561c119a0ef239971f3a_1285817608_android",
+      "MinVersion": "2.43.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "670441",
+      "Hash": "47331261E2D89767B0DB98AAF8CABBA4"
+    }
+  },
+  {
+    "name": "EVENTS/SUMMER_FEST_25",
+    "bytes": 6824527,
+    "sha256": "d219571b6745beec1c73eb0b0d29152b852f7f70652a570473bab5868f5bb286",
+    "catalog": {
+      "Name": "EVENTS/SUMMER_FEST_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_19-10-02_17_07_2026_9c290415ea64fdce191013a1bb54bdcd_1611062506_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "6824527",
+      "Hash": "A1A9478898EA0097F4C3D13746AC3917"
+    }
+  },
+  {
+    "name": "EVENTS/SUMMER_FEST_26",
+    "bytes": 1261294,
+    "sha256": "be2a21f46f8f67f627a9ed01aa5639221e9816489bce2e041e46b315dd9fa20a",
+    "catalog": {
+      "Name": "EVENTS/SUMMER_FEST_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_26_16-46-54_12_08_2026_a56479517bdde6e5da1d0548955ffa18_572379351_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1261294",
+      "Hash": "E3394F0F903A5472E6B4CB8CF1406731"
+    }
+  },
+  {
+    "name": "EVENTS/SUMMER_FEST_CHEST",
+    "bytes": 1111079,
+    "sha256": "7307b4be300bd55cd2126f3cde72792886fd8ca60d581edb5b40e804c4821ff9",
+    "catalog": {
+      "Name": "EVENTS/SUMMER_FEST_CHEST",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_chest_19-10-02_17_07_2026_bb5aa97b0a34fa563aced94bab3e3334_2667784451_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "1111079",
+      "Hash": "3E7CA2A435A9AB4490398FF24AE92840"
+    }
+  },
+  {
+    "name": "EVENT_HW_24",
+    "bytes": 2736351,
+    "sha256": "40551ab3698bbb91f1de42cdc45069fa61b28988b825d8dd01834d71a17d6dbc",
+    "catalog": {
+      "Name": "EVENT_HW_24",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_hw_24_15-38-51_07_02_2025_1a298b3917e8e41e609fce45c8329111_2115472028_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "2736351",
+      "Hash": "E6E1CDE50527A89295877E089FD48F7B"
+    }
+  },
+  {
+    "name": "FOREST_DEMON_25",
+    "bytes": 4448696,
+    "sha256": "a8f6855a908f2e69c506d5b7a5157f9591aaf282fa838f75cadc5b79eba216a4",
+    "catalog": {
+      "Name": "FOREST_DEMON_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/forest_demon_25_15-38-51_07_02_2025_33447ff4c8a834e2fe2a3e81f9bb8004_971529203_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "4448696",
+      "Hash": "105BFCAEDF4460176357C81366A46916"
+    }
+  },
+  {
+    "name": "FUNGUS_SET",
+    "bytes": 7418077,
+    "sha256": "07dae4bf293861e2f2edab6fd2d41a521888403455cd827173b41d2ff80d23f3",
+    "catalog": {
+      "Name": "FUNGUS_SET",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/fungus_set_15-38-51_07_02_2025_c864d5097afdf64a5539475a7d800ec0_2626236711_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "7418077",
+      "Hash": "99676CED0EDAB3DDFAD021C0BBC14D25"
+    }
+  },
+  {
+    "name": "NEW_YEAR_25",
+    "bytes": 2627880,
+    "sha256": "3de043bfd7ca59e566364acb8d898c6339efb7d5b46169a174d52ee66607a2c1",
+    "catalog": {
+      "Name": "NEW_YEAR_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/new_year_25_20-49-07_21_02_2025_46f3aee5c39fc236da2579a13c15b9a1_3384513758_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "2627880",
+      "Hash": "F8DF6F23EA3FC18CA4F87218813DF22C"
+    }
+  },
+  {
+    "name": "OFFERS/AGNISSEAL_OFFER",
+    "bytes": 516262,
+    "sha256": "e07b8972b11f04f5b521ec147d26ffafa213219f83aeeb8b3566480c9ff05fac",
+    "catalog": {
+      "Name": "OFFERS/AGNISSEAL_OFFER",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/agnisseal_offer_19-15-50_15_04_2025_dc3dc4b821401c4efea1b12ea16a3ec5_439968587_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "516262",
+      "Hash": "36487FACD6724620FFCF32C53C3600D9"
+    }
+  },
+  {
+    "name": "OFFERS/EVENT_FALL_24",
+    "bytes": 1979843,
+    "sha256": "567fea119a9c597c545ea3bfeb66e499f9d69a375961a225d3b9d23345c36a1c",
+    "catalog": {
+      "Name": "OFFERS/EVENT_FALL_24",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_24_14-14-43_31_08_2026_76ce4e768af6f53f61c958e844eb722a_140821237_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1979843",
+      "Hash": "19317F0244814B3F12F01E113B02CCC1"
+    }
+  },
+  {
+    "name": "OFFERS/EVENT_FALL_26",
+    "bytes": 277463,
+    "sha256": "ffadc03c3aefb93cc1d59eb84aa403823a6c94bf1527c0dbb11d1dd1fa017236",
+    "catalog": {
+      "Name": "OFFERS/EVENT_FALL_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_26_14-21-33_03_09_2026_3bf00980cf5c213c09ae4201dc983f92_350498584_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "277463",
+      "Hash": "88AB4F35DA52D8525199F890F2CD2FC8"
+    }
+  },
+  {
+    "name": "OFFERS/GIFT_12_YEARS_SF2_NAGINATA",
+    "bytes": 94268,
+    "sha256": "b714e9306f6a5ba82f1f9998487e2f54d0fa194255d43f7be314dfa394c10a74",
+    "catalog": {
+      "Name": "OFFERS/GIFT_12_YEARS_SF2_NAGINATA",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/gift_12_years_sf2_naginata_19-26-34_19_09_2025_0b201bfe04fc8fddb5be25f402cb66f7_2899902780_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "94268",
+      "Hash": "3CB9C3CB95C3B6D8010AB83F2F20C6CF"
+    }
+  },
+  {
+    "name": "OFFERS/MA_FEST_26_ITEMS",
+    "bytes": 5532762,
+    "sha256": "08e0b8f73510a6e74565680257182cb64d0a09fe390b45d954ffc5a188254267",
+    "catalog": {
+      "Name": "OFFERS/MA_FEST_26_ITEMS",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ma_fest_26_items_19-59-43_18_09_2026_ba161f1d6c17e6e0499b26980f82a289_1119054540_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "5532762",
+      "Hash": "6558C6D26D7F5BE59E5723FF3E00E7D3"
+    }
+  },
+  {
+    "name": "OFFERS/SUMMER_FEST_25",
+    "bytes": 2158282,
+    "sha256": "7f8c1146e8f69aa9415996d3bfa54c605368c672b89aaec7be6445cad41c31ce",
+    "catalog": {
+      "Name": "OFFERS/SUMMER_FEST_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_01-40-59_31_07_2025_dcc816439e6629096c557c60c9afb529_3205916454_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "2158282",
+      "Hash": "D636BDA95FD5B2EC5C697C1813393305"
+    }
+  },
+  {
+    "name": "OFFERS/SUMMER_FEST_26",
+    "bytes": 534578,
+    "sha256": "cac6bc96ae326e73da6f9af192cddb551cf3a08f08cdf8c192d94cc7bffbb5b3",
+    "catalog": {
+      "Name": "OFFERS/SUMMER_FEST_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_26_14-02-12_17_07_2026_ebb4776a4829a03f03da6355a7d15c04_1499454248_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "534578",
+      "Hash": "3B877AD155D863F0C8B0AE0C3ED22669"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLYOFFER12",
+    "bytes": 299181,
+    "sha256": "ab000cb8a1a74c5ee08610b24938d05ec2aed2f5142d86fd5493a5baa6ae2812",
+    "catalog": {
+      "Name": "OFFERS/WEEKLYOFFER12",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weeklyoffer12_19-23-15_28_02_2025_fb041148aedab3852cd347213282458c_722899742_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "299181",
+      "Hash": "58EF72B5F727C056CD11555D836BD705"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_13",
+    "bytes": 501673,
+    "sha256": "fbba84f665a0f3455bdd73f6e155f229d4745beb0b350e604b7ad26adc598119",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_13",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_13_19-30-44_17_02_2025_8f3375f15e27137f46a5d7c3a8aad8f8_1767788240_android",
+      "MinVersion": "2.40.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "501673",
+      "Hash": "6221A2D7866CE05F7F18239F73AEB425"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_14",
+    "bytes": 554472,
+    "sha256": "6ad387af5e78be99a6b4b97cfef5e6e58ae5ee9955888480125a94c3d200c5dd",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_14",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_14_18-32-21_21_02_2025_5e4034b73d473f26742b67cbec19a2d9_1821469640_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "554472",
+      "Hash": "E69597CBAE4CA7FD73D45A591E6B96B9"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_15",
+    "bytes": 952762,
+    "sha256": "9a35d5cd34f605d6e24a0162d3aeb7962e260857a8fb2178b35846931e1da66a",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_15",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_15_16-07-36_28_02_2025_d55c0726a2bf920775693ae440451a6c_1162850311_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "952762",
+      "Hash": "D621DCA00E4716AB1203930C12BB71F0"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_16",
+    "bytes": 1300714,
+    "sha256": "73fa3fb65cbacdcf3801d7b252ad02804a565a51de8d96fd4730890632213066",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_16",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_16_18-45-43_06_03_2025_ab1231f42767d77212ba404865f818d7_759874759_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1300714",
+      "Hash": "2430FA20C208635BD69C352AA939C6A1"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_17",
+    "bytes": 505405,
+    "sha256": "d2f3d3a986fa36ec8763a16f9aa6c2845cf29cdf9f0b62fbe320ec1c66f5e99c",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_17",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_17_14-35-54_14_03_2025_511877eb7f25b0527aea50603bd7282c_344669743_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "505405",
+      "Hash": "63FC3AFF6A971EF48DDB8477B37D885B"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_18",
+    "bytes": 595632,
+    "sha256": "66f0ff2ee193827cd9f4caed3ebd9e0184b5a5b5b20f9af1959e5b41d95a6154",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_18",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_18_18-17-19_21_03_2025_1597a88b01631c454788f6d8379bce42_807894845_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "595632",
+      "Hash": "3EDEBB192810D8C23C7E492DA5BA2936"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_19",
+    "bytes": 1021687,
+    "sha256": "2305e6195a3d272e296f5ed1819512519f420fdbafc9a364b9952de5731ccc67",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_19",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_19_14-05-38_27_03_2025_9308c9ed225cca4e8f4515d1cf9adba9_3318561865_android",
+      "MinVersion": "2.41.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1021687",
+      "Hash": "9802A4432DA0993C17CF2F3B72E4227D"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_20_FUTURIST_MAGIC",
+    "bytes": 1173307,
+    "sha256": "6ae79d82e08f10d7db930242f9155ee33be805ae8336c03f50ce4202f6c8235c",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_20_FUTURIST_MAGIC",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_20_futurist_magic_19-36-12_27_03_2025_60adf0ef1ecde522d427600f5f0df3a4_1771268139_android",
+      "MinVersion": "2.41.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "1173307",
+      "Hash": "8EA58D98F76C8482619CE96746806740"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_21",
+    "bytes": 234113,
+    "sha256": "55ab56e7f3bf5d4771248a5b0a8b4dcb34bee82efd8e52434c640dd1ca3db527",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_21",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_21_19-34-46_26_03_2025_98a34643f563d558c9813b73ac73871a_3919438286_android",
+      "MinVersion": "2.41.5",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "234113",
+      "Hash": "82AB87AFF10039FA05BCC87C59C30EBD"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_22_GLAIVE_GOD_EATER",
+    "bytes": 364031,
+    "sha256": "dfb139df809d37e75bd34721783d28ad5db3587231240fd3fddb6a0a50ef359a",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_22_GLAIVE_GOD_EATER",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_22_glaive_god_eater_15-57-54_21_04_2025_81b561a87245fa59c25c14d0f4ffc4b7_2012754823_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "364031",
+      "Hash": "94F2757620030F2CB2B8D5D170408D79"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_23_PINK_ENERGYBALL_MAGIC",
+    "bytes": 3019846,
+    "sha256": "fb2771d20470757f0946b9846b89cb7552a0ea28e9de678f266245457380d745",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_23_PINK_ENERGYBALL_MAGIC",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_23_pink_energyball_magic_11-23-10_24_04_2025_44ca5dcf42e47f8acd0571b2cbe3d25b_775601512_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "3019846",
+      "Hash": "40515B164633388A3A5BA148C4821B35"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_24_EGYPT_ARMOR",
+    "bytes": 538621,
+    "sha256": "89efd133278b1d831e553a52eb4c4092ae6dd837d1b19414f8f24b9ad7792ffd",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_24_EGYPT_ARMOR",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_24_egypt_armor_11-23-10_24_04_2025_6b57b09d9261fa364239c8960f3c7a54_16908111_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "538621",
+      "Hash": "C256839E32C0C16A4A4C7C1228FE9314"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON",
+    "bytes": 339104,
+    "sha256": "4f5b69869d527fb3b9a01ab2f95b114a273c9daa88ecffd8d9a0f6fca29283f1",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_25_ritual_katana_weapon_11-23-10_24_04_2025_cd7df05632a78c917ee481ccbba6ae93_4174819877_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "339104",
+      "Hash": "8D45761DE8E30592D2C796213C92A524"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE",
+    "bytes": 1637029,
+    "sha256": "f53e1d847d4ef21b40a2779a1473ba2e291006789a54c32211bd47c22839fe3c",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_26_ranged_roguesfortune_14-16-33_15_05_2025_7ae9284db37ff6f3d29a2a2bbf624faa_2669276236_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1637029",
+      "Hash": "B9EFF297A5DDEFEC7C1F198334CE2D2C"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC",
+    "bytes": 1275770,
+    "sha256": "5e231f9513e6b1c2537b1951fde5909b901c97279ebb86d5f552b8635cad49c1",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_27_nunchaku_danceofstatic_14-16-33_15_05_2025_4be7059065afda6e9f78af3e1906a2dc_2784977940_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1275770",
+      "Hash": "9AFB2B7EEB44DFD80111ABF015A284B6"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID",
+    "bytes": 1036259,
+    "sha256": "26887efe7c76a53b470d47819ae59d5e3950798f7ee65dd53ed996380d112165",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_28_magic_gazeofthevoid_14-16-33_15_05_2025_a9f94d35535dd44a7c5b8037e276cdef_2513756712_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "1036259",
+      "Hash": "5B0B810221F4563CAD5752D51E35D02A"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER",
+    "bytes": 62980,
+    "sha256": "ffc326458c24e6e70d4cf5f30780444b8b4affacb8886e605996a18e131158dd",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_29_ranged_needles_nemesis_stinger_16-37-26_06_06_2025_86033455b613ac532787a4d90aef617c_4266680477_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "62980",
+      "Hash": "0673C9F136A4D2907F7414EBCE03400C"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON",
+    "bytes": 418519,
+    "sha256": "96bdfc34816d24615217e71255cf3668908c0d6c542a21ed93133e71fae2d109",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_30_weapon_kusarigama_silent_moon_16-37-26_06_06_2025_f30a3c82bfa6b4146ab8407239931e81_1789774547_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "418519",
+      "Hash": "3D20E6D9C8D347370172EF51C78BC279"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION",
+    "bytes": 3552016,
+    "sha256": "0d5d57d2f7330ffb26d85d2217e28e80ced06b728bde98ca12815993c0488aa9",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_31_magic_bomb_seed_of_creation_16-37-26_06_06_2025_9b92e6136403a39b759054c468d7ffe5_1309694232_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "3552016",
+      "Hash": "4FCBC63F29C4A6EF635DF8064CBA5D02"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25",
+    "bytes": 1379404,
+    "sha256": "59d4467383eafdb8c8ad6d29d30388344887173a7d4af13b2e6d7d8e6f65dac1",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_32_weapon_orders_oath_25_12-29-55_27_06_2025_72d54da7e0ec14a97cea1b112cf3559f_1938299973_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1379404",
+      "Hash": "88C4907E42808295CC9935FFD8EE03E9"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25",
+    "bytes": 731460,
+    "sha256": "fc30ff10aaeb7f08cb725aa63a5ecdadd737993796b1fbb10c05d81cb15464a1",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_33_helm_veil_of_dawn_25_12-29-55_27_06_2025_b6188abd50947bc091b105049b26fbd4_2222518251_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "731460",
+      "Hash": "7B19018037E2052116889917AF60A121"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25",
+    "bytes": 330585,
+    "sha256": "7846a17d7d0337561f15c1ebdeadb483dc139a651e59ec5486321e8b45815968",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_34_ranged_winds_harmony_25_12-29-55_27_06_2025_4b540e86b62fd684e020d467074e877f_1322534952_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "330585",
+      "Hash": "35B5ACD88D3ADDC946578669FF814E73"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25",
+    "bytes": 800039,
+    "sha256": "27c47673d8cca486c13f9615f233d8fce98907fab9c4416fce968eeb281ec29c",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_35_weapon_seers_staff_25_17-26-21_16_07_2025_072e5b67ed3790f760bb65c6fa0154e3_4846627_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "800039",
+      "Hash": "D26A19B60A76076CFD4CFF39115F27BF"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25",
+    "bytes": 1511423,
+    "sha256": "950deab5c01cb398865fbd75aa8e983495b55a5d79de168ee63fb4bd6a24f3bc",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_36_magic_song_of_the_tide_25_17-26-21_16_07_2025_dca4f77fc2872f777e3b5b720be6967f_4294281274_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "1511423",
+      "Hash": "5C96B51EC506FB9951F44F952903430D"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25",
+    "bytes": 420412,
+    "sha256": "1c95587c22e57edc01d5d968ffc5c11050bdb41b2f7446bf9730e6a0d2c5432b",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_37_ranged_path_of_heresy_25_17-26-21_16_07_2025_044b4a371a7ed8dd7a914b6735b9f950_1738770413_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "420412",
+      "Hash": "39F63DBB94EAD0B631A95A393727A474"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25",
+    "bytes": 1809705,
+    "sha256": "35f0dda0e244a7e61b2a44c961f255afc0c9d201d60ed689a2508c507314a5e3",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_38_sparks_of_prometheus_25_16-50-49_11_09_2025_cdbb3c67f20c4b4fb6f28b40d4a03c05_2623933059_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1809705",
+      "Hash": "C86CE95909C5BC5F06645EBE1643F274"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25",
+    "bytes": 815009,
+    "sha256": "3ad257e40d8bb77ea7c2f393fb2bdf7a38b7d500501e32de112464be2255ccdc",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-25-16_14_10_2025_99f0d0fca130b3995da086503dd3ac9e_3591599707_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "815009",
+      "Hash": "E45AE3434ADA53A2138C46D251591AD4"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_40_OLD_KING_25",
+    "bytes": 295662,
+    "sha256": "56ff5cefaaf52a5cbe70964c1f70a5afeedf3b9cdce3a92e4de0083a0c85acae",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_40_OLD_KING_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-49-25_28_10_2025_8b52a959b8f59b63ae7acd9415b9c8f8_3850632555_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "295662",
+      "Hash": "4A0FD5880882EB13A5DC90234B67DD5D"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25",
+    "bytes": 45289,
+    "sha256": "934fcc4ed2aa9c49da20320047309da42ae0f9e04d1e57576fc348f3a5815bf2",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-38-15_19_12_2025_59236c65de082613abbb318fd79cff10_1307009940_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "45289",
+      "Hash": "BE2FD6C66AA02014170798AC453B3E02"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26",
+    "bytes": 423187,
+    "sha256": "37b93e3030864849379bab1b17a296d2ac6bc251e1ed91136d0c83685dd01b14",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_42_claw_of_wisdom_26_16-44-43_19_02_2026_d7fa99ef264c5d179d3c2b4d58ac0c43_2009624011_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "423187",
+      "Hash": "06C06DE84BD22B32E27D69867E296577"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26",
+    "bytes": 3454882,
+    "sha256": "e5b3c5f5c024533fed407bcf86cebfde397af22f6390dbe99c4c89c97cf6c6dd",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_43_gentle_storm_26_11-54-09_07_04_2026_f712a8482b56f33e1771d5d5377cce87_2213828341_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "3454882",
+      "Hash": "95A0E1871AE06A13FE7E2E6D71B60DDD"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26",
+    "bytes": 412612,
+    "sha256": "394704d40f11b93bbb06dcda27afef03111d124c2d77b719cb6725a0cd07ff07",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_44_blades_of_faith_26_11-54-09_07_04_2026_4ee46d0d5281e11185b29ac123d254b5_3649318821_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "412612",
+      "Hash": "C8D96069CE58132F45652C5AAD012329"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26",
+    "bytes": 1073671,
+    "sha256": "dd4c8054b16cf553e2738a5694125c9e460ccbf6716c9008153e639f45837ad0",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_45_crown_of_despair_26_11-54-09_07_04_2026_6c8ae40a1887e68f09540882b2d2ee08_4185790072_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "1073671",
+      "Hash": "2F1D03F123B48A5DF40B0D26151A05F5"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26",
+    "bytes": 795595,
+    "sha256": "b1c74f5d0e494bcf3721023b64810b1b44d773996944cd801c9ab99616cab507",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_46_depth_of_holiness_26_11-54-09_07_04_2026_f1a5f2eb51e98176277e69e2285ee0f3_82912196_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "795595",
+      "Hash": "09EF6EFA952A48CE2D28F01795BA49FF"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26",
+    "bytes": 228459,
+    "sha256": "bde6880880de5619a7bc15054a3b43cc5ee6acb0ffec8706ef436f82334f447f",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_47_heart_of_lily_26_11-54-09_07_04_2026_663182b61c8ad0326366fbd16da10b28_3204503125_android",
+      "MinVersion": "2.41.8",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "228459",
+      "Hash": "2D9D624F25EF5095BB7A9E2BF95043AD"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26",
+    "bytes": 345778,
+    "sha256": "bfb829b47e413237a68905fb3d263bbd40580988a197bf6cac5b58cc51cc4c72",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_48_diesel_scream_26_18-53-09_18_06_2026_7e846468da7518fce7594e68a24f4016_4160298604_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "345778",
+      "Hash": "D6D83CA9605F795710444CDA6E938849"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26",
+    "bytes": 348469,
+    "sha256": "afc4f1b96f283e10c86c1f92f8d1eaaf4ba08f9ae19f9ab7a2694a5f45e97f06",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_49_jasper_sunset_26_18-53-09_18_06_2026_ff3e92d7048768d22fbda0468e2e1488_4173323671_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "348469",
+      "Hash": "FC47E421B2B500BD7848D760456D0C91"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26",
+    "bytes": 830905,
+    "sha256": "6c37ac8870cc4a4ac95f7586b5effe8a986d8d00b8cc603159345951f49e04f8",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_50_dragons_gift_26_18-53-09_18_06_2026_ddb0a9c50aea213a7e10a77bf09a6846_1166217730_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "830905",
+      "Hash": "4382E66E78DA8AC16B4F3AF15638B3C2"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26",
+    "bytes": 617832,
+    "sha256": "19ef099f0269fb1e12e2bad230abb4b7448614f3980b79a1c38da468a60e3ff0",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_51_barrier_reef_26_18-53-09_18_06_2026_6f66f6113eda1c040dd5e0964e34389e_2658812670_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "617832",
+      "Hash": "3FAD03D9CCE826A553070999EE3DDD1F"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26",
+    "bytes": 199155,
+    "sha256": "1ce07e7c9153037c8c663554f8c8a80df947b7476ae968eae8daebf26ec55bdf",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_52_valor_and_discipline_26_18-53-09_18_06_2026_c46042f75342f5171624fc8945493dec_1559662602_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "199155",
+      "Hash": "7FA5335C1818C4EEEC603ACC7330D5FF"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26",
+    "bytes": 635405,
+    "sha256": "16c13c7874a53ce3a08377a82c7f4a31e8fe97ae76d9b838346a572617592934",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_53_giants_wrath_26_18-53-09_18_06_2026_23cc4ab4eb28a66f43ed879aef98cbbe_910935642_android",
+      "MinVersion": "2.44.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "635405",
+      "Hash": "79B5476CBEA4D05CB9F7003D7591513F"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26",
+    "bytes": 3929289,
+    "sha256": "15a749cadb9d9ee2f6f8aefb11a9309a1575c30c3fe3800ea338056d57e9390c",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_54_song_of_inevitability_26_14-04-12_09_09_2026_10a829add66e4cc4b56cd76b47fd9713_146838778_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "3929289",
+      "Hash": "1D9B2102AAA34D5C98FBEF464AEC6E08"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26",
+    "bytes": 723859,
+    "sha256": "7b84db0454f921802794eb930b103f8848126c643b885d5493a2f9f591ea1452",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_55_shadow_dj_26_15-40-49_02_09_2026_0d8539e2623b6ce74cd82b5735b08a05_1445852452_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "723859",
+      "Hash": "0D5DD510852060FDD400A082342A235B"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26",
+    "bytes": 381636,
+    "sha256": "8874c23ac0b07c35ee1a3b5ec214a0097340b02d94787be9d439010b4b3b8317",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_56_dance_of_dragons_26_15-40-49_02_09_2026_3af86e036cdcc9746900c7d8ae1a7041_2276384886_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "381636",
+      "Hash": "A7F5BA409E99F783675FB0CA8EDDFE6E"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26",
+    "bytes": 842897,
+    "sha256": "c1c6f11c1cc6ba560d1c12686ca2caeaa5e1e06e93895146f3a83fb727f090e0",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_57_dark_fugue_26_15-40-49_02_09_2026_12fc4b9500d9f4f6485cc7a01dd9d5cd_317818739_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "842897",
+      "Hash": "0B5B609E7DEFD45F89BA6D5924DE9F3B"
+    }
+  },
+  {
+    "name": "OFFERS/WEEKLY_OFFER_58_STACCATO_26",
+    "bytes": 7448654,
+    "sha256": "ea293f272c3990c6829c4f22a30e08634ad468958796d3d93afbb7201681e7c8",
+    "catalog": {
+      "Name": "OFFERS/WEEKLY_OFFER_58_STACCATO_26",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_58_staccato_26_15-40-49_02_09_2026_6323f289217e91c590ccaa66fe64d420_1065848721_android",
+      "MinVersion": "2.46.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "0",
+      "Size": "7448654",
+      "Hash": "5031C7A04E7D82CBFEE81C1E8FDC33AD"
+    }
+  },
+  {
+    "name": "SETS/KARCER_SET",
+    "bytes": 7287418,
+    "sha256": "b2320935b5c6b2304d497e08ee96ce14381630c7d2852e506bbc31bca2a31d7b",
+    "catalog": {
+      "Name": "SETS/KARCER_SET",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/karcer_set_20-28-24_30_05_2025_373f9dc5ff42c1a0b5c4cff343ca2c29_859267731_android",
+      "MinVersion": "2.41.6",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "7287418",
+      "Hash": "E4FCED8B8D81F5715F3A18E5ECAC78F5"
+    }
+  },
+  {
+    "name": "VOLCANO_SET",
+    "bytes": 8202511,
+    "sha256": "eeee1a273dc0a58a8e90aaef89b8ff9721ce6ff4760a9bd55533342f1d4596dd",
+    "catalog": {
+      "Name": "VOLCANO_SET",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/volcano_set_15-38-51_07_02_2025_d95b9c7d45cf3a13b491dfb8c5f91575_397318556_android",
+      "MinVersion": "2.41.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "8202511",
+      "Hash": "1FD2D162205441AE06F4B87127C15D34"
+    }
+  },
+  {
+    "name": "ZONE_RAID",
+    "bytes": 103172685,
+    "sha256": "461492a1bda3bbc3b46072bb8e4a02c6cd0e49600c495bd896b9cd6e8837e4ea",
+    "catalog": {
+      "Name": "ZONE_RAID",
+      "Url": "https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_14-22-21_12_05_2026_19706deb603ed26a2bc25e8538b3e855_740907506_android",
+      "MinVersion": "2.43.0",
+      "PlatformID": "2,11",
+      "Attach": "1",
+      "Active": "0",
+      "Reload": "1",
+      "Size": "103172685",
+      "Hash": "AE4F96B71484EFDDF84760D94EC476F5"
+    }
+  }
+]

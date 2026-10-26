@@ -1,0 +1,230 @@
+{
+  "passed": 32,
+  "code_bytes": 256,
+  "cases": [
+    {
+      "name": "ZONE_1",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "OFFERS/WEEKLY_OFFER_13",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "NOT_BUNDLED",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": "",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": null,
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "../userdata/users.xml",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A\\B",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "\u4e2d",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "ZONE_1",
+      "base_length": 301,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "ZONE_1",
+      "base_length": 0,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "base_length": 300,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "Shadow_fight_ending.mp4",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "Shadow_fight_ending.mp4",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": "shadow_gate.mp4",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "shadow_gate.mp4",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": "OFFERS/clip.mp4",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "OFFERS/clip.mp4",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": "a.b.c",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "a.b.c",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": "folder.name/clip.mp4",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 1,
+      "access_called": true
+    },
+    {
+      "name": "folder.name/clip.mp4",
+      "base_length": 82,
+      "file_exists": false,
+      "result": 0,
+      "access_called": true
+    },
+    {
+      "name": ".",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "..",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": ".hidden",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A/./ZONE_1",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A/../ZONE_1",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A..B",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A.",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A./B",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    },
+    {
+      "name": "A/.hidden",
+      "base_length": 82,
+      "file_exists": true,
+      "result": 0,
+      "access_called": false
+    }
+  ]
+}

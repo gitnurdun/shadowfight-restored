@@ -1,0 +1,12 @@
+{
+  "apktool": {
+    "version": "3.0.3",
+    "sha256": "dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423",
+    "official_release": "https://github.com/iBotPeaches/Apktool/releases/tag/v3.0.3"
+  },
+  "jdk": "21",
+  "android_platform": 35,
+  "build_tools": "35.0.0",
+  "python": "3.13",
+  "source_apk_sha256": "4f1cecf66a154da43ee71bca509d351c7349be26a355d76276482d09ddc54375"
+}

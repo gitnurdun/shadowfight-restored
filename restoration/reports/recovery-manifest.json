@@ -1,0 +1,775 @@
+{
+  "algorithm": "AES-256-CBC / PKCS7 / Base64",
+  "counts": {
+    "not_base64": 330,
+    "xml": 78,
+    "txt": 7
+  },
+  "files": [
+    {
+      "source": "extracted/TextAsset/Achievements.bytes",
+      "output": "recovered/Achievements.xml",
+      "bytes": 42640,
+      "sha256": "f9b9f915295368452ac101e1a67174c34b4cc26a98f63db6009a1cd4141b312f",
+      "xml_root": "Achievements",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/BuildSettings.bytes",
+      "output": "recovered/BuildSettings.txt",
+      "bytes": 2979,
+      "sha256": "c7841dacfdf48493309a81ed13a85ac0015dd656086a81a135be581e101d1361",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/CdnMirrorsConfig.bytes",
+      "output": "recovered/CdnMirrorsConfig.txt",
+      "bytes": 361,
+      "sha256": "0b302e5d419158ce1a0d4a0755b6144612b75b067b4fdad5c468c3599b31997a",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/CharacterProgress.bytes",
+      "output": "recovered/CharacterProgress.xml",
+      "bytes": 38868,
+      "sha256": "b27eb8cf280fe68f735f81875b2399b2957d3fa92b3f2dad71c9ac0f76dfcf24",
+      "xml_root": "Progress",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/ComputerSettings.bytes",
+      "output": "recovered/ComputerSettings.xml",
+      "bytes": 6364,
+      "sha256": "bce0e3988a73e9bde70305fc1e0a39fb96ea59005826da277c69d42be81808d9",
+      "xml_root": "Settings",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/GooglePlayEmailScopeResolverConfig.bytes",
+      "output": "recovered/GooglePlayEmailScopeResolverConfig.txt",
+      "bytes": 119,
+      "sha256": "f52175d17cff9a27e667ec63d9b05c30848a4b29e7b70864b4356ad1263d54bd",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/GoogleUmpConsentConfig.bytes",
+      "output": "recovered/GoogleUmpConsentConfig.txt",
+      "bytes": 70,
+      "sha256": "f7091bdecc57c3afbdc65d73162995d0a01554505e9e4f8349f4bdfc55dd487a",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/LocalDaily.bytes",
+      "output": "recovered/LocalDaily.txt",
+      "bytes": 1108,
+      "sha256": "f15a335fbfe33b1f8a028a24a21e59da5609ef47aab74f1c4d1072fd9440ca6f",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/RBLoggerSettings.bytes",
+      "output": "recovered/RBLoggerSettings.xml",
+      "bytes": 351,
+      "sha256": "9c79d6ba1a87063cfda5b7fe76cdda898fc6cd6cbc99b3b0728066728ea089e4",
+      "xml_root": "Root",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/advertising.bytes",
+      "output": "recovered/advertising.xml",
+      "bytes": 10448,
+      "sha256": "69f385a5b616979fda8193713374366dd758b6e81214ca6b92e381cd763241db",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/ambrush.bytes",
+      "output": "recovered/ambrush.xml",
+      "bytes": 6224,
+      "sha256": "59c7f03c1653c708dc3627b114f23e460c884106c5e30b651bb9c13053ec4e49",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/battle_pass_base.bytes",
+      "output": "recovered/battle_pass_base.xml",
+      "bytes": 6607,
+      "sha256": "54e1f424144c646864a24661daf4b07fdc0cd8e6a0c595d818a081ae2484dc3a",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/battles.bytes",
+      "output": "recovered/battles.xml",
+      "bytes": 15108,
+      "sha256": "6789cdb196208ce581ca3cebb0be09185ad48f42933ebd4fffbf2b40c979b6d6",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/cashback_quests.bytes",
+      "output": "recovered/cashback_quests.xml",
+      "bytes": 5565,
+      "sha256": "be51ccda02c05fa420cd1423cc9b25d0f65c7c78ea0c09691f935caabee181a0",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/config_cdn.bytes",
+      "output": "recovered/config_cdn.xml",
+      "bytes": 507370,
+      "sha256": "91302565ed624d1de441e5703eb6ba81ca86d57754023328831b78fb6e5d99d1",
+      "xml_root": "data",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/console_aliases.bytes",
+      "output": "recovered/console_aliases.txt",
+      "bytes": 186,
+      "sha256": "b52a15a5848ec3455f4a7189ea931bb4281f92288db3dc0ade9f8429e6addbfc",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/core.bytes",
+      "output": "recovered/core.xml",
+      "bytes": 1009,
+      "sha256": "8a6f09802ba6adeed79b7c743027938c28201edcc6f1276f40099e06caf605a9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/core__07d459fde3a3a3d7.bytes",
+      "output": "recovered/core__07d459fde3a3a3d7.xml",
+      "bytes": 600,
+      "sha256": "e99d291002389173b1706167a9c209f8cb59a1997ccdf96644e9cbb8481f67e0",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/devices.bytes",
+      "output": "recovered/devices.xml",
+      "bytes": 11243,
+      "sha256": "e533c214eaf9d40805f4e3029c170dc43f39ab4ce46f2264fc4b7486061d067f",
+      "xml_root": "Root",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/dynamic_discounts.bytes",
+      "output": "recovered/dynamic_discounts.xml",
+      "bytes": 81882,
+      "sha256": "006323f5337a675315f0db5b5a54938535e9c78a9fd0643cb94b5beba9c13c4f",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/eclipse.bytes",
+      "output": "recovered/eclipse.xml",
+      "bytes": 15053,
+      "sha256": "5e301efec89e2a40e4f3fcda766bdb4586b66e6393cfc7ba5ac471344f522de9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/energy.bytes",
+      "output": "recovered/energy.xml",
+      "bytes": 5185,
+      "sha256": "4e990b3b3fc13df7fc1875bef3109ff99e7edd959b7af887d76514fa978b67a8",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/eng__852e604ab1b3add0.bytes",
+      "output": "recovered/eng__852e604ab1b3add0.xml",
+      "bytes": 2933,
+      "sha256": "428a4503e5ec26dac4f5e4622aaf006676e5ff785315b4eaf15af7fb56b19935",
+      "xml_root": "Credits",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/event_offers.bytes",
+      "output": "recovered/event_offers.xml",
+      "bytes": 16941,
+      "sha256": "bad7e23de70754944a5493d715ca7b5a46f2845f953424d79535965af5205752",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/f2p_quests.bytes",
+      "output": "recovered/f2p_quests.xml",
+      "bytes": 3079,
+      "sha256": "3120e2f67eca216f46c133010f6f9a0663ee0a3fceb32543fc5938f5c291864e",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/facebook.bytes",
+      "output": "recovered/facebook.xml",
+      "bytes": 6908,
+      "sha256": "c1d9c630e09a8387e001b21665cc526175b5331ba4896eb94ab61b104e7aecf9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/forge.bytes",
+      "output": "recovered/forge.xml",
+      "bytes": 94608,
+      "sha256": "e80e17008270cca3003450b2538eba262b536274b8d9720b9c76e526646a9336",
+      "xml_root": "Forge",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/forge_quests.bytes",
+      "output": "recovered/forge_quests.xml",
+      "bytes": 8512,
+      "sha256": "9311a0299d923df95720b6fabef68717efba6756f10d30400378d0ec46b61f73",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/gdpr.bytes",
+      "output": "recovered/gdpr.xml",
+      "bytes": 2691,
+      "sha256": "2df3f81828eab8069c6887ebdc2a8136b9b0a81f68b669d3478213bb381209e0",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/hardmode.bytes",
+      "output": "recovered/hardmode.xml",
+      "bytes": 2648,
+      "sha256": "3a89d8e8a81a86faa107ddd2ffa2f99fa9513d710561cb9572d70e072e14b6c9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/internalSettings.bytes",
+      "output": "recovered/internalSettings.xml",
+      "bytes": 35484,
+      "sha256": "c21e0a7fd9ed4c45a4524513409fb44e393b333e81697ebc2e6778a8f0c5e13f",
+      "xml_root": "Settings",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/item_restore_quests.bytes",
+      "output": "recovered/item_restore_quests.xml",
+      "bytes": 16611,
+      "sha256": "5150febc70333ee9bb32a92667cab3c198b7443a5a631ed5fc0914aa60bd3df9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/list.bytes",
+      "output": "recovered/list.xml",
+      "bytes": 768044,
+      "sha256": "309513cf2959a9305c5a7642e8e8289c199ccef56a6420fe70340851a90fbfe4",
+      "xml_root": "List",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/loaderScreenSettings.bytes",
+      "output": "recovered/loaderScreenSettings.txt",
+      "bytes": 774,
+      "sha256": "6bc29ef5de3c8e640f02bb15e81b9391198203078054ea872b8c8c2931a72b35",
+      "xml_root": null,
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/local_daily.bytes",
+      "output": "recovered/local_daily.xml",
+      "bytes": 705,
+      "sha256": "ed6a30209893a78f5d16219cf4847f3d001f71df3ecae59a6c8348bcfdfaffa6",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/localization.bytes",
+      "output": "recovered/localization.xml",
+      "bytes": 4429,
+      "sha256": "1a788fcc997a66eb20efea13508a70959f2814fc42065874774e85c91f26d045",
+      "xml_root": "Localization",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/login_notify.bytes",
+      "output": "recovered/login_notify.xml",
+      "bytes": 2877,
+      "sha256": "36ba74c8530475d968c7b3e9a1c19344a612525741a122d95c1bf8a4fc5e657c",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_body.bytes",
+      "output": "recovered/mdl_body.xml",
+      "bytes": 21248,
+      "sha256": "9762d4cf6c792d96824d7094aac97d844eea7a7d49932b345a9a863a4bd76d99",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_body_kenji.bytes",
+      "output": "recovered/mdl_body_kenji.xml",
+      "bytes": 25423,
+      "sha256": "56ea7a8854d6fbcd2db6d4f03863ee95d6a928ee05558f1b99afbe575b2826d7",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_body_shin.bytes",
+      "output": "recovered/mdl_body_shin.xml",
+      "bytes": 24981,
+      "sha256": "2c3a7e3f4b1604ec199276a07c84a73e2431185c47c6ef33e2ca1cd56c8202e2",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_head.bytes",
+      "output": "recovered/mdl_head.xml",
+      "bytes": 76319,
+      "sha256": "4200e4fe482929378b657972a6e61e4fbc08e7406c48d3e839c5c1c978d92f3b",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_head_kenji.bytes",
+      "output": "recovered/mdl_head_kenji.xml",
+      "bytes": 126197,
+      "sha256": "b53b021c2e412747b3c9a8fa717b0c20d066a3536539a137a3f559a9472df54a",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_helm_green_mask.bytes",
+      "output": "recovered/mdl_helm_green_mask.xml",
+      "bytes": 80905,
+      "sha256": "8847d7915194505047d71a03777df5da6a0d445b97dd8d172c09bfc93061aa4b",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_punch_bag_anniversity.bytes",
+      "output": "recovered/mdl_punch_bag_anniversity.xml",
+      "bytes": 302762,
+      "sha256": "068837dc72918c68c1b9a31c78eb72412c98c06eada19328273264c73e10889e",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_punch_bag_anniversity_skelet.bytes",
+      "output": "recovered/mdl_punch_bag_anniversity_skelet.xml",
+      "bytes": 16322,
+      "sha256": "868348311223e46aad1b696652492f87543d6985dee1cc058a8ec4adf8cfcb32",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_punching_bag.bytes",
+      "output": "recovered/mdl_punching_bag.xml",
+      "bytes": 1153,
+      "sha256": "75e3ff726145b9b7ef7a10e1488e3fe49a8cb537271b63076ee0845c6d4a1049",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_ranged_hw15_skull.bytes",
+      "output": "recovered/mdl_ranged_hw15_skull.xml",
+      "bytes": 63107,
+      "sha256": "ef55f19156752eba0bf4ae71a3d6e396a7e062d7d002ad00eceb8776d3fbf654",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_skeleton.bytes",
+      "output": "recovered/mdl_skeleton.xml",
+      "bytes": 51214,
+      "sha256": "c8e77fd9b5d3808b1c730d2f9d65e49c40470e5bbcf1af8f745d6c30a88e78fc",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_skeleton_heavy.bytes",
+      "output": "recovered/mdl_skeleton_heavy.xml",
+      "bytes": 51024,
+      "sha256": "81f595f6f9d82357812e605225c31f42a490609d9de9b06f479f996ef7e1667b",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_skeleton_missile.bytes",
+      "output": "recovered/mdl_skeleton_missile.xml",
+      "bytes": 2051,
+      "sha256": "0c1ee6674b041a2ad3ab1a9e12dda16e17cf12af4ee4c5491639fcb2ea624f06",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_skeleton_punching_bag.bytes",
+      "output": "recovered/mdl_skeleton_punching_bag.xml",
+      "bytes": 6072,
+      "sha256": "20ba7c20a952212c82b1b48b8fd06b5fcc3fe3bc2d6b6b2416cc2f7e6542667d",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_weapon_knives.bytes",
+      "output": "recovered/mdl_weapon_knives.xml",
+      "bytes": 14361,
+      "sha256": "57962b04f2f627d95d7b760b34dd7c88a6229c8d6ff4a55fda7db252c32a9bca",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/mdl_weapon_kunai.bytes",
+      "output": "recovered/mdl_weapon_kunai.xml",
+      "bytes": 45574,
+      "sha256": "958d11424fc1120dc2bf20024ddb13b52734723a2d4568811cfb0d47a1581290",
+      "xml_root": "Scene",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/moves.bytes",
+      "output": "recovered/moves.xml",
+      "bytes": 2083129,
+      "sha256": "56b198c823f58e1af64ff1650d534514809f2f4ed5bc726e7b991c6926e33582",
+      "xml_root": "Movesxml",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/offers.bytes",
+      "output": "recovered/offers.xml",
+      "bytes": 9334,
+      "sha256": "3aa7738cf7e4ee17f20fc9f62e18182b9e1ffd6e1d04286ca240b5b3742739dc",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/offers_quests.bytes",
+      "output": "recovered/offers_quests.xml",
+      "bytes": 7427,
+      "sha256": "6137c3770e8af14e0d26ec93783fc4cfe437fe1f71dcacae2e4f1a9d59b2f37a",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/packs.bytes",
+      "output": "recovered/packs.xml",
+      "bytes": 18127,
+      "sha256": "ac995f0187b20fb968eca0332662cd2a6862a267aba995863d100bb740e070be",
+      "xml_root": "Packs",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/packs__43dd48dc5b424ef2.bytes",
+      "output": "recovered/packs__43dd48dc5b424ef2.xml",
+      "bytes": 4254,
+      "sha256": "a3b4e401af1719fcf1f975f3606e809271cf119c47591daeaf20051968aed075",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/perks.bytes",
+      "output": "recovered/perks.xml",
+      "bytes": 205965,
+      "sha256": "588bb51b17482142ffff58e695f64df4622fbf934d9d21fdff2b124e05b731e6",
+      "xml_root": "Perks",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/premium_packs.bytes",
+      "output": "recovered/premium_packs.xml",
+      "bytes": 72023,
+      "sha256": "aec8c8a3d515b191742492356e17b43e51801f0c2a6357b502cc7b76019f34a9",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/promotions.bytes",
+      "output": "recovered/promotions.xml",
+      "bytes": 40097,
+      "sha256": "411a6bac477e42e036f96e4e4ef6a3ab02c263e6d4eee6c9ac292ba78e9fc0e3",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/promotions_from_first_session.bytes",
+      "output": "recovered/promotions_from_first_session.xml",
+      "bytes": 1775,
+      "sha256": "202718cfa2631a86598c68d6cece77a9966494953a0297a60840535ce253949d",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/quests.bytes",
+      "output": "recovered/quests.xml",
+      "bytes": 70688,
+      "sha256": "0eae024d9bf8d70b9ca48a9e21a9011e96e1e2b32822fe26f7794c4b827f8e75",
+      "xml_root": "Root",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/raid_offers.bytes",
+      "output": "recovered/raid_offers.xml",
+      "bytes": 8550,
+      "sha256": "9bb30eb50ca1b831e96ff8d3650e96e8398489202fe6cdf74351dcec0705df47",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/raid_quests.bytes",
+      "output": "recovered/raid_quests.xml",
+      "bytes": 97328,
+      "sha256": "14b04f34fa7d8f775655b6daace1882f84fef9771c5e6ea3b7825da2e7265f0d",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/raid_stages_default.bytes",
+      "output": "recovered/raid_stages_default.xml",
+      "bytes": 4731,
+      "sha256": "99a5bc779723a2281897d496698d14733a19e11ccdffadd3cac50f9e38d24031",
+      "xml_root": "Stages",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/rus.bytes",
+      "output": "recovered/rus.xml",
+      "bytes": 4751,
+      "sha256": "22295847246685d9a1d88cf2f260c627e02c165f0c7b98c357a63460b8297c0b",
+      "xml_root": "Credits",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/server_quests.bytes",
+      "output": "recovered/server_quests.xml",
+      "bytes": 10017,
+      "sha256": "4d04ef8a233ee695e70cf64f4f0845b5ed684b49d28e5ec49e32d944c190c810",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/stages.bytes",
+      "output": "recovered/stages.xml",
+      "bytes": 1207835,
+      "sha256": "062531868592119ae1a9e43b4d8704ab3efd52eb04115ec67937cade82162abe",
+      "xml_root": "Stages",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/starter_packs.bytes",
+      "output": "recovered/starter_packs.xml",
+      "bytes": 21034,
+      "sha256": "25fce75f15234ab22e04b013b9ae6715d1c7d544114951c8cbe07554005b70da",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story.bytes",
+      "output": "recovered/story.xml",
+      "bytes": 31912,
+      "sha256": "56eef0703e9c3301a9cf4d1530b4be1604e03bdad54aed841c62a40a1f8b3de8",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__063492cb23a1611e.bytes",
+      "output": "recovered/story__063492cb23a1611e.xml",
+      "bytes": 49776,
+      "sha256": "f717d4dffe1801a20e09eb95506ac736fecbc1d15df8be5d28b816566d4267de",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__3b24e61ef5fc722e.bytes",
+      "output": "recovered/story__3b24e61ef5fc722e.xml",
+      "bytes": 32074,
+      "sha256": "cdeee8b6f2476f1f176a84c8a3b8dc52d5b4f3c9ed0936648b8b1a021163e6c4",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__9017f5cb9f59e09f.bytes",
+      "output": "recovered/story__9017f5cb9f59e09f.xml",
+      "bytes": 32656,
+      "sha256": "0700cc57c81e646ce2f5e6d81aec9c0e17f206a1a23092af3daf80778bcd1c00",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__a850a791e054209e.bytes",
+      "output": "recovered/story__a850a791e054209e.xml",
+      "bytes": 31289,
+      "sha256": "5f2c0e3931ef42084f0cc89bd1dd4ec2c6017af0d3d70bab402ed7d8d87af681",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__d463ff70fa1a1269.bytes",
+      "output": "recovered/story__d463ff70fa1a1269.xml",
+      "bytes": 36279,
+      "sha256": "a8f201e5f5df03e5b356ec3e060b697c7323435793d05fd1b6b55fb2071884eb",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__e3adf4d876fdd77d.bytes",
+      "output": "recovered/story__e3adf4d876fdd77d.xml",
+      "bytes": 59150,
+      "sha256": "8f1ab491eb77f632d7f1ac01c679a75d3f0b97645798962e5295e38a278e335b",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/story__ea855da309521b4b.bytes",
+      "output": "recovered/story__ea855da309521b4b.xml",
+      "bytes": 38909,
+      "sha256": "23cc78e09c9a20cd8ca9f7d2e507d847727728f60eb6d7407e38b1c25c55d826",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/tacticSettings.bytes",
+      "output": "recovered/tacticSettings.xml",
+      "bytes": 16122,
+      "sha256": "f3beb1957178fdc7de70c62b2a8e2bcfa7d7928b77412b7c0105d70965f81d76",
+      "xml_root": "TacticsSettings",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/tutorial_quests.bytes",
+      "output": "recovered/tutorial_quests.xml",
+      "bytes": 11970,
+      "sha256": "304b55c06e95337fea87271799bcb928a331d59392ad46d0a791dd7305eb4de3",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/update_quests.bytes",
+      "output": "recovered/update_quests.xml",
+      "bytes": 50898,
+      "sha256": "a68df16dc9d9781fdce93ebcd4a150693bb28e272188aadfa9d14e3dccb6ebd0",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/update_quests_start.bytes",
+      "output": "recovered/update_quests_start.xml",
+      "bytes": 353,
+      "sha256": "1e6bdad9e638a75fb7fcdf7ebb31a432ebc13f0939dd8054a5b61779c7a6abb3",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/usersDefault.bytes",
+      "output": "recovered/usersDefault.xml",
+      "bytes": 1139,
+      "sha256": "41032e9fe0d1f6fbc9cff7f37310bef7534d75c2ea1770d9be209378d0322b7c",
+      "xml_root": "Root",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/usersDefaultWarrior.bytes",
+      "output": "recovered/usersDefaultWarrior.xml",
+      "bytes": 1063,
+      "sha256": "cfdd7d7e117e95a88cc8c7343a59aebabca78d711e19e25766e2d96f98501b2d",
+      "xml_root": "Warrior",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    },
+    {
+      "source": "extracted/TextAsset/utils.bytes",
+      "output": "recovered/utils.xml",
+      "bytes": 3294,
+      "sha256": "db5c4cb2f348bf571edde74d18b0bfeab8ce85412548ed1a8b320cc22725e4df",
+      "xml_root": "Quests",
+      "pkcs7_valid": true,
+      "roundtrip_valid": true
+    }
+  ]
+}

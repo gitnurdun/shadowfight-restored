@@ -1,0 +1,26 @@
+{
+  "apk_sha256": "575b3102fa86a0d97186dc5e0a8fa44f4e07f8c0f0691d25f9f3c335beeaf7fe",
+  "environment": "Android 15/API 35 emulator with ARM64 translation",
+  "physical_honor_400_tested": false,
+  "lynx_fight": {
+    "IDS": "ZONE_1|BOSS_LYNX|6",
+    "CompletedCount": "0",
+    "LossCount": "1",
+    "StoryCount": "0"
+  },
+  "wallet": {
+    "coins": "1001000001",
+    "gems": "1000999999"
+  },
+  "automatic_raid_intro_started": false,
+  "android_runtime_fatal": false,
+  "evidence": {
+    "combat": "Original-Engine-Lynx.png",
+    "result": "Original-Engine-Result.png",
+    "return": "Original-Engine-Return.png"
+  },
+  "limits": [
+    "The unattended Lynx test ended in a loss; no boss victory is claimed.",
+    "Physical device performance and a full campaign completion are untested."
+  ]
+}

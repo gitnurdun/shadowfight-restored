@@ -1,0 +1,48 @@
+{
+  "abi": "arm64-v8a",
+  "input_sha256": "a8d17fa06239b2bff07c22a714b5b5ee9c631fa86b784c8c6154d1a615ec94fe",
+  "output_sha256": "879c8926dbb76c89de0158f66c35b4c3feca268b616a9a8ef4732841f8bde8e9",
+  "patches": [
+    {
+      "method": "CFJANHACGMG.FNIHLBLMOBP",
+      "rva": "0x35991b4",
+      "file_offset": "0x35951b4",
+      "original_bytes": "fe0f1bf8fa6701a9",
+      "replacement_bytes": "20008052c0035fd6",
+      "purpose": "Accept local XML saves in this isolated offline build"
+    },
+    {
+      "method": "CFJANHACGMG.PBACHEOJBGG",
+      "rva": "0x3599870",
+      "file_offset": "0x3595870",
+      "original_bytes": "fe0f1cf8f85f01a9",
+      "replacement_bytes": "20008052c0035fd6",
+      "purpose": "Accept local binary cache files"
+    },
+    {
+      "method": "CFJANHACGMG.AMELFFLEPNF",
+      "rva": "0x3598984",
+      "file_offset": "0x3594984",
+      "original_bytes": "fe0f1bf8fa6701a9",
+      "replacement_bytes": "20008052c0035fd6",
+      "purpose": "Accept parsed local XML documents"
+    },
+    {
+      "method": "IDDIABHBDEE.FKLCGHKBKHK",
+      "rva": "0x33871b4",
+      "file_offset": "0x33831b4",
+      "original_bytes": "fe0f1cf8",
+      "replacement_bytes": "c0035fd6",
+      "purpose": "Keep bundled configuration when network is unavailable"
+    },
+    {
+      "method": "AAPGCAPGBLG.LAAKLBPOMGP",
+      "rva": "0x325f148",
+      "file_offset": "0x325b148",
+      "original_bytes": "fe5fbda9f65701a9f44f02a9549000903677009088a64639d63e46f9f50301aaf30300aa08030037a07600f0009c42f92e31a19720770090004046f92b31a19720770090003c46f92831a197a07600f000a042f92531a197a07500b0000c40f92231a19720770090004446f91f31a1972077009000b845f91c31a1972800805288a60639c00240f9bb31a197e1031faaf40300aa23c5f297340a00b4b67500b0d60e40f9e00314aa150c01f8e10315aaf730a197c00240f908e040b9480000356831a197e0031faae1540894800800b4aa7600f0080040f94aa142f9f50300aa095d4279410140f9290100b40a5940f94a2100914b815ff87f0101eb00010054",
+      "replacement_bytes": "fd7bbea9f35301a9ff0308d1010700b4f30301aa000080d2d496fa97800600b4e2030091041040b9240600349fb00471e80500540050009105244078bffc017168050054451400388404007161ffff54e505805245140038641240b9840400349f2003714804005473520091e605805265264078bf800071a3030054bffc017168030054bfb8007141010054dfbc0071e00200549f040071a002005467024079ffb8007140020054ffbc007100020054bf700171c0010054e603052a451400388404007161fdff545f000039e003009101008052907900b010f244f900023fd61f000071e0179f1a0200001400008052ff030891f35341a9fd7bc2a8c0035fd6",
+      "purpose": "Check actual local bundle presence; do not advertise missing optional packs"
+    }
+  ],
+  "scope": "Personal offline clone only; original APK remains unchanged"
+}

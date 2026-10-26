@@ -1,0 +1,7 @@
+SHA-256 and size for intended GitHub Release assets (APK excluded from Git):
+575b3102fa86a0d97186dc5e0a8fa44f4e07f8c0f0691d25f9f3c335beeaf7fe  ShadowFight-Original-Restored.apk  737947037 bytes
+3f7ac05d3dbc9af8bc5e864dbd46fcb6a0e501640e80627c6b3615fc704cdc68  ShadowFight-Restore-Kit.zip  205202 bytes
+ed1f84bee69f94bc33d5736713d41723b181582794d9d4064f359aefff5bbf6c  ShadowFight-Source-v1.2.zip  29383877 bytes
+8afbf7a7f13710175f8716ba9a51e5c7b84f419f4001273fd8754a53c1b80b56  Recovered-Resources.zip  157283121 bytes
+e4e58124167bce47d56c0fa7403b34e411cdc0ca622cfe4e55f96f726f4d295c  Additional-Recovered-Models.zip  80010945 bytes
+3714c1754ce4e60e2cd536c9cb85df494649d4a1f74250d04f00157375f0273b  Recovered-Configs.zip  932562 bytes

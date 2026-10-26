@@ -1,0 +1,34 @@
+{
+  "algorithm": "AES-CBC",
+  "key_hex": "29ec1346e220f5c4c00de924b6cd77d256b8969156a8dcbfd5e1417bb28acdbd",
+  "iv_hex": "6075d5b844e1b5ab77c63797dcd0274e",
+  "key_origin": [
+    {
+      "fields": [
+        "$$field-2861",
+        "$$field-2862"
+      ],
+      "field_indices": [
+        18905,
+        18906
+      ],
+      "layer": "xor",
+      "encoding": "base64"
+    }
+  ],
+  "iv_origin": [
+    {
+      "fields": [
+        "$$field-2850",
+        "$$field-2851"
+      ],
+      "field_indices": [
+        18894,
+        18895
+      ],
+      "layer": "xor",
+      "encoding": "base64"
+    }
+  ],
+  "header": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Scene><Nodes><BODY-Node3 "
+}

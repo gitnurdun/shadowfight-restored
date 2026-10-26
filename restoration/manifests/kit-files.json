@@ -1,0 +1,232 @@
+[
+  {
+    "path": "Lessons-Learned.md",
+    "bytes": 39261,
+    "sha256": "f2348c6e4a296b1f2164bfd8572ba72dce922d21a5fc883765e4d676996b83c0"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4258,
+    "sha256": "4ec83ca2f31cb7a4e5926751bbf4c4b05e9cc3cdcc602806de2f38dd2572e2e1"
+  },
+  {
+    "path": "Recovery-Tutorial.md",
+    "bytes": 36017,
+    "sha256": "ff71875f0075daaa358e2467b5b63d11571d7795e87bd04bc26c9ecbf613f763"
+  },
+  {
+    "path": "Validation.md",
+    "bytes": 7348,
+    "sha256": "61de71999015f3da573a584a938c160536f55b17aee494140814bf2e72a1d851"
+  },
+  {
+    "path": "manifests/catalog-downloads.json",
+    "bytes": 51530,
+    "sha256": "0c836e654d48414049f43d533dd1f9ea2abc201111fdad7ce1f7b9942fef44c3"
+  },
+  {
+    "path": "manifests/tools.json",
+    "bytes": 392,
+    "sha256": "37386f00fd7d99ae64511b9244bde5f5d25261abf97ea72a746fa493bb14e81f"
+  },
+  {
+    "path": "reports/catalog-salted-hash-verification.json",
+    "bytes": 23712,
+    "sha256": "6a1955ad5c05731e9c3a6dea71a50a633721876e1237f49a4c28577981407e25"
+  },
+  {
+    "path": "reports/catalog-videos.json",
+    "bytes": 1283,
+    "sha256": "889a2434723e9bcdc319c2ed5ce7a630fd3acf3cad516db8a36b492c499f5d67"
+  },
+  {
+    "path": "reports/clean-reproduction-verification.json",
+    "bytes": 1002,
+    "sha256": "cd11a6b2856ab8c1e6e18b288cf5b6ad3b8bcd92bb7bf323d510937f7dce5029"
+  },
+  {
+    "path": "reports/final-delivery.json",
+    "bytes": 338,
+    "sha256": "8787700172d02a604e5380397c16fb5ec6ce67345da6d7e1036f1abe8155cc29"
+  },
+  {
+    "path": "reports/final-runtime-verification.json",
+    "bytes": 792,
+    "sha256": "d78f975b6a117b02eade30b34e4666c1cee7db6e34ffe14668ab75a6d1833ded"
+  },
+  {
+    "path": "reports/free-economy-data-patches.json",
+    "bytes": 1861,
+    "sha256": "959a69590f39688656a6c91bc94f10b10acdd750a216ce69115472b28be7eac3"
+  },
+  {
+    "path": "reports/local-cache-hash-changes.json",
+    "bytes": 157,
+    "sha256": "66959c1ef0f04cfddc871aaa98c64bcc4a6172ea822a9ebae5d32a008f87147c"
+  },
+  {
+    "path": "reports/offline-native-patches.json",
+    "bytes": 2647,
+    "sha256": "f716345c672d523cb5a24402049744622c2f452806913559c613edcdfde0447c"
+  },
+  {
+    "path": "reports/pack-availability-code-tests.json",
+    "bytes": 5131,
+    "sha256": "ab489e77d4412e0729f171643c3482595210b80385e9c5eb360f5485815b9504"
+  },
+  {
+    "path": "reports/recovery-manifest.json",
+    "bytes": 26622,
+    "sha256": "ba6f298f41352155dcd0e30dc6a5b5e9a407b6638ff963a6eda1007cdf7251d2"
+  },
+  {
+    "path": "reports/renamed-synthetic-resources.json",
+    "bytes": 6566,
+    "sha256": "dea6adc5b32c528337ecc5a07f4555599c483a58da6b6197e584aaa121c50962"
+  },
+  {
+    "path": "reports/resource-key.json",
+    "bytes": 682,
+    "sha256": "b53236dd74999c3e260227e44b31ffeab0d20964793be04b153e5b1910ab13f9"
+  },
+  {
+    "path": "reports/restored-profile-summary.json",
+    "bytes": 173,
+    "sha256": "b9829ffdde8d8de64728a4f68c33c644088fa3b80a30eb03b7a5029105a67b4b"
+  },
+  {
+    "path": "reports/runtime-recovery-manifest.json",
+    "bytes": 2024,
+    "sha256": "2fc3b6adc15d44d2e3f64a61bc93dd9541eb9620a169f42be815dc53d4d33a80"
+  },
+  {
+    "path": "reports/text-asset-extraction.json",
+    "bytes": 107185,
+    "sha256": "f5ec76bc6699a0e6a5abd9e20ea1eed711b4915e8a176a30f8803e265e968156"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 105,
+    "sha256": "6b8fd0ff45c59c5fbffca76f72a1d88f878e79a27d2ccd22227a9078aad539fb"
+  },
+  {
+    "path": "tools/RestoreBootstrap.java",
+    "bytes": 4405,
+    "sha256": "b96bc2cfeb8c16b079ba909bc5e7230abdd8b7c49502ee9923b4b577a2f3977c"
+  },
+  {
+    "path": "tools/build_original_restore.sh",
+    "bytes": 1293,
+    "sha256": "bf1e84fc90869d99206868af8d878dd2666cdaeb3c4b6f8a1fa5d53ffff04a99"
+  },
+  {
+    "path": "tools/decrypt_resources.py",
+    "bytes": 2101,
+    "sha256": "b6d7b35ef7a50be923bf81ad8fc5ba0ca2166b5fce148831232f2e2219e91d4f"
+  },
+  {
+    "path": "tools/extract_assets.py",
+    "bytes": 2370,
+    "sha256": "729a0121350287267c6671bf212c5704829e695f2f27cef9e4fb7741f2ce7abd"
+  },
+  {
+    "path": "tools/extract_runtime.py",
+    "bytes": 1101,
+    "sha256": "ffa0c20b47cabdc5426f613b83653da0878b8668a98734ff1aeddf570b07b920"
+  },
+  {
+    "path": "tools/extract_text_assets.py",
+    "bytes": 1053,
+    "sha256": "1193667579f79e2a0737880d83abf0e5e983bea9210b29325cf26b676d9f929b"
+  },
+  {
+    "path": "tools/fetch_catalog_packs.py",
+    "bytes": 3034,
+    "sha256": "7f14d7d5c994537334d2471a06dcdbbb71deb535c9bb627f5e944f8e7b71d0dd"
+  },
+  {
+    "path": "tools/finalize_offline_cache.py",
+    "bytes": 2100,
+    "sha256": "431c0bc995b75d55381255da5a934a4a66cb433666a60efa930cfbd125a9b8b5"
+  },
+  {
+    "path": "tools/fix_decoded_resources.py",
+    "bytes": 900,
+    "sha256": "7a30746a63f94d1ce39316c34f9f8b363cb8864d5266a0cdf4a9efb452dea8fe"
+  },
+  {
+    "path": "tools/include_catalog_packs.py",
+    "bytes": 1098,
+    "sha256": "4b13c3a8b957b0434a0cd1bc14ff4f6438162e4a26f9152fff25aa2a70e7c5cf"
+  },
+  {
+    "path": "tools/include_offline_videos.py",
+    "bytes": 2651,
+    "sha256": "d66e0521cb8c9da27c0a8925d2a7d54ef33b7b84fe0ed81e92759312214bead0"
+  },
+  {
+    "path": "tools/inventory_motions.py",
+    "bytes": 1890,
+    "sha256": "94e0e69f29a6ddac341e722f36c5ee3772784e6b3175a005df645441e6a221ed"
+  },
+  {
+    "path": "tools/native_trace.py",
+    "bytes": 4306,
+    "sha256": "60c9a7fc83bc9acdfe3f87c98068fbad2a7439374324469af67bab7442e94f83"
+  },
+  {
+    "path": "tools/pack_availability_code.py",
+    "bytes": 1583,
+    "sha256": "e2c6dfe6d555b6c4cffc3432c559695064825457b18d7bc11603c83d2655cddf"
+  },
+  {
+    "path": "tools/patch_offline_native.py",
+    "bytes": 2516,
+    "sha256": "56181aceac8d0062c1cf7da45bbfefbfdc4ada16a7cc935812b2c41c90260151"
+  },
+  {
+    "path": "tools/patch_restored_data.py",
+    "bytes": 5569,
+    "sha256": "24c55c79fea9b39658fb2d3db2845c5f2072e50afedf27c6c9921d39d176f7a3"
+  },
+  {
+    "path": "tools/prepare_original_restore.py",
+    "bytes": 3227,
+    "sha256": "598edea1de04e2056c4f1573621f65b3ff340f34619f46924f5a3650a133bd0f"
+  },
+  {
+    "path": "tools/prepare_reproduction_input.py",
+    "bytes": 986,
+    "sha256": "859445256dcbd798b615c5259f14a966b710bd3a64c38156c00eaaa00f0cb173"
+  },
+  {
+    "path": "tools/prepare_restored_profile.py",
+    "bytes": 4996,
+    "sha256": "9c4d043d0c6c818c0ad0527fe5311951d02ccfa70ba0124b14de14ef5e68ae5e"
+  },
+  {
+    "path": "tools/recover_resource_key.py",
+    "bytes": 3140,
+    "sha256": "1ef89bfb549123d95cc0f43a703dd517e9296a1bef463e0039d736a090ef891c"
+  },
+  {
+    "path": "tools/reproduce_restore.sh",
+    "bytes": 1745,
+    "sha256": "684b915f82a781489936b2acdfb12f1e1d152794878ba7b5838f3624ea5da140"
+  },
+  {
+    "path": "tools/test_pack_availability.py",
+    "bytes": 3220,
+    "sha256": "b8a6d79ddb72318cedae7a4c8c86ad0758747f58ddadb79aa6d8fe5786b11b85"
+  },
+  {
+    "path": "tools/verify_catalog_hashes.py",
+    "bytes": 2297,
+    "sha256": "2e5c0b70de6a2e2111c132c40554dd033e193792e2199030d8459d1aaeee68a3"
+  },
+  {
+    "path": "work/runtime/live_config_cdn.xml",
+    "bytes": 554821,
+    "sha256": "716515d9c675670726e44898caa217572212b903bb3de264a4aed1082f36b5ad"
+  }
+]

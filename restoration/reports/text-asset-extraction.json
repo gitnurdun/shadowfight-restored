@@ -1,0 +1,3322 @@
+[
+  {
+    "name": "list",
+    "output": "list.bytes",
+    "asset_file": "009af2796f7e45644b7bd7d98db32483",
+    "path_id": 1,
+    "bytes": 1024064,
+    "sha256": "67daec0a7526c11609f73dbd77cca4f38dabd3bebd8684369f3cc8160b9b6ff1"
+  },
+  {
+    "name": "fists_spear-icsharp_bzip2",
+    "output": "fists_spear-icsharp_bzip2.bytes",
+    "asset_file": "00b2dc566047aa44c9028a4ac008000f",
+    "path_id": 1,
+    "bytes": 34326,
+    "sha256": "cac8b2a2b091699de5220a76865559ce3973289aeac3e76ca66bf48eb5ae3fca"
+  },
+  {
+    "name": "throw_forward_a",
+    "output": "throw_forward_a.bytes",
+    "asset_file": "01aad86b131c35a438e13f598e431d0b",
+    "path_id": 1,
+    "bytes": 44499,
+    "sha256": "8b050d5fd589f87648a88cad472e32c038ca02127194fed46c95c6d6b95736cd"
+  },
+  {
+    "name": "lose_1",
+    "output": "lose_1.bytes",
+    "asset_file": "01d4b91191c458a4c88dc88541655862",
+    "path_id": 1,
+    "bytes": 53398,
+    "sha256": "6f4b35aed3f20c89b5936b41f64fc31de36ec37da62e05050b56d569990f7fe4"
+  },
+  {
+    "name": "sweep_hit_fall",
+    "output": "sweep_hit_fall.bytes",
+    "asset_file": "025d9cb6558bcd648b3b380d8fc3b6d8",
+    "path_id": 1,
+    "bytes": 42072,
+    "sha256": "07bac1eec5e405b77272b0cbaa79bf8069523815d2807ecbb088ec81737b65e0"
+  },
+  {
+    "name": "middle_hit_fall",
+    "output": "middle_hit_fall.bytes",
+    "asset_file": "02f126b26b15be740b2aad1a57786b86",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "b6b30c49c989717084431c152093ea8994258b61dcf79826e86501536f498b16"
+  },
+  {
+    "name": "knives_ninjasword-icsharp_bzip2",
+    "output": "knives_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "03c5051cf60834341ae75a7d6368615b",
+    "path_id": 1,
+    "bytes": 35799,
+    "sha256": "1ed2b97dc0bec11475d2446a6fa77f9cf9786a7c60b687987403145b9bf228d0"
+  },
+  {
+    "name": "knives_knives-icsharp_bzip2",
+    "output": "knives_knives-icsharp_bzip2.bytes",
+    "asset_file": "041739e4cfbe50f48a751765bbcd634a",
+    "path_id": 1,
+    "bytes": 21431,
+    "sha256": "99d7b30a26c0df13d68b70702b8c2dc838bb6eb445f84ad07850d92fcf767950"
+  },
+  {
+    "name": "lose_fall",
+    "output": "lose_fall.bytes",
+    "asset_file": "043fb33903b309041ad69dd78f8bf3a0",
+    "path_id": 1,
+    "bytes": 33982,
+    "sha256": "18ce68b028f22c1a492737377d438111f015acddceac82ff1a27f33ec8f7a731"
+  },
+  {
+    "name": "mountain_params",
+    "output": "mountain_params.bytes",
+    "asset_file": "047ee668e4b3f42489bd9ccf33082307",
+    "path_id": 1,
+    "bytes": 5359,
+    "sha256": "adc2e8a6813c7aa11770477cfb63ab7ab94ae052350b7e1147b81090e58d6345"
+  },
+  {
+    "name": "chn",
+    "output": "chn.bytes",
+    "asset_file": "05140ddb3c320d9449a9994611046675",
+    "path_id": 1,
+    "bytes": 491854,
+    "sha256": "ddc173a8556eb1f3031a4252f9e41b86a39ca8895359973fe69dbd2438d3b5c9"
+  },
+  {
+    "name": "arena_params",
+    "output": "arena_params.bytes",
+    "asset_file": "05ae67cd2bfccff438f792f2f13b9e82",
+    "path_id": 1,
+    "bytes": 8481,
+    "sha256": "a860a91f50647b02e7f88c4e7339912de7d45a28105fbc76755f1d865924e0bd"
+  },
+  {
+    "name": "knuckles_sai-icsharp_bzip2",
+    "output": "knuckles_sai-icsharp_bzip2.bytes",
+    "asset_file": "05cf2ce87f0e4af4088366a77ccdc01b",
+    "path_id": 1,
+    "bytes": 32033,
+    "sha256": "0e5f64b505f0bcab40d22a35f2e1114194f4d8b99f5a630dd30420b269b98e6e"
+  },
+  {
+    "name": "middle_block",
+    "output": "middle_block.bytes",
+    "asset_file": "07205837cf74d3945b08838fa3646ed6",
+    "path_id": 1,
+    "bytes": 16184,
+    "sha256": "bb3f314be0515894066b9d380fbc196878f1ea4a4a4d117fa393726449122906"
+  },
+  {
+    "name": "ninjasword_nunchaku-icsharp_bzip2",
+    "output": "ninjasword_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "0774404aa4b546043aabba8734808f48",
+    "path_id": 1,
+    "bytes": 44499,
+    "sha256": "eac4d4dc7b8232cd57323696786308a23d33bd165749a735f8ac909570f11b2b"
+  },
+  {
+    "name": "kusarigama_nunchaku-icsharp_bzip2",
+    "output": "kusarigama_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "08b1c90f11e28d64cbf29a647e829cea",
+    "path_id": 1,
+    "bytes": 57152,
+    "sha256": "5ab11d149d352e40eb01d5670f332121359db1019beda49c9445dcfa167bef65"
+  },
+  {
+    "name": "ComputerSettings",
+    "output": "ComputerSettings.bytes",
+    "asset_file": "094ae9e4031539c41b893a0483f20ba1",
+    "path_id": 1,
+    "bytes": 8492,
+    "sha256": "c6e8704f581231af42d0dec5c9310ac147cfc1b2234c93064b2132c8f8b3aab3"
+  },
+  {
+    "name": "_swords-icsharp_bzip2",
+    "output": "_swords-icsharp_bzip2.bytes",
+    "asset_file": "0ae3f148e7727cb428d99e6a065a0f55",
+    "path_id": 1,
+    "bytes": 145536,
+    "sha256": "23e787fb1430d96b86c6fd93da3370f1662f4d1a5baaad6ced775a97b6cdafc7"
+  },
+  {
+    "name": "sai-icsharp_bzip2",
+    "output": "sai-icsharp_bzip2.bytes",
+    "asset_file": "0b095596379603949ac6155a3d4bae6d",
+    "path_id": 1,
+    "bytes": 41422,
+    "sha256": "df22992b90bf6efa303a33aa8b7ac6d8fbe305d5d96409edc01df4044ae21d41"
+  },
+  {
+    "name": "_scythe-icsharp_bzip2",
+    "output": "_scythe-icsharp_bzip2.bytes",
+    "asset_file": "0ba9eccd841992540be7d61d22558da2",
+    "path_id": 1,
+    "bytes": 147503,
+    "sha256": "06ee3a6a4460d4f3743084ebf38d1fb0659514481cbc4a6613e68e26f2f5331c"
+  },
+  {
+    "name": "step_back",
+    "output": "step_back.bytes",
+    "asset_file": "0beee47ff750c344e90d2e521bb5cf42",
+    "path_id": 1,
+    "bytes": 12948,
+    "sha256": "9f9bba295473101ea5a3635be6a300fcfc24a577f8b3cdb277ff26d84c3a80e7"
+  },
+  {
+    "name": "knuckles_nunchaku-icsharp_bzip2",
+    "output": "knuckles_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "0cc86c6684304a64b91876bbf1bc3676",
+    "path_id": 1,
+    "bytes": 40734,
+    "sha256": "14cac313e33d80f06ae9a220096a620edb65f9b7b56775a15575f039d6a3b4d4"
+  },
+  {
+    "name": "high_punch",
+    "output": "high_punch.bytes",
+    "asset_file": "0df9b5bd2eab95b4bad5cf8537d65a44",
+    "path_id": 1,
+    "bytes": 9712,
+    "sha256": "ee6a6cdbfdeec580efca6a705a42ef1ddee08b2ed3d0e2aca6161dfcb582f8e7"
+  },
+  {
+    "name": "nunchaku_sai-icsharp_bzip2",
+    "output": "nunchaku_sai-icsharp_bzip2.bytes",
+    "asset_file": "0f0313169c32b9541959d5b989427a82",
+    "path_id": 1,
+    "bytes": 44542,
+    "sha256": "565cb3060a90062f8d227a6cd5ce7cb03975f5535413a71c7fcc374f83a108b4"
+  },
+  {
+    "name": "RBLoggerSettings",
+    "output": "RBLoggerSettings.bytes",
+    "asset_file": "0f32908f4c6a5344da5acd065c8a3010",
+    "path_id": 1,
+    "bytes": 472,
+    "sha256": "a2a8eea99464de6830f85a26d19b6c6dcce7b5c0fdf616498ba0e34e5c6c0ab6"
+  },
+  {
+    "name": "mdl_body_kenji",
+    "output": "mdl_body_kenji.bytes",
+    "asset_file": "0fcc8d38c019b6346b190a2154ce5aeb",
+    "path_id": 1,
+    "bytes": 33900,
+    "sha256": "5097785d017f395a54856e2d7fd4ebec05a04aaded97bfb18825ab0903ee48de"
+  },
+  {
+    "name": "mdl_weapon_knives",
+    "output": "mdl_weapon_knives.bytes",
+    "asset_file": "10022518ebede824c811fbb035cc7937",
+    "path_id": 1,
+    "bytes": 19160,
+    "sha256": "5735b99a7c6de6c5e95053f02b7023f6c8213c63c80043552f99ec3d3c0cc1c4"
+  },
+  {
+    "name": "road_params",
+    "output": "road_params.bytes",
+    "asset_file": "10712f7f2a0ace04193538949e6308d8",
+    "path_id": 1,
+    "bytes": 3724,
+    "sha256": "47621434362b6961d5fd5871e627b4a76227f6490f2422f93e4e5b043791938c"
+  },
+  {
+    "name": "_batons-icsharp_bzip2",
+    "output": "_batons-icsharp_bzip2.bytes",
+    "asset_file": "1083d853cda082249b33167600546564",
+    "path_id": 1,
+    "bytes": 139635,
+    "sha256": "0cb67184950ad61656fc691b0d8551f6715353edd7237f26d84a7c1a497100f0"
+  },
+  {
+    "name": "stone_forest_params",
+    "output": "stone_forest_params.bytes",
+    "asset_file": "108b019fa3bc5fd41984c77702069b8b",
+    "path_id": 1,
+    "bytes": 3208,
+    "sha256": "babd32ee3e2ab33ce38a7f1fe70ded92fcbc9024a15e0f9e5a5dfac1cc321cc3"
+  },
+  {
+    "name": "batons_machete-icsharp_bzip2",
+    "output": "batons_machete-icsharp_bzip2.bytes",
+    "asset_file": "10b734a779edceb489226a46c1ec6e70",
+    "path_id": 1,
+    "bytes": 34842,
+    "sha256": "a82d297e56c704dc9fadc43e1f55b300129443517a9aacc789266a29e6977126"
+  },
+  {
+    "name": "dojo_new_year_22_params",
+    "output": "dojo_new_year_22_params.bytes",
+    "asset_file": "10bb41cb4c435ac4d9ee90d06599aa47",
+    "path_id": 1,
+    "bytes": 3054,
+    "sha256": "74144c872700c9212b437ec2b2115f89779fa000f85295e5fdc6ce6bf969f855"
+  },
+  {
+    "name": "eng",
+    "output": "eng.bytes",
+    "asset_file": "1107e1faa4023a246a44f764c10074ac",
+    "path_id": 1,
+    "bytes": 482854,
+    "sha256": "c9ed8774a070423021655444ab4208d7331a5ec7127a82b69dfcb25e1fd71142"
+  },
+  {
+    "name": "spear_swords-icsharp_bzip2",
+    "output": "spear_swords-icsharp_bzip2.bytes",
+    "asset_file": "11490dd80cc24334d94fd63fc7bcc925",
+    "path_id": 1,
+    "bytes": 36851,
+    "sha256": "7cfa4ccf81d5ab1469a26af597c24580f610b4b55600f40e790efeef41cd1dda"
+  },
+  {
+    "name": "tur",
+    "output": "tur.bytes",
+    "asset_file": "1297d1be33784d64aba7cde49230f341",
+    "path_id": 1,
+    "bytes": 498874,
+    "sha256": "70cd29b605c465207a8ce40c1699e75f63a208297502b4b22f7075616e275d2d"
+  },
+  {
+    "name": "batons_ninjasword-icsharp_bzip2",
+    "output": "batons_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "12ad2d1765271194faceb5336aeabbce",
+    "path_id": 1,
+    "bytes": 34333,
+    "sha256": "bef637a88c39873ecd73296c74b85ec53389d2c0b5179cd7be1636931755fa96"
+  },
+  {
+    "name": "forge",
+    "output": "forge.bytes",
+    "asset_file": "13590c4d3a2114a568d6ab70f321c29b",
+    "path_id": 1,
+    "bytes": 126168,
+    "sha256": "7b4bb173af9ea47cc70a444620a75766b935fbc6c326e5659664d2d632f4941f"
+  },
+  {
+    "name": "fists_knuckles-icsharp_bzip2",
+    "output": "fists_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "13a2705781270d14597097cc7b5caa22",
+    "path_id": 1,
+    "bytes": 27639,
+    "sha256": "3d9f66a2381950072ccf6b6b842a2c612a193a3c9456f2a88ad78b052f8c5a7f"
+  },
+  {
+    "name": "claws_claws-icsharp_bzip2",
+    "output": "claws_claws-icsharp_bzip2.bytes",
+    "asset_file": "13b886225da725e4c8c6ccd3ff006d6b",
+    "path_id": 1,
+    "bytes": 20818,
+    "sha256": "74e0a82149984cd91351e4c4f0e64e896c7c1753b4e25150f0addba68942bcfd"
+  },
+  {
+    "name": "standup_back",
+    "output": "standup_back.bytes",
+    "asset_file": "13fd60f378134d54da2c09a9a7eb47c6",
+    "path_id": 1,
+    "bytes": 22656,
+    "sha256": "2b3448ec0648bf925381ce25ccf4cc69ecf0070fc59a34cc56dcb54eb9404a24"
+  },
+  {
+    "name": "raid_stages_default",
+    "output": "raid_stages_default.bytes",
+    "asset_file": "14979fbf541488c4abc32f0ed94e4687",
+    "path_id": 1,
+    "bytes": 6316,
+    "sha256": "dfa541fd2e1e4141ca29c44d503a01d1747c219a392d77a75de1f3a66c854088"
+  },
+  {
+    "name": "arkhos_raid_params",
+    "output": "arkhos_raid_params.bytes",
+    "asset_file": "14a0008609baf484e9aab1011ab8cf12",
+    "path_id": 1,
+    "bytes": 2237,
+    "sha256": "15be9d6489bc142499ea4c0361f568908dd2250682eb0a339c90b72282995094"
+  },
+  {
+    "name": "ninjasword_sai-icsharp_bzip2",
+    "output": "ninjasword_sai-icsharp_bzip2.bytes",
+    "asset_file": "14e1c8f6f65b9bf4892954a9d80dea20",
+    "path_id": 1,
+    "bytes": 35895,
+    "sha256": "9cecf171f1e69f8d48b8b55be8da9b93507317087f0db693b36c45fb48542d7e"
+  },
+  {
+    "name": "story",
+    "output": "story.bytes",
+    "asset_file": "14fc56391e46d4049818287898629252",
+    "path_id": 1,
+    "bytes": 42560,
+    "sha256": "601d1ba6cc0c33c70c25ef4a68d575e64f298390b3602ba35a5117e2c5275549"
+  },
+  {
+    "name": "middle_hit",
+    "output": "middle_hit.bytes",
+    "asset_file": "155d8ccd0dcb1bb4bb1058e95e9472bb",
+    "path_id": 1,
+    "bytes": 16184,
+    "sha256": "05c8963403693764aba0af022c31359f13fde69fdb6e5b289bd83f8b48f9b335"
+  },
+  {
+    "name": "overhead_block_heavy",
+    "output": "overhead_block_heavy.bytes",
+    "asset_file": "1623d161e17f6cd43bfa19d280ea887e",
+    "path_id": 1,
+    "bytes": 19420,
+    "sha256": "8fe1c4fa56c43845360ac91711c9b384db60b7481ef0dabe7a0e1c631b9928f0"
+  },
+  {
+    "name": "stance_2",
+    "output": "stance_2.bytes",
+    "asset_file": "167f23a2e60762b47ad814cd258d430d",
+    "path_id": 1,
+    "bytes": 42072,
+    "sha256": "3fa8443e65bea3190f9c1a591a24c6c55e5be0422c1d406ac84f692c8a4ae9b6"
+  },
+  {
+    "name": "knives_sai-icsharp_bzip2",
+    "output": "knives_sai-icsharp_bzip2.bytes",
+    "asset_file": "16c36e8c810087147affde95e43c9552",
+    "path_id": 1,
+    "bytes": 36057,
+    "sha256": "63faa6db399b19099ce00db4b54e5ffff687a7fe4f1a7920fa7f490025ef3370"
+  },
+  {
+    "name": "mdl_helm_green_mask",
+    "output": "mdl_helm_green_mask.bytes",
+    "asset_file": "16edafc43bd3df146ade1a7cce427467",
+    "path_id": 1,
+    "bytes": 107884,
+    "sha256": "68ca27930a9716f9caa3acb0f8df6550c87cb505b6b953d6147f55852508d83e"
+  },
+  {
+    "name": "claws-icsharp_bzip2",
+    "output": "claws-icsharp_bzip2.bytes",
+    "asset_file": "17c226503d9a5bc478d5b440d5b56766",
+    "path_id": 1,
+    "bytes": 42606,
+    "sha256": "a84437701509f3163300f41e4df7f653d6d3b94fa63af4f9a970ecb819283431"
+  },
+  {
+    "name": "knives_double_slash",
+    "output": "knives_double_slash.bytes",
+    "asset_file": "17e69122bde263340924c51b67e4c630",
+    "path_id": 1,
+    "bytes": 25892,
+    "sha256": "187b95401eb27b7be68f23f6c32c840071359bc8142a2101ecd3b6aa38ef9484"
+  },
+  {
+    "name": "story",
+    "output": "story__3b24e61ef5fc722e.bytes",
+    "asset_file": "18b9563efac0fc940adfec929b1f8838",
+    "path_id": 1,
+    "bytes": 42776,
+    "sha256": "3b24e61ef5fc722e2abe4bb59452ece81fdae16daba864ce5e831ca48a16f1ba"
+  },
+  {
+    "name": "claws_knuckles-icsharp_bzip2",
+    "output": "claws_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "18bee9b60faae25499402c6b8a830efa",
+    "path_id": 1,
+    "bytes": 31058,
+    "sha256": "8b551f8a23a12b155789d1e6ab7d1a57ac356ac898ccd5477856b433b6ab38b5"
+  },
+  {
+    "name": "_knives-icsharp_bzip2",
+    "output": "_knives-icsharp_bzip2.bytes",
+    "asset_file": "19923b68be7f06a4285f092b6aad32f2",
+    "path_id": 1,
+    "bytes": 145742,
+    "sha256": "056ccafb20b2158013d96eeb220e3f5dafbf480671794c63cd45688a58c8d837"
+  },
+  {
+    "name": "mdl_skeleton_punching_bag",
+    "output": "mdl_skeleton_punching_bag.bytes",
+    "asset_file": "1cd6877acdddd2547848afbecbe68350",
+    "path_id": 1,
+    "bytes": 8108,
+    "sha256": "728385eda0f4d11b7f4609bdbac1bb8e5f965d28f003ba134682512ba35db565"
+  },
+  {
+    "name": "reverse_jump_kick",
+    "output": "reverse_jump_kick.bytes",
+    "asset_file": "1ce15a1089d204c4785cc6fbcb200c56",
+    "path_id": 1,
+    "bytes": 21847,
+    "sha256": "9b0dd1fb76d17e5ead25f11f345a4b3d6bcc7cfc4500ef476422c8f401712939"
+  },
+  {
+    "name": "snowy_peak_params",
+    "output": "snowy_peak_params.bytes",
+    "asset_file": "1d5209fba4ab4b74d9df1e1c72e7b461",
+    "path_id": 1,
+    "bytes": 2164,
+    "sha256": "8221668bc9d70f065c9e4c6490148820d9a0a544d6393f44363f7ca369be78d9"
+  },
+  {
+    "name": "_nunchaku-icsharp_bzip2",
+    "output": "_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "1eaa33bf375cea844ac8530b19b4cbcb",
+    "path_id": 1,
+    "bytes": 164132,
+    "sha256": "9970acfc45702443c49d511774ab17371199f9b841402346ecd697f0e94ccce3"
+  },
+  {
+    "name": "fists_sai-icsharp_bzip2",
+    "output": "fists_sai-icsharp_bzip2.bytes",
+    "asset_file": "1f44b719ac38ebc42a2e4063d43c4ffc",
+    "path_id": 1,
+    "bytes": 33511,
+    "sha256": "3eaaa82ab0cf467630625bfa587aedecf541bc7d483290e8f804359368f798fa"
+  },
+  {
+    "name": "battle_pass_base",
+    "output": "battle_pass_base.bytes",
+    "asset_file": "202860e004e7a074d9706be5204f410a",
+    "path_id": 1,
+    "bytes": 8812,
+    "sha256": "f624fc55f45eb90ca718a78ccd0ae28c1d46b928ca438f8690ee61bb91c8de10"
+  },
+  {
+    "name": "emerald_forest_params",
+    "output": "emerald_forest_params.bytes",
+    "asset_file": "20b5e90fb88c8f14b80dfb787cc9dfb6",
+    "path_id": 1,
+    "bytes": 2518,
+    "sha256": "12cfafd290c7bbbeb96b4de14fd6d42eb0328d5eeb090880b261f98922bc0335"
+  },
+  {
+    "name": "fists_nunchaku-icsharp_bzip2",
+    "output": "fists_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "212f3c98633db6944937dd17dcab8e71",
+    "path_id": 1,
+    "bytes": 42413,
+    "sha256": "39dc4e610338907d69d3b56f5bd7ff91718e8113954ed3aa99ac0a810d517da8"
+  },
+  {
+    "name": "machete_tonfa-icsharp_bzip2",
+    "output": "machete_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "22bce404bf1bd274db482f9b258a9d35",
+    "path_id": 1,
+    "bytes": 34724,
+    "sha256": "c5c10d5f0659ec4a4c509a2671f6adb9134cfb38a61339f14b004df614c61cd8"
+  },
+  {
+    "name": "swamp_params",
+    "output": "swamp_params.bytes",
+    "asset_file": "22c6f6e01015d0445820bf23e16a2148",
+    "path_id": 1,
+    "bytes": 5694,
+    "sha256": "6c8d9ad0089793f82778cbbbf3495210f5ec49e8f93677e452ed60bbd9b1f6ec"
+  },
+  {
+    "name": "_tonfa-icsharp_bzip2",
+    "output": "_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "2361720d437da314fb9cf22f870a35d6",
+    "path_id": 1,
+    "bytes": 140116,
+    "sha256": "918c11444540e2d83c36121bbdcb5cb3e21fdfebb8e42af5dd0228aa426ef6c8"
+  },
+  {
+    "name": "cashback_quests",
+    "output": "cashback_quests.bytes",
+    "asset_file": "2515287948a24c349af9e2f226242b10",
+    "path_id": 1,
+    "bytes": 7424,
+    "sha256": "d2c7ef120e8a495f68c9cc995dac0e8f93c9524c669faef15f735aa03efa2ed0"
+  },
+  {
+    "name": "megalith_raid_params",
+    "output": "megalith_raid_params.bytes",
+    "asset_file": "26237bd76579ff54fa75342d69e56a8d",
+    "path_id": 1,
+    "bytes": 1848,
+    "sha256": "9e19fc323bbabe7b0edd7fe2ae0a36a4dd907180d6f023082aeb646d9004eb11"
+  },
+  {
+    "name": "front_jump_scissors_kick",
+    "output": "front_jump_scissors_kick.bytes",
+    "asset_file": "278eeaee8353f6a4ebe4c6d2f46a02c9",
+    "path_id": 1,
+    "bytes": 26701,
+    "sha256": "6b33c71c6f27886b60ef784c03a2dcbb1e98d746a8fe5003066ad72fdc116e29"
+  },
+  {
+    "name": "back_flip_kick",
+    "output": "back_flip_kick.bytes",
+    "asset_file": "27a4d272e5431d247a07885d29b422b9",
+    "path_id": 1,
+    "bytes": 34791,
+    "sha256": "71898a6fd6293133a1e32af5fc1b950bbd3df2cdb90d6f73a31fa7314509e1a1"
+  },
+  {
+    "name": "-icsharp_bzip2",
+    "output": "-icsharp_bzip2.bytes",
+    "asset_file": "27d42503671ff0d4db3560c3d4772468",
+    "path_id": 1,
+    "bytes": 565949,
+    "sha256": "4b6a741ca6c738398845658ea275eafa665760c0d8929cfd7e00bcc447da6ebb"
+  },
+  {
+    "name": "claws_fists-icsharp_bzip2",
+    "output": "claws_fists-icsharp_bzip2.bytes",
+    "asset_file": "281ec204a5cce4d46b00d12d981c5614",
+    "path_id": 1,
+    "bytes": 33171,
+    "sha256": "165ec3421b36fa565e0784814233b9f62299af647f69f92cd2671ff99c1f3c3a"
+  },
+  {
+    "name": "middle_hit_heavy",
+    "output": "middle_hit_heavy.bytes",
+    "asset_file": "28a912b5f19f44243862d537abebab21",
+    "path_id": 1,
+    "bytes": 81713,
+    "sha256": "02427309009e24ef117a7fd25993b73104a1fe839abb6741cc36786b73ab294f"
+  },
+  {
+    "name": "back_roll",
+    "output": "back_roll.bytes",
+    "asset_file": "28c8c0c0336fa2245af31d17a3df3c5f",
+    "path_id": 1,
+    "bytes": 25083,
+    "sha256": "8b8d47155c00136ba8e93aaf01d397e4e8b635944c82baa29d6665b656de3de6"
+  },
+  {
+    "name": "dark_room_params",
+    "output": "dark_room_params.bytes",
+    "asset_file": "2a3045d82fcf97e4994ca3a896a32713",
+    "path_id": 1,
+    "bytes": 1542,
+    "sha256": "7e3ad085bd2ec88a584da56c985c7be6aa0822a5e90f4261008a1d28c108f75e"
+  },
+  {
+    "name": "scythe-icsharp_bzip2",
+    "output": "scythe-icsharp_bzip2.bytes",
+    "asset_file": "2a8f820776e8f4a42bc557b53667273e",
+    "path_id": 1,
+    "bytes": 24478,
+    "sha256": "428e01b72351cd89f6e112fda13432bf7fe483e6fd8a8a90c39c39602e8562d5"
+  },
+  {
+    "name": "starter_packs",
+    "output": "starter_packs.bytes",
+    "asset_file": "2af89e789642b475dba7e91315d2a9a2",
+    "path_id": 1,
+    "bytes": 28056,
+    "sha256": "8412909f67831a974d8fd7ddec71e44c8d81950601077cc88ddc0c4f5b527b00"
+  },
+  {
+    "name": "story",
+    "output": "story__a850a791e054209e.bytes",
+    "asset_file": "2b9f14e00eba1d64abcbea80a9b32006",
+    "path_id": 1,
+    "bytes": 41728,
+    "sha256": "a850a791e054209e51e6775ef77e597ff46b5ac61b540eb2b1b8335830478e31"
+  },
+  {
+    "name": "knuckles_knuckles-icsharp_bzip2",
+    "output": "knuckles_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "2e45ef524ba64a041baaaf7fc45d0d43",
+    "path_id": 1,
+    "bytes": 17249,
+    "sha256": "2a6143e61a789e2fa7707e68ddd2222e79e9a53e04a651dad72f5b633789b636"
+  },
+  {
+    "name": "lamps_on_water_params",
+    "output": "lamps_on_water_params.bytes",
+    "asset_file": "2efe56acd5cdd184d892820aabd99e4e",
+    "path_id": 1,
+    "bytes": 4133,
+    "sha256": "b6599b183dc0c1b9e92c1249c68fdd27749fd8e1357c21b79640ef132416136f"
+  },
+  {
+    "name": "wall_jump_2",
+    "output": "wall_jump_2.bytes",
+    "asset_file": "2f371806941ee344b9f1c16705e27a9f",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "dbc14f542b9ce37b1319ade97b21005b35ff596bfd80ae98ed089aa45edb3954"
+  },
+  {
+    "name": "capsules_params",
+    "output": "capsules_params.bytes",
+    "asset_file": "3084eda8f9cdfca40b986caf120b676a",
+    "path_id": 1,
+    "bytes": 2093,
+    "sha256": "401107fe414533199f4f64ba99788abc8e30401e78add9d0beda27ee2f1f22b7"
+  },
+  {
+    "name": "heaven_params",
+    "output": "heaven_params.bytes",
+    "asset_file": "328067572a048314f88b63d437e724c0",
+    "path_id": 1,
+    "bytes": 3696,
+    "sha256": "7297e0d01a3f66f19a8c03270e178280c007b571b812edf0a5af19a09e4edebc"
+  },
+  {
+    "name": "high_hit_heavy",
+    "output": "high_hit_heavy.bytes",
+    "asset_file": "3377351aff039044aa87d72b5a89a26e",
+    "path_id": 1,
+    "bytes": 25083,
+    "sha256": "6197659ec5c482af0f05e6a435ff436ed62c0c0213e5f358a8521beec46841a5"
+  },
+  {
+    "name": "graveyard_ships_params",
+    "output": "graveyard_ships_params.bytes",
+    "asset_file": "33d46b189d4abe1439ff3787e3e522bc",
+    "path_id": 1,
+    "bytes": 6634,
+    "sha256": "682983eba3d518115ad34663dbdd20f7754067019553350994854909de95b9f4"
+  },
+  {
+    "name": "front_flip",
+    "output": "front_flip.bytes",
+    "asset_file": "34e0759da58eb53488c76b3a634c80b4",
+    "path_id": 1,
+    "bytes": 28319,
+    "sha256": "72117533f3041f6bdded6e7cd51437070f307ccf391613b6d06bf120d494cc66"
+  },
+  {
+    "name": "waterfall_params",
+    "output": "waterfall_params.bytes",
+    "asset_file": "34ec571605e97904f9798a76300ab393",
+    "path_id": 1,
+    "bytes": 5240,
+    "sha256": "5cc9218fd0f4c4c5d8ab09d142400d1f0b2b2a25335ee073002c1532b0b1d328"
+  },
+  {
+    "name": "offers",
+    "output": "offers.bytes",
+    "asset_file": "357d3a5bd8b3142baa33d9a75d47f451",
+    "path_id": 1,
+    "bytes": 12460,
+    "sha256": "96151748f4948a18adefc18dae5675f194be42aa918c9c57f2a0e567f61b0b61"
+  },
+  {
+    "name": "tacticSettings",
+    "output": "tacticSettings.bytes",
+    "asset_file": "35c0dc8b0a821c34bbe3ba2082b08165",
+    "path_id": 1,
+    "bytes": 21504,
+    "sha256": "2e06d0ba642ed8a2a6e193e49e0b9c1a677b52d5c06d57a34e65c1126b83c1c1"
+  },
+  {
+    "name": "scythe_sickles-icsharp_bzip2",
+    "output": "scythe_sickles-icsharp_bzip2.bytes",
+    "asset_file": "36ee7efec9c8f704eb782ebf5edeb221",
+    "path_id": 1,
+    "bytes": 48375,
+    "sha256": "a7c8d24dc2a9f5c0259a48a243816d76837191af06e1b8ab3dde9935f1ac62d3"
+  },
+  {
+    "name": "magic_rocks_params",
+    "output": "magic_rocks_params.bytes",
+    "asset_file": "373e3e85076da8244b31cfd556047676",
+    "path_id": 1,
+    "bytes": 4167,
+    "sha256": "4a97c657cb8b50a9decbaa85bd89c2d73815b1bd55dcce6f7ca613ca22ce9ce0"
+  },
+  {
+    "name": "batons_claws-icsharp_bzip2",
+    "output": "batons_claws-icsharp_bzip2.bytes",
+    "asset_file": "37aa71b7c4f85254ab1d534667fe34e1",
+    "path_id": 1,
+    "bytes": 34071,
+    "sha256": "5f12928778b0bb323e9d4603de55283b6e5d366fde9358af00bd638041ba79d9"
+  },
+  {
+    "name": "fatum_raid_params",
+    "output": "fatum_raid_params.bytes",
+    "asset_file": "37ede5805c6f43c4092cf69d2d317af9",
+    "path_id": 1,
+    "bytes": 1691,
+    "sha256": "59f15d0f4ee804145dafcc3dee1c62e3fa05d3bfdda675eef7d42beee77b97c1"
+  },
+  {
+    "name": "fans_fists-icsharp_bzip2",
+    "output": "fans_fists-icsharp_bzip2.bytes",
+    "asset_file": "383924871fc29b541935fe5e05b00883",
+    "path_id": 1,
+    "bytes": 37605,
+    "sha256": "130b9a5461c42309c86e7b070a0fa7e19ecf944240ff65ae5682a648bc95d4ca"
+  },
+  {
+    "name": "story",
+    "output": "story__ea855da309521b4b.bytes",
+    "asset_file": "3895a6d841bae004ea73f69b81b87c3a",
+    "path_id": 1,
+    "bytes": 51884,
+    "sha256": "ea855da309521b4bbee012ec4bb3b295a8309e2c4498f7e1f06ee0699bd9d3d0"
+  },
+  {
+    "name": "low_kick",
+    "output": "low_kick.bytes",
+    "asset_file": "3928030320ae8a1439ec019261cbe9f8",
+    "path_id": 1,
+    "bytes": 14566,
+    "sha256": "129de2b4f39b961e3383d275eac37182decd828f56f4c07106b62b6ecea829c9"
+  },
+  {
+    "name": "spinning_hit",
+    "output": "spinning_hit.bytes",
+    "asset_file": "39b17d4b78d0299408669b3303a126b9",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "1f74a8267b98c0b286d67018efc9646a9ada89b48f6d4602e3fc5c3e4e53fa87"
+  },
+  {
+    "name": "kusarigama_tonfa-icsharp_bzip2",
+    "output": "kusarigama_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "3a28513b7229e4941b9ca9f2d076d71f",
+    "path_id": 1,
+    "bytes": 46345,
+    "sha256": "05851653637b8f67eaefecac0655652c0f009a277203993d8d88928331ebf483"
+  },
+  {
+    "name": "knives_stance_idle",
+    "output": "knives_stance_idle.bytes",
+    "asset_file": "3abb692965fab074a804d38c13a19b62",
+    "path_id": 1,
+    "bytes": 43690,
+    "sha256": "e2d8ed37d94852b9c897203783c4112dcb5230ec45409897d0e397036b49aeca"
+  },
+  {
+    "name": "dock_params",
+    "output": "dock_params.bytes",
+    "asset_file": "3b06a5f09f1deff43b29390ac1699ef8",
+    "path_id": 1,
+    "bytes": 2550,
+    "sha256": "40e8b10bf40f0bae92c242d9b1d16db70dd767211984324bf573d54dfe775665"
+  },
+  {
+    "name": "scythe_scythe-icsharp_bzip2",
+    "output": "scythe_scythe-icsharp_bzip2.bytes",
+    "asset_file": "3b1d53d83349af24d8b974c0b77e139f",
+    "path_id": 1,
+    "bytes": 29844,
+    "sha256": "40baab2187d0c482c30b1578645a34e3817310d308888ececeb617984d523ad2"
+  },
+  {
+    "name": "knives_stance",
+    "output": "knives_stance.bytes",
+    "asset_file": "3df49aed6189f0f428ef09a03391f4b4",
+    "path_id": 1,
+    "bytes": 27510,
+    "sha256": "14c324f987635ee115eb1e66404ce1a6047e54974a5a82d2bffb3ac5e9ca0771"
+  },
+  {
+    "name": "staff_swords-icsharp_bzip2",
+    "output": "staff_swords-icsharp_bzip2.bytes",
+    "asset_file": "3e45ee981190f334c9e2e4c75b814195",
+    "path_id": 1,
+    "bytes": 36581,
+    "sha256": "8db65a89cc83273399546a3d470453390dba6d60145b1fd102033ce3794bee1a"
+  },
+  {
+    "name": "batons_batons-icsharp_bzip2",
+    "output": "batons_batons-icsharp_bzip2.bytes",
+    "asset_file": "3ef343d8c0d07c14ca3d258a2ab21a03",
+    "path_id": 1,
+    "bytes": 20008,
+    "sha256": "996425831e6f48ee230c1fae35ad30af3ef5ff7452d64ca18c40b63ff32c90f0"
+  },
+  {
+    "name": "kor",
+    "output": "kor.bytes",
+    "asset_file": "3fae713b448f6c14f8021e8315a357e0",
+    "path_id": 1,
+    "bytes": 552313,
+    "sha256": "88ac02971b1a0965db03525ff603617d88a1ea34237b9bf143459035729f52d9"
+  },
+  {
+    "name": "upper_cut",
+    "output": "upper_cut.bytes",
+    "asset_file": "40c343e264335894aa1df51ac412af24",
+    "path_id": 1,
+    "bytes": 21847,
+    "sha256": "cf5a2ca8d87124dea58eafeaeb632f7791c402ce5072fc0178dd75d807048ffd"
+  },
+  {
+    "name": "batons_spear-icsharp_bzip2",
+    "output": "batons_spear-icsharp_bzip2.bytes",
+    "asset_file": "40ce934d1748b3045a46e40817be352d",
+    "path_id": 1,
+    "bytes": 35131,
+    "sha256": "22b24c46dc0b75c367b14859019168e18c5733b888d85aa830bbb86d0a690514"
+  },
+  {
+    "name": "ninjasword_ninjasword-icsharp_bzip2",
+    "output": "ninjasword_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "42169876573654740bf527080f3c5753",
+    "path_id": 1,
+    "bytes": 21075,
+    "sha256": "1017fdf2433b2da313c21542b4bdf9e8eb773c5e17c3a2f2a7cf44c929ee6061"
+  },
+  {
+    "name": "eggs_params",
+    "output": "eggs_params.bytes",
+    "asset_file": "434007310f2293441ab5cc9d02c2b03a",
+    "path_id": 1,
+    "bytes": 3047,
+    "sha256": "15424d643670b51cf659e6ba867d7ade58c70a0fb479c020cb92cee62124af83"
+  },
+  {
+    "name": "kusarigama_sai-icsharp_bzip2",
+    "output": "kusarigama_sai-icsharp_bzip2.bytes",
+    "asset_file": "4368c2d670f29824fbe68a34f8d38f69",
+    "path_id": 1,
+    "bytes": 48040,
+    "sha256": "911416c1a7ad0db35bd5d3985225edd8326437efca5d8f49c381665efb0e223d"
+  },
+  {
+    "name": "tonfa_twohanded-icsharp_bzip2",
+    "output": "tonfa_twohanded-icsharp_bzip2.bytes",
+    "asset_file": "44a451f53711bd54dbd28133fd9998cd",
+    "path_id": 1,
+    "bytes": 40976,
+    "sha256": "822b1ae7677a0e3d7e2f301e08db3fa6fb689524e9b7bcf9bbd840d01479415f"
+  },
+  {
+    "name": "sweep_hit",
+    "output": "sweep_hit.bytes",
+    "asset_file": "44f51f4b6f193084895994f6974d6721",
+    "path_id": 1,
+    "bytes": 23465,
+    "sha256": "8446275ffe438f420f828bf171b9a57291fc50ef853ee80a43db9d4e074f9969"
+  },
+  {
+    "name": "stone_forest_thorny_params",
+    "output": "stone_forest_thorny_params.bytes",
+    "asset_file": "44fe4cde29d76a64081aa75b39a9ac5b",
+    "path_id": 1,
+    "bytes": 2987,
+    "sha256": "bc7b664231c89297f97723b9f8d80cf2a53e04eead3a13ffc9cdd1dfe45da883"
+  },
+  {
+    "name": "ger",
+    "output": "ger.bytes",
+    "asset_file": "45314891600b2c24b86a9ff25db082c8",
+    "path_id": 1,
+    "bytes": 526421,
+    "sha256": "273f279799e449634a77bd9df27d3abb7a54d7baf551354857fb14b273fa464f"
+  },
+  {
+    "name": "shadow_gate_params",
+    "output": "shadow_gate_params.bytes",
+    "asset_file": "466d0b461d1c06f4fbf1d77556af93f6",
+    "path_id": 1,
+    "bytes": 5005,
+    "sha256": "3fee522cd6bd9681431f9bc1a94ac74e7341102968ff9a17358a5e8f1d37046b"
+  },
+  {
+    "name": "scythe_twohanded-icsharp_bzip2",
+    "output": "scythe_twohanded-icsharp_bzip2.bytes",
+    "asset_file": "467467ccfd37dca47ba8512440745951",
+    "path_id": 1,
+    "bytes": 44922,
+    "sha256": "7e8d2258f74a2052417fe98fd4a55630b368a762c58ce17ede510c7681a4d294"
+  },
+  {
+    "name": "overhead_block",
+    "output": "overhead_block.bytes",
+    "asset_file": "46b9a108f8828e84193a8d9141e464c6",
+    "path_id": 1,
+    "bytes": 23465,
+    "sha256": "777a1f67eb2abc88d82132328a45c6d8399f4846842fd85cf177f0fbdf26a8b2"
+  },
+  {
+    "name": "wall_hit",
+    "output": "wall_hit.bytes",
+    "asset_file": "46c765202627282459d9050fe67788a6",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "a5cca7c1d88f96a4394574110537f3f055f9b153e841edb52a402e1184706af3"
+  },
+  {
+    "name": "low_block_heavy",
+    "output": "low_block_heavy.bytes",
+    "asset_file": "47891b3f5e76814419d5cb1958724ea2",
+    "path_id": 1,
+    "bytes": 21038,
+    "sha256": "5aacdee1503a01b6f4d42c520c3f6182651c1354be0bf0ad6e401d39b84522ac"
+  },
+  {
+    "name": "skyport_params",
+    "output": "skyport_params.bytes",
+    "asset_file": "481e5bc57f62c2741a380cb74ea0f4dd",
+    "path_id": 1,
+    "bytes": 2282,
+    "sha256": "c1843c9d302cbac6547a03c1798ae6c708ac69ec4c12605d876a97116e9d3fe5"
+  },
+  {
+    "name": "haloween_dojo_2019_params",
+    "output": "haloween_dojo_2019_params.bytes",
+    "asset_file": "4825afab21fc0e84681ce1ce66d55557",
+    "path_id": 1,
+    "bytes": 3584,
+    "sha256": "df2e65bcb5362d95d8835c42954aebdb08740eb4c24c8ac60d4ba95891cf47af"
+  },
+  {
+    "name": "dojo_indian_event_22_params",
+    "output": "dojo_indian_event_22_params.bytes",
+    "asset_file": "48910173a73131246bf6537f814b0b95",
+    "path_id": 1,
+    "bytes": 2529,
+    "sha256": "db3c7d6413a312d31485c012ab4778bae7bebf707ca461ac5b6a3ce575ec906b"
+  },
+  {
+    "name": "mdl_skeleton_heavy",
+    "output": "mdl_skeleton_heavy.bytes",
+    "asset_file": "48ddd460baf21394fbd01249353a4065",
+    "path_id": 1,
+    "bytes": 68056,
+    "sha256": "243be1dc8d0c93e9bbcd9339e2d7e75e07f752579f1e7163e78a8aa2fe0b8997"
+  },
+  {
+    "name": "knives-icsharp_bzip2",
+    "output": "knives-icsharp_bzip2.bytes",
+    "asset_file": "48ed7dfa2e9fdfc4285b1e9620a82a8c",
+    "path_id": 1,
+    "bytes": 40759,
+    "sha256": "7d08fcec4084ba796a205724d53d1549e96a698399f5e51565a2f102ca732f74"
+  },
+  {
+    "name": "machete-icsharp_bzip2",
+    "output": "machete-icsharp_bzip2.bytes",
+    "asset_file": "498000849d6165540ad772551fbb009f",
+    "path_id": 1,
+    "bytes": 41050,
+    "sha256": "f242f2e5aac2afe4aad1ce51d7878b826bd4deab2b409b4a294801ff1d38b200"
+  },
+  {
+    "name": "knives_spear-icsharp_bzip2",
+    "output": "knives_spear-icsharp_bzip2.bytes",
+    "asset_file": "4987964f952298347a438ec19ca8852e",
+    "path_id": 1,
+    "bytes": 36982,
+    "sha256": "d9e271efea763bee8128d14d7a9374cbde1deea88b1c6d6eaccfce474d333584"
+  },
+  {
+    "name": "mdl_punch_bag_anniversity_skelet",
+    "output": "mdl_punch_bag_anniversity_skelet.bytes",
+    "asset_file": "4a3865d000f34ec4e854908fbf134f77",
+    "path_id": 1,
+    "bytes": 21784,
+    "sha256": "c2f2e0de4a3980b8b6273e317b816d8ba51fd0655c228ad345647008d7b72e40"
+  },
+  {
+    "name": "knives_upper_slash",
+    "output": "knives_upper_slash.bytes",
+    "asset_file": "4a527622bbf84324893b1d4f2830bc15",
+    "path_id": 1,
+    "bytes": 21847,
+    "sha256": "524fc3a6bf34bcd5ba87e37e6145145e01ae12d3fbb4eebc00abe6c260e1af85"
+  },
+  {
+    "name": "sweep_block",
+    "output": "sweep_block.bytes",
+    "asset_file": "4bb499de68fd7804e97560de78584537",
+    "path_id": 1,
+    "bytes": 12139,
+    "sha256": "509bf15e624fd65a4c3a2b04a9ec69a6389e5551ef87f3735333fa8ddb752d4a"
+  },
+  {
+    "name": "fuji_params",
+    "output": "fuji_params.bytes",
+    "asset_file": "4bf58d9df0ae5d249bc64a85920c49f8",
+    "path_id": 1,
+    "bytes": 2588,
+    "sha256": "dab79163ec915c5f488d3af9a8e4dfcd8b0cfc6038f62e61ff56210e27246c29"
+  },
+  {
+    "name": "rus",
+    "output": "rus.bytes",
+    "asset_file": "4ca81ce24d1fcec4d8853fc887a4feb0",
+    "path_id": 1,
+    "bytes": 6336,
+    "sha256": "84dcf808221a0965291d99a1e079e0042ce38a911ce96a5aa5890b753d60ce2b"
+  },
+  {
+    "name": "batons_sai-icsharp_bzip2",
+    "output": "batons_sai-icsharp_bzip2.bytes",
+    "asset_file": "4d9ed271093719146b85658cbb4dca80",
+    "path_id": 1,
+    "bytes": 34374,
+    "sha256": "44b1ff98c1cc1d923febe89b8cec56b365d7b085fc4d0189a1eec4744ea60944"
+  },
+  {
+    "name": "batons-icsharp_bzip2",
+    "output": "batons-icsharp_bzip2.bytes",
+    "asset_file": "4dc1064defa9d71478ca53e8b33391e7",
+    "path_id": 1,
+    "bytes": 37128,
+    "sha256": "b0e921f25a4dd13b48c292065a552de71c1f3c82e0eaeae07887e48a2946a4b7"
+  },
+  {
+    "name": "high_hit_short",
+    "output": "high_hit_short.bytes",
+    "asset_file": "4de50837ea0061a43842e9e79139c3bd",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "e7ad1ad1271e642ae76c1d3dbfb0dd46ed4b027da9c298a9db48d13713626e62"
+  },
+  {
+    "name": "sai_sai-icsharp_bzip2",
+    "output": "sai_sai-icsharp_bzip2.bytes",
+    "asset_file": "50a6d3616f5b3dc4a8a1268840926cda",
+    "path_id": 1,
+    "bytes": 21574,
+    "sha256": "71f419468c3d10c17f298d7161d4acd53b833c63e41ccdd4bfb6cc84ccf5ec89"
+  },
+  {
+    "name": "overhead_hit_fall",
+    "output": "overhead_hit_fall.bytes",
+    "asset_file": "51366756d0b8c8e43b226d22083aa205",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "8723bd807fc0b818fbc37b6c5edfdd6ac7af73513f14de8d81d1ea7f0a52c492"
+  },
+  {
+    "name": "machete_sai-icsharp_bzip2",
+    "output": "machete_sai-icsharp_bzip2.bytes",
+    "asset_file": "5140ba2ef7c362744967675bb02bc295",
+    "path_id": 1,
+    "bytes": 36625,
+    "sha256": "7e00f609205371fa6b3929a0dca101c7805f9065741936c30923bbccfbd16986"
+  },
+  {
+    "name": "perks",
+    "output": "perks.bytes",
+    "asset_file": "514283102aff8d04db3423dd377f897b",
+    "path_id": 1,
+    "bytes": 274624,
+    "sha256": "e4da9aec79d9e583eecdceef6a7d0d85f9765774e60a894dbd8844b0df50459b"
+  },
+  {
+    "name": "magic_dragon_start",
+    "output": "magic_dragon_start.bytes",
+    "asset_file": "530234573a02ab94b99b8a0c9cc5aae0",
+    "path_id": 1,
+    "bytes": 3161,
+    "sha256": "46420c320cc489d494228080006b63267e71174941ab1965fd4d6e9746c0b470"
+  },
+  {
+    "name": "stages",
+    "output": "stages.bytes",
+    "asset_file": "53cf0be55e216684b9fc32e436d0d2b5",
+    "path_id": 1,
+    "bytes": 1610456,
+    "sha256": "e1ea05c1d2fd5b5aa539524d30c09f7be5b217f43f33aa0e701f82cb9da18ab9"
+  },
+  {
+    "name": "high_hit_long",
+    "output": "high_hit_long.bytes",
+    "asset_file": "543a5ab6b119f7e4183fad2171925610",
+    "path_id": 1,
+    "bytes": 28319,
+    "sha256": "777aac0eb2d5000654112d9e6c25a1549e129fbf8703d0e78329cd13352ba8a2"
+  },
+  {
+    "name": "haloween_dojo_params",
+    "output": "haloween_dojo_params.bytes",
+    "asset_file": "558cc0916c0b976459a39388294d6970",
+    "path_id": 1,
+    "bytes": 3559,
+    "sha256": "dcc465b125e7a60c8c82ba89a460bd5335785867e0e396cf67751d9620af43d0"
+  },
+  {
+    "name": "back_kick",
+    "output": "back_kick.bytes",
+    "asset_file": "560ab19f5c907244c998f4b0f420323c",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "92fc6516277bb74544dac04876ac34718af02d01ac6c234e2f16d899e28d1a34"
+  },
+  {
+    "name": "high_kick",
+    "output": "high_kick.bytes",
+    "asset_file": "5740fb1073bb367418e3554973b0abc6",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "32b09ed148ac74e4d74c7dc0e296385a517a282657c548bfdbf6dcca7538c6e8"
+  },
+  {
+    "name": "story",
+    "output": "story__d463ff70fa1a1269.bytes",
+    "asset_file": "58595979a46864c4ab09149d89d25813",
+    "path_id": 1,
+    "bytes": 48384,
+    "sha256": "d463ff70fa1a126958dc84d96a976c761a32f5adb4a7979140f85813c72767f6"
+  },
+  {
+    "name": "front_kick",
+    "output": "front_kick.bytes",
+    "asset_file": "59c0d8b020e339f469068bb3612c8e59",
+    "path_id": 1,
+    "bytes": 21038,
+    "sha256": "884e0ffea384a0081f8b0f1419c4a249754df3b05d5b9bb3ac8bd0e5a49faa93"
+  },
+  {
+    "name": "BuildSettings",
+    "output": "BuildSettings.bytes",
+    "asset_file": "5aeee819d2c44fc8b400fadf19f46690",
+    "path_id": 1,
+    "bytes": 3992,
+    "sha256": "e42ab7b6c9a5d60d573c9e54dd0dbb3a732477bc03660193b8933637d2e9537d"
+  },
+  {
+    "name": "battles",
+    "output": "battles.bytes",
+    "asset_file": "5b4545143ad583440b08c611f89d8be3",
+    "path_id": 1,
+    "bytes": 20160,
+    "sha256": "4efd843522467dcd6fb2c585be1c8aad849a4680f80bd5e697133209c63baf98"
+  },
+  {
+    "name": "machete_machete-icsharp_bzip2",
+    "output": "machete_machete-icsharp_bzip2.bytes",
+    "asset_file": "5bcb894f774880b4cb787ea35bafd1e1",
+    "path_id": 1,
+    "bytes": 22299,
+    "sha256": "017f4c9536624195775364b22ecdb133c46110f590392f35fe86ae0bd0105318"
+  },
+  {
+    "name": "BillingMode",
+    "output": "BillingMode.bytes",
+    "asset_file": "5bed7d987d518446fbc1a72efa47f738",
+    "path_id": 1,
+    "bytes": 29,
+    "sha256": "7b15cfeef90aebae19207b130175fbc1726b66f7d42d105abc0426cee002ba92"
+  },
+  {
+    "name": "ice_cave_params",
+    "output": "ice_cave_params.bytes",
+    "asset_file": "5c440928b1588fd46b1f9978b8f26792",
+    "path_id": 1,
+    "bytes": 2038,
+    "sha256": "ce2a74da5e29ce48d34f54c9ba99e9ac507fd3a7fd094e783198b150ad2ee20c"
+  },
+  {
+    "name": "katars_knives-icsharp_bzip2",
+    "output": "katars_knives-icsharp_bzip2.bytes",
+    "asset_file": "5d9a25993fb6e5e45874004ae2e27165",
+    "path_id": 1,
+    "bytes": 32083,
+    "sha256": "ed7c2a0f2ef234ab3a3694d087d1f47117922d1889cd6c3b7685b855e79a7aa9"
+  },
+  {
+    "name": "spear_staff-icsharp_bzip2",
+    "output": "spear_staff-icsharp_bzip2.bytes",
+    "asset_file": "5dce0068ff314bc4fadd10f8cad25ead",
+    "path_id": 1,
+    "bytes": 36713,
+    "sha256": "06533054641acd96d21027aedf9586092d366fab40d12104583bd165e0a90550"
+  },
+  {
+    "name": "shuanggou_staff-icsharp_bzip2",
+    "output": "shuanggou_staff-icsharp_bzip2.bytes",
+    "asset_file": "5e0a98c3e174e6a4aadcb780687d79f6",
+    "path_id": 1,
+    "bytes": 36060,
+    "sha256": "8a6ff501daaadcc7cb68e60c5c2ebe9c31e2c5be9422488bdd456fd8e7b5ab3f"
+  },
+  {
+    "name": "ninjasword_tonfa-icsharp_bzip2",
+    "output": "ninjasword_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "5e31bd95d34a6bc49b33c104a4483f7f",
+    "path_id": 1,
+    "bytes": 33555,
+    "sha256": "1f19ac777d591f8136e6503840cd3169501b58c9b412f7addc552148b44f7e2c"
+  },
+  {
+    "name": "eng",
+    "output": "eng__852e604ab1b3add0.bytes",
+    "asset_file": "5e7ea132be7e4d5468bcea39ab64c9f1",
+    "path_id": 1,
+    "bytes": 3928,
+    "sha256": "852e604ab1b3add074adc592e55c40b29664d431916034fcbe95f0de47a8e02e"
+  },
+  {
+    "name": "_machete-icsharp_bzip2",
+    "output": "_machete-icsharp_bzip2.bytes",
+    "asset_file": "5ecce65e082bc0641b8c980e870f2b25",
+    "path_id": 1,
+    "bytes": 141643,
+    "sha256": "9d8a126399a382b948f99f979a198e4e87666d570b36b9efdb11b17d7ed6061f"
+  },
+  {
+    "name": "f2p_quests",
+    "output": "f2p_quests.bytes",
+    "asset_file": "5ed597ce609c741f6988c9e883155204",
+    "path_id": 1,
+    "bytes": 4120,
+    "sha256": "74b7c6ec699f75985c99a794bad4bdb96269507783c05b0cf7399b81f659717b"
+  },
+  {
+    "name": "mdl_body_shin",
+    "output": "mdl_body_shin.bytes",
+    "asset_file": "5f3225cb5df1ec84890ab2435b931dfe",
+    "path_id": 1,
+    "bytes": 33324,
+    "sha256": "718504136100a0feb3782eff0b5c99018fb4b124b35a41282306a17ee7f838f8"
+  },
+  {
+    "name": "batons_tonfa-icsharp_bzip2",
+    "output": "batons_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "6169c8f4c5a7dd44a910603b3526e323",
+    "path_id": 1,
+    "bytes": 32665,
+    "sha256": "70efc40bcd7cc300c46a02a515dccba591b5f78d75dfa2dbc762b1b0715c765a"
+  },
+  {
+    "name": "scythe_spear-icsharp_bzip2",
+    "output": "scythe_spear-icsharp_bzip2.bytes",
+    "asset_file": "619c4fdca38ad7f46b70835d21d7bdb1",
+    "path_id": 1,
+    "bytes": 44725,
+    "sha256": "8bbdc1b9924eb9ef0b88ca149c722587a289dc4bc61f7097ae52c59f844eae72"
+  },
+  {
+    "name": "_kusarigama-icsharp_bzip2",
+    "output": "_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "61eb039215553ed4a9e2dd8afd83cfa0",
+    "path_id": 1,
+    "bytes": 152798,
+    "sha256": "bde7c5bb26f11e5861a901b1da74406036b5eabce9de2251c74948109343575b"
+  },
+  {
+    "name": "elbow_strike",
+    "output": "elbow_strike.bytes",
+    "asset_file": "62013f68d4e9b054a95a5d69b3b91415",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "5636ac6b62b7aa93a8bc58161cf50c24d457e9a2bf46a2cd8c44640a77663211"
+  },
+  {
+    "name": "spaceship_thorny_params",
+    "output": "spaceship_thorny_params.bytes",
+    "asset_file": "6312e3000af31db4cb070b413e7e1935",
+    "path_id": 1,
+    "bytes": 5659,
+    "sha256": "dceacc8ed0adf87bfcd6ef297277c932e5a9f479c753bef70122a7ce615a1825"
+  },
+  {
+    "name": "fists-icsharp_bzip2",
+    "output": "fists-icsharp_bzip2.bytes",
+    "asset_file": "643030ddc9ed05d4db1bc4803bffcb34",
+    "path_id": 1,
+    "bytes": 35628,
+    "sha256": "197eb0a59dab66eb2178dc8ddb633444779a28a602b899c038d1198244f3f430"
+  },
+  {
+    "name": "moves",
+    "output": "moves.bytes",
+    "asset_file": "6658ab22e2b82c44a966538bc87c6deb",
+    "path_id": 1,
+    "bytes": 2777516,
+    "sha256": "4f2d692c4dffe40b64f3005ca0abdafaf9ed3fa4375f2dd22a02aed145ee4e29"
+  },
+  {
+    "name": "knives_spinning_slash",
+    "output": "knives_spinning_slash.bytes",
+    "asset_file": "665eaae2bc8ada5488b0e41cb353c5d8",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "9e7bc203fb7dcc5ae5c773f77e603045fced033574715a0b01a06ba2000a778d"
+  },
+  {
+    "name": "scythe_tonfa-icsharp_bzip2",
+    "output": "scythe_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "66df509042c5d604ca8cda781d6576a0",
+    "path_id": 1,
+    "bytes": 43218,
+    "sha256": "d384887a68e201ea58433937652f6ec6a4fc6d5c813f443ce94b97a5ac922259"
+  },
+  {
+    "name": "wall_jump",
+    "output": "wall_jump.bytes",
+    "asset_file": "6802784ff972ba84eb1d83f9ce6f842e",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "4a195672fb5b4c5ac98a2c46b767cba593550216f26a48fb63d080e0197dbdfc"
+  },
+  {
+    "name": "_fists-icsharp_bzip2",
+    "output": "_fists-icsharp_bzip2.bytes",
+    "asset_file": "689ac06c064925142b9e394be15a5516",
+    "path_id": 1,
+    "bytes": 133056,
+    "sha256": "6a6c5646b6791119bf1e428e12ca326315c1e21ef72f0f974b8eac428f0d24ad"
+  },
+  {
+    "name": "low_hit",
+    "output": "low_hit.bytes",
+    "asset_file": "694600fc2c377004290895e09192c283",
+    "path_id": 1,
+    "bytes": 15375,
+    "sha256": "e16349d25472b65bd4d3efa39d8e979690f4d9347a287d9b90f5faf0afc5e36a"
+  },
+  {
+    "name": "local_daily",
+    "output": "local_daily.bytes",
+    "asset_file": "6a7ad51e527f7dc4486164ec4f776662",
+    "path_id": 1,
+    "bytes": 960,
+    "sha256": "cf231317c8e2b291356930aac543d8d23002991023eb51069bdddb112fd307e0"
+  },
+  {
+    "name": "hunger_raid_params",
+    "output": "hunger_raid_params.bytes",
+    "asset_file": "6c6a1bfb87a384d429f243d896fdef84",
+    "path_id": 1,
+    "bytes": 5942,
+    "sha256": "e2326fc9dcf524feaa0b708a29174b37c5ad054b2889bcf6c82772e9b12b94bf"
+  },
+  {
+    "name": "middle_block_heavy",
+    "output": "middle_block_heavy.bytes",
+    "asset_file": "6c9b59f40b657ca4fa54c7649cd4fd50",
+    "path_id": 1,
+    "bytes": 19420,
+    "sha256": "ce1ef76dc312fb0c43663554fb5521c8a68e140fa4f04b54189d82be64f0d94a"
+  },
+  {
+    "name": "spinning_hit_fall",
+    "output": "spinning_hit_fall.bytes",
+    "asset_file": "6cd1b32b5059f8a4a9ec0e07c24237f4",
+    "path_id": 1,
+    "bytes": 38027,
+    "sha256": "034cec395a7585cfce1adc50e50f99f7db11dd60cc3ebdd2f1ab4bb6c69d6273"
+  },
+  {
+    "name": "flowers_field_params",
+    "output": "flowers_field_params.bytes",
+    "asset_file": "6cd6a9ec3494d724c992933c226d50c6",
+    "path_id": 1,
+    "bytes": 3355,
+    "sha256": "cd62fd50f9c9a036b15f5a5dae2aa5f624cdca6d7b4b3349da5628f9aaccf68d"
+  },
+  {
+    "name": "high_hit_fall",
+    "output": "high_hit_fall.bytes",
+    "asset_file": "6ce61f5d7ceac764aa7327633744875c",
+    "path_id": 1,
+    "bytes": 41263,
+    "sha256": "5395fc9126fe7840615c0e78f3a36886a74e55d2045075ac59d791666184d147"
+  },
+  {
+    "name": "facebook",
+    "output": "facebook.bytes",
+    "asset_file": "6d553c53dafe44d519f56741117ab2b0",
+    "path_id": 1,
+    "bytes": 9216,
+    "sha256": "c1d94cc6e72d2f40c364a0b7f1384f815c7aa6bbf519ab1b1d860ca96e74a14b"
+  },
+  {
+    "name": "middle_hit_short",
+    "output": "middle_hit_short.bytes",
+    "asset_file": "6eacb95dc367138449c2ce172e063c93",
+    "path_id": 1,
+    "bytes": 14566,
+    "sha256": "668aaa167e71272202bfea3fc48c8724ee0b0e7e5c895dad1609e7dee9159004"
+  },
+  {
+    "name": "ritual_battle_raid_params",
+    "output": "ritual_battle_raid_params.bytes",
+    "asset_file": "6f2cc3e290ae7094f96fce3060f55d69",
+    "path_id": 1,
+    "bytes": 2446,
+    "sha256": "9ea5ea3a39206480134620a99d93c1877268e8a4cbd2b83ffe94212956809abb"
+  },
+  {
+    "name": "kusarigama_machete-icsharp_bzip2",
+    "output": "kusarigama_machete-icsharp_bzip2.bytes",
+    "asset_file": "6ff57e010b0633a4ba81e76f8293210b",
+    "path_id": 1,
+    "bytes": 48414,
+    "sha256": "a4cac9a2a28983864db57efb5adb6b592254177b337022e25e70a344e80ae9d3"
+  },
+  {
+    "name": "knives_knuckles-icsharp_bzip2",
+    "output": "knives_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "718f26f8fc47a8b4b854dcf9337aa684",
+    "path_id": 1,
+    "bytes": 31724,
+    "sha256": "8740c0bb11d89dabbb900f873dbaa28eb0f2a475556fd0ec77f27dcc09d9eed7"
+  },
+  {
+    "name": "sai_spear-icsharp_bzip2",
+    "output": "sai_spear-icsharp_bzip2.bytes",
+    "asset_file": "72379c9e318b24e45a4a9ae15a390aa2",
+    "path_id": 1,
+    "bytes": 37289,
+    "sha256": "781bb81924ed1cb2b037045fedbd5854619e80cd34a3021b108ea493be7de098"
+  },
+  {
+    "name": "energy",
+    "output": "energy.bytes",
+    "asset_file": "72ed42d64b65b4b969ec554b6296dd55",
+    "path_id": 1,
+    "bytes": 6936,
+    "sha256": "01533c94fce569028f1f4977fe10c7994994f591f1fa9a6e8cfb9ec2b40d692b"
+  },
+  {
+    "name": "GoogleUmpConsentConfig",
+    "output": "GoogleUmpConsentConfig.bytes",
+    "asset_file": "749605dd633ec402181c133da935fb95",
+    "path_id": 1,
+    "bytes": 108,
+    "sha256": "a029f96161bdcf57fe7234f0c11ab9c18aa2d7cdb7cd56116affa9d99009621f"
+  },
+  {
+    "name": "dodge_reverse_kick",
+    "output": "dodge_reverse_kick.bytes",
+    "asset_file": "754e282d109b4c74bb7e156c3daa25b1",
+    "path_id": 1,
+    "bytes": 24274,
+    "sha256": "e3cdfaed790269cb10aafb46608b2543267ef3becf1798f21b80a8b5306f6a8d"
+  },
+  {
+    "name": "core",
+    "output": "core.bytes",
+    "asset_file": "759c40f4822fd6d4f954ceca03e2b678",
+    "path_id": 1,
+    "bytes": 1368,
+    "sha256": "92ecdcfdbf8bfb6e9c4cbba3e76b6048cef11b6b64fda4e09d6473cf358944b6"
+  },
+  {
+    "name": "sweep_hit_heavy",
+    "output": "sweep_hit_heavy.bytes",
+    "asset_file": "75e9dc99418d87d4e8b45dc760d6b8b2",
+    "path_id": 1,
+    "bytes": 23465,
+    "sha256": "ce7bedad8cb46ec2ab74d093de4e730d9c8413ae864d11806c4e7e2c33b02dc0"
+  },
+  {
+    "name": "new_year_24_china_dojo_params",
+    "output": "new_year_24_china_dojo_params.bytes",
+    "asset_file": "764b2b1a518150e48b10b6d367a385f5",
+    "path_id": 1,
+    "bytes": 3433,
+    "sha256": "30240fdcce98184b23efd10c86a6fe1bf1b5624745603c20761b86ab7d19b9e0"
+  },
+  {
+    "name": "lose_2",
+    "output": "lose_2.bytes",
+    "asset_file": "779a55aa4d1baac46bd230185ed12bf2",
+    "path_id": 1,
+    "bytes": 55016,
+    "sha256": "68df2de287d781e734b4e0e0d1402f5abc8d28b5d0afeca699f4da6bd2593ccf"
+  },
+  {
+    "name": "mdl_ranged_hw15_skull",
+    "output": "mdl_ranged_hw15_skull.bytes",
+    "asset_file": "77bc3c7ea127c5d4c9b84a4f3caabf6c",
+    "path_id": 1,
+    "bytes": 84160,
+    "sha256": "272479fe7449bf895a14b9a5d1c607d12ef4e3e01e47904e9d663a0ea96f5cb6"
+  },
+  {
+    "name": "ninjasword_spear-icsharp_bzip2",
+    "output": "ninjasword_spear-icsharp_bzip2.bytes",
+    "asset_file": "77c3e67a79d0b8448ad9dcf6cb396391",
+    "path_id": 1,
+    "bytes": 36441,
+    "sha256": "2432976a945caeb2c5abc7bcd9fe62dad7d584fc4953262ea3951202fb61a809"
+  },
+  {
+    "name": "login_notify",
+    "output": "login_notify.bytes",
+    "asset_file": "7a086fc0bfebe492b96e053bf0690f69",
+    "path_id": 1,
+    "bytes": 3840,
+    "sha256": "17c98c1f35cc5bd7dc421277b40f516d3c92c08c85ad66ee087870fb3d4ac566"
+  },
+  {
+    "name": "pink_lake_params",
+    "output": "pink_lake_params.bytes",
+    "asset_file": "7a2073a50f55a1843a19f4478905e45b",
+    "path_id": 1,
+    "bytes": 2911,
+    "sha256": "e7935a48661c460f93dffeefaa84736a3e4af43bdd1deb5a263d8ee12f8b49a1"
+  },
+  {
+    "name": "scythe_swords-icsharp_bzip2",
+    "output": "scythe_swords-icsharp_bzip2.bytes",
+    "asset_file": "7a75c9b0d741d2a43b016b3536ffb9bf",
+    "path_id": 1,
+    "bytes": 46062,
+    "sha256": "a47d047f6397caf9fb9e13b67d36995158896a142aa2fb3474c1e0a4f4bdc170"
+  },
+  {
+    "name": "update_quests_start",
+    "output": "update_quests_start.bytes",
+    "asset_file": "7af952cb655c744e184e9291145eab63",
+    "path_id": 1,
+    "bytes": 492,
+    "sha256": "13e5ed701aa34fef804e2395ba2a68c60019cc141fe19d8107ef3e83e4ec26ec"
+  },
+  {
+    "name": "knives_heavy_slash",
+    "output": "knives_heavy_slash.bytes",
+    "asset_file": "7b6e819fe729a7743997e3e6dfbadb7e",
+    "path_id": 1,
+    "bytes": 22656,
+    "sha256": "9d6f2fce12f93aedd27ee1c11a6ae5dfcc836c324897f2be56732b79b5016f2c"
+  },
+  {
+    "name": "knuckles_tonfa-icsharp_bzip2",
+    "output": "knuckles_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "7d2c32d1c588b99408e9138732fbf05e",
+    "path_id": 1,
+    "bytes": 29951,
+    "sha256": "f0aaffc18a8fed6d102c3307f9067e65faf24182d8c6732628e6d6bd98984b06"
+  },
+  {
+    "name": "sai_scythe-icsharp_bzip2",
+    "output": "sai_scythe-icsharp_bzip2.bytes",
+    "asset_file": "7e9ce8a97fb250e478a4227968992dcd",
+    "path_id": 1,
+    "bytes": 45436,
+    "sha256": "b1a702f48ae6b790a1a349eb7a59be42e0ae9b47039bd27c53889f8098a5f253"
+  },
+  {
+    "name": "rus",
+    "output": "rus__17700f0ff48d0fff.bytes",
+    "asset_file": "7e9d91934a6e5f649ac05219dcc2794e",
+    "path_id": 1,
+    "bytes": 685018,
+    "sha256": "17700f0ff48d0fffe864105d035f0de49875fcf455c6f1ef3ee644a47e0e19d9"
+  },
+  {
+    "name": "chess_yard_params",
+    "output": "chess_yard_params.bytes",
+    "asset_file": "7fb6431ebeb27b04c889dac48650420d",
+    "path_id": 1,
+    "bytes": 2392,
+    "sha256": "cea0e9518dd5d1356dbedb331cddffe23e46f26d234dee9a35b6bd96fd9cf021"
+  },
+  {
+    "name": "ita",
+    "output": "ita.bytes",
+    "asset_file": "8256ca5b08d1e8e4d80615615f45f357",
+    "path_id": 1,
+    "bytes": 515412,
+    "sha256": "29a4b41a58411e0a9769d3d532e50cd28c8fae6421e9295a73cdf73a85762239"
+  },
+  {
+    "name": "kusarigama_kusarigama-icsharp_bzip2",
+    "output": "kusarigama_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "8349992e217a52246b5f3b2a6556f20f",
+    "path_id": 1,
+    "bytes": 33446,
+    "sha256": "cab327e54fe31569bb85f21387adf39a31f1b3a1f5149fb1e1288d454f1ac878"
+  },
+  {
+    "name": "battlefield_params",
+    "output": "battlefield_params.bytes",
+    "asset_file": "84358d56b50ea0e4a8011f8505873b93",
+    "path_id": 1,
+    "bytes": 4785,
+    "sha256": "669283d8cbf86f3ae53992cac8d55f7f51856a36b45fd83cb92f85d42b8593dc"
+  },
+  {
+    "name": "fear_raid_params",
+    "output": "fear_raid_params.bytes",
+    "asset_file": "843b1d126ccf96342b19d7337eadcead",
+    "path_id": 1,
+    "bytes": 9810,
+    "sha256": "06d8810825ab09008f8dc5e87afee84a2ea3a125f1d65aa4b4efbc0bec95c9d5"
+  },
+  {
+    "name": "story",
+    "output": "story__e3adf4d876fdd77d.bytes",
+    "asset_file": "845c378ead27d2c459b661f5557b8cae",
+    "path_id": 1,
+    "bytes": 78872,
+    "sha256": "e3adf4d876fdd77d193b2a48e1123303361401fe3b98ae99531282621c8e6ca9"
+  },
+  {
+    "name": "double_jump_kick",
+    "output": "double_jump_kick.bytes",
+    "asset_file": "84802ec4a0522f640a88ed12c6207822",
+    "path_id": 1,
+    "bytes": 34791,
+    "sha256": "2fa14d49e0fa003bd2b1dec98c94d57f23e6f89e298231cac527c551b03b596e"
+  },
+  {
+    "name": "claws_sai-icsharp_bzip2",
+    "output": "claws_sai-icsharp_bzip2.bytes",
+    "asset_file": "856e2151abe8d2f48a39e0700872ec53",
+    "path_id": 1,
+    "bytes": 35776,
+    "sha256": "24448effc904fc454b552acd2813832cbeb4639dc4061db3f9fde3202684d1d7"
+  },
+  {
+    "name": "back_flip",
+    "output": "back_flip.bytes",
+    "asset_file": "8858b8fd7f8a3aa4ba7eb215e8ef025f",
+    "path_id": 1,
+    "bytes": 22656,
+    "sha256": "c7f2646c2a4d21b2fe954fa478089b5c24a7e9f671f84c97b781749d89d8c389"
+  },
+  {
+    "name": "knives_super_slash",
+    "output": "knives_super_slash.bytes",
+    "asset_file": "88b79a559a5ff0046a01aeacb79b6d80",
+    "path_id": 1,
+    "bytes": 33173,
+    "sha256": "e4eb5e9f39872d71419c1d4a2c20f78e84309e9e12168c8eb3a977bb3fb130ad"
+  },
+  {
+    "name": "heavy_punch",
+    "output": "heavy_punch.bytes",
+    "asset_file": "89b2337e3182b9b49baca965ed32493a",
+    "path_id": 1,
+    "bytes": 19420,
+    "sha256": "143c82a29cdfa720d306ab216133baa0d5d52a514b4043d918140dfb09525701"
+  },
+  {
+    "name": "claws_nunchaku-icsharp_bzip2",
+    "output": "claws_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "89d38a2a09dce8d418607052ed5707c7",
+    "path_id": 1,
+    "bytes": 44363,
+    "sha256": "3af16bd678f00fa611b09a3ab98d934938d640b4f87482465597b9f60b189306"
+  },
+  {
+    "name": "dojo_hw21_params",
+    "output": "dojo_hw21_params.bytes",
+    "asset_file": "8b52f42e011a4fe45982b30d4de71cdc",
+    "path_id": 1,
+    "bytes": 2362,
+    "sha256": "f4e8d75f56b844b6317717c329b13f7eb1d08e1878209519b9439813d972291e"
+  },
+  {
+    "name": "localization",
+    "output": "localization.bytes",
+    "asset_file": "8bd41a17918f3d34b9369249b306e205",
+    "path_id": 1,
+    "bytes": 5912,
+    "sha256": "7c38c6a407ee332930d39ca81745203a13eaacc4b8a5af842c0ee3f99077c95a"
+  },
+  {
+    "name": "event_offers",
+    "output": "event_offers.bytes",
+    "asset_file": "8d768f25f03d25042ad83a73b008c839",
+    "path_id": 1,
+    "bytes": 22592,
+    "sha256": "b39a5a6ea9cce9d0d4aa8f4d89eafdd678298ed269e0e6a2bb1af51b80be7568"
+  },
+  {
+    "name": "jump_away",
+    "output": "jump_away.bytes",
+    "asset_file": "8d77c3863eb14194d8c08bfe340644ec",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "19eb2d545a5b911c4befbbd5139f25ed06b76a30cc1c1bd1d5801af6853e3f44"
+  },
+  {
+    "name": "factory_params",
+    "output": "factory_params.bytes",
+    "asset_file": "8e01d0247c7708640a8f87b0fdb0b42d",
+    "path_id": 1,
+    "bytes": 2441,
+    "sha256": "0ae5b54be9a3e2a2541cd96dce981506a19139b2d1c6387a5e45c29e9d961a56"
+  },
+  {
+    "name": "_knuckles-icsharp_bzip2",
+    "output": "_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "8e445d32c87ecad4da16d8fa4e5cc24e",
+    "path_id": 1,
+    "bytes": 136626,
+    "sha256": "020131b74e5507cd42c4fecf2f8bdab0b89b2988b1d64c41b5a9aae8554a4bcf"
+  },
+  {
+    "name": "sickles_staff-icsharp_bzip2",
+    "output": "sickles_staff-icsharp_bzip2.bytes",
+    "asset_file": "8ec020b8092682a42b766a35f4588196",
+    "path_id": 1,
+    "bytes": 38343,
+    "sha256": "31b78ea9aaa8d094bd95b91006ecdd89ddfcde4499836a476e985c84fc9c0a8e"
+  },
+  {
+    "name": "mdl_head",
+    "output": "mdl_head.bytes",
+    "asset_file": "8f2304a7943021748b755980e7a6487a",
+    "path_id": 1,
+    "bytes": 101760,
+    "sha256": "b31f7086cf4d69ef1c8b4f46a22c3464ecea6c86799eda0be71d9e35232234b8"
+  },
+  {
+    "name": "ships_params",
+    "output": "ships_params.bytes",
+    "asset_file": "8f812454e12bed74ba204702f57315a3",
+    "path_id": 1,
+    "bytes": 5710,
+    "sha256": "0db335d48ba11e9b8ac99b56d5409fa9f479d92c5cdad102851e4df609ecbe04"
+  },
+  {
+    "name": "story",
+    "output": "story__063492cb23a1611e.bytes",
+    "asset_file": "909a5e33d47e0e4449ddfccf1960e270",
+    "path_id": 1,
+    "bytes": 66392,
+    "sha256": "063492cb23a1611eaca04c5a513cd5a4cb5156b3908cd22cdb92a83be8ef3e86"
+  },
+  {
+    "name": "dojo_summer_event_params",
+    "output": "dojo_summer_event_params.bytes",
+    "asset_file": "90eecdc147d4cd0499e1f4451fa8184d",
+    "path_id": 1,
+    "bytes": 1959,
+    "sha256": "65d15b1507dcf086dcdcf81b0d5fed55a5c0db2fb6aaf4554cb248601cb11de9"
+  },
+  {
+    "name": "nunchaku_nunchaku-icsharp_bzip2",
+    "output": "nunchaku_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "9111a7806e261314bae04f1bde920c5e",
+    "path_id": 1,
+    "bytes": 30402,
+    "sha256": "b70cfae82ee639e0ff8efc791f80f13406deb546bfda0f98f095a479e758c41e"
+  },
+  {
+    "name": "_spear-icsharp_bzip2",
+    "output": "_spear-icsharp_bzip2.bytes",
+    "asset_file": "919d3277e903b8a4492cc2873706dc2b",
+    "path_id": 1,
+    "bytes": 141756,
+    "sha256": "357b6a0a0a6e129062daba5a0063a740d82efe40f914e31ba82561a4d9bcaa86"
+  },
+  {
+    "name": "moon_params",
+    "output": "moon_params.bytes",
+    "asset_file": "92791fa31d5c3c44b85f32d93e572144",
+    "path_id": 1,
+    "bytes": 3961,
+    "sha256": "9e608cd84ad93640d3008203e19e36b70b89457abf935d5cb55c1ec9f690a5f9"
+  },
+  {
+    "name": "double_step_forward",
+    "output": "double_step_forward.bytes",
+    "asset_file": "92d0362f465538f46826a157f2630d83",
+    "path_id": 1,
+    "bytes": 13757,
+    "sha256": "69a5c68dbbb55f7aed8561bb7570e6bca31905bde7ad07eaf7aa5fd93401dfb7"
+  },
+  {
+    "name": "usersDefault",
+    "output": "usersDefault.bytes",
+    "asset_file": "935eed30f0b795f438bc0f860d6f6bf5",
+    "path_id": 1,
+    "bytes": 1536,
+    "sha256": "d8f759ddda3c324151147664b5a71eb804d04a758fafe5b0aaccb78610f83de5"
+  },
+  {
+    "name": "kusarigama_spear-icsharp_bzip2",
+    "output": "kusarigama_spear-icsharp_bzip2.bytes",
+    "asset_file": "936171af2c33efc4da87c6911bee3d0a",
+    "path_id": 1,
+    "bytes": 48353,
+    "sha256": "19f39b82e0fb58027147975c1de56e310529d3a41ab5a66fc7c02c6f22504215"
+  },
+  {
+    "name": "claws_ninjasword-icsharp_bzip2",
+    "output": "claws_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "936ed05a2304cdd43bb0d4cfed7cc7f9",
+    "path_id": 1,
+    "bytes": 35381,
+    "sha256": "ea21d750636d7ce264e99cb166e8e399ad2fb22fe7f3ab75c0b828805038a99a"
+  },
+  {
+    "name": "knives_slash",
+    "output": "knives_slash.bytes",
+    "asset_file": "9378b8d888937e2469614ec049cd348c",
+    "path_id": 1,
+    "bytes": 17802,
+    "sha256": "e46891f96be853274ad616a94ddb79ff037bf2ef32ee5f149b51cc013cfef543"
+  },
+  {
+    "name": "bamboo_grove_params",
+    "output": "bamboo_grove_params.bytes",
+    "asset_file": "953119f50bf936c45b1fa2612f7fc6bb",
+    "path_id": 1,
+    "bytes": 3656,
+    "sha256": "395d18303bdf4265d82cc1fcb2b47847ebb60bbb2dd5580f8fd9933b525fe61d"
+  },
+  {
+    "name": "batons_nunchaku-icsharp_bzip2",
+    "output": "batons_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "9546b53a50b4eb740ae086cda665aa04",
+    "path_id": 1,
+    "bytes": 43304,
+    "sha256": "3af4d802c841d5a99b62d2351e190ad94a7973bb88843c987473dc3cb155d60c"
+  },
+  {
+    "name": "burning_town_params",
+    "output": "burning_town_params.bytes",
+    "asset_file": "95829f3f4f13b444eb6d61f8ef1392e7",
+    "path_id": 1,
+    "bytes": 4626,
+    "sha256": "1cf3f2f50c22731011905ce9353700790d439d9a6654850ff48047ce4cdddfb4"
+  },
+  {
+    "name": "core",
+    "output": "core__07d459fde3a3a3d7.bytes",
+    "asset_file": "95985acd064a2704aa851b06e64c8d6a",
+    "path_id": 1,
+    "bytes": 812,
+    "sha256": "07d459fde3a3a3d71f98137cbf4d134905967da93464237b61e721185e6764a1"
+  },
+  {
+    "name": "raid_offers",
+    "output": "raid_offers.bytes",
+    "asset_file": "95ac03f036f4a3846a5448bf25b83366",
+    "path_id": 1,
+    "bytes": 11416,
+    "sha256": "3362096197fcbb6009a4d98b8485427023479322ffe98aec0622925fce61b220"
+  },
+  {
+    "name": "internalSettings",
+    "output": "internalSettings.bytes",
+    "asset_file": "9702a1e1743fc124aa411a655207ba99",
+    "path_id": 1,
+    "bytes": 47320,
+    "sha256": "6c80bdf985879d088aba3342c309f3e3c1c7071aa40d1c95f7b488b7b3b2d799"
+  },
+  {
+    "name": "sickles_spear-icsharp_bzip2",
+    "output": "sickles_spear-icsharp_bzip2.bytes",
+    "asset_file": "98c672df516cea440af91225474b42da",
+    "path_id": 1,
+    "bytes": 38868,
+    "sha256": "20a060ab11b9275229fe379c49f9d0621c3b211cab8c0011f78310ac05a1513d"
+  },
+  {
+    "name": "CharacterProgress",
+    "output": "CharacterProgress.bytes",
+    "asset_file": "9949b0376f1e685439d157a49d2a4ee9",
+    "path_id": 1,
+    "bytes": 51840,
+    "sha256": "30e2873d3281be1c868fd3761bede6be6f88c159c814a31792bd0fd0807a2d24"
+  },
+  {
+    "name": "devices",
+    "output": "devices.bytes",
+    "asset_file": "995cbcea24a9f460eaf25b6a902b9925",
+    "path_id": 1,
+    "bytes": 15000,
+    "sha256": "624632069f10c639e950b3bddad0ffd1d6a0abaa0fd1e652fadee8a706fe85fc"
+  },
+  {
+    "name": "mdl_body",
+    "output": "mdl_body.bytes",
+    "asset_file": "99a70ef6762cffb498563d424892c8a5",
+    "path_id": 1,
+    "bytes": 28352,
+    "sha256": "1e2991f3cdb2b47a7f9f045056df9dad07fdc6917e7545eeeae3ee0d611b2061"
+  },
+  {
+    "name": "fists_scythe-icsharp_bzip2",
+    "output": "fists_scythe-icsharp_bzip2.bytes",
+    "asset_file": "99e355f73afcccd4ca502a4932b69eb0",
+    "path_id": 1,
+    "bytes": 42679,
+    "sha256": "5702e5ae1271a2714c1bce63d4e51444277504d5cb1dfe348ef91d8dfa74eea5"
+  },
+  {
+    "name": "promotions",
+    "output": "promotions.bytes",
+    "asset_file": "9bef20c13f1258f43985b240f9e80f6b",
+    "path_id": 1,
+    "bytes": 53484,
+    "sha256": "37c652447aac87dcb4f252833b396f5665fbf2bade7fec0c2b8bbfd0e3352963"
+  },
+  {
+    "name": "fists1_stance_idle",
+    "output": "fists1_stance_idle.bytes",
+    "asset_file": "9ce299451820dcf4dbe4162f382d7b2c",
+    "path_id": 1,
+    "bytes": 30746,
+    "sha256": "85700059521601f8654d3caf60393b1b3ffc3687c8c6fad965fdd14c825304f4"
+  },
+  {
+    "name": "packs",
+    "output": "packs.bytes",
+    "asset_file": "9d219987ce02242a6a16a89eb813699f",
+    "path_id": 1,
+    "bytes": 24172,
+    "sha256": "6762e52d32522c08baa898d1fa4bd02e77c7773b8db52c6eb90d52ebfce56fd2"
+  },
+  {
+    "name": "fists_machete-icsharp_bzip2",
+    "output": "fists_machete-icsharp_bzip2.bytes",
+    "asset_file": "9d7769d08602b22409b700384919ded2",
+    "path_id": 1,
+    "bytes": 34660,
+    "sha256": "d995435a57b388b83dd9dedcebed3b75e8d8f10ad57a892f794b35459571f8a1"
+  },
+  {
+    "name": "knuckles_ninjasword-icsharp_bzip2",
+    "output": "knuckles_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "9d7d578904befb14ab5a2d8f2871c582",
+    "path_id": 1,
+    "bytes": 31582,
+    "sha256": "2e5bb69149c00fdc646e9d7446c5ad688dc9f8d43ff4ce0d67a9a6a1172d3657"
+  },
+  {
+    "name": "katars_knuckles-icsharp_bzip2",
+    "output": "katars_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "9de908af58fe6c1498f81417b574fd4e",
+    "path_id": 1,
+    "bytes": 25679,
+    "sha256": "41ce0ab9db5a6bfa235a8a86470097543408b1ee10b7e7a47c312ff4da8786e5"
+  },
+  {
+    "name": "sai_sickles-icsharp_bzip2",
+    "output": "sai_sickles-icsharp_bzip2.bytes",
+    "asset_file": "9ef6da4983626614da8d83f72e57a356",
+    "path_id": 1,
+    "bytes": 38255,
+    "sha256": "ec12e0985076a726cb886c87baa891a2e14ca107ddbebdd7664dcd79d1d12fd4"
+  },
+  {
+    "name": "dynamic_discounts",
+    "output": "dynamic_discounts.bytes",
+    "asset_file": "9f293d0ce15f8e94582c3ae8b5d9bbe5",
+    "path_id": 1,
+    "bytes": 109184,
+    "sha256": "dc8560cab1cb359d7c1c417a1f8b78528c0fad97bdcddbc63e832dd6044e8da4"
+  },
+  {
+    "name": "high_knee_up",
+    "output": "high_knee_up.bytes",
+    "asset_file": "9f2a482cb27a3b642b5748d47d630594",
+    "path_id": 1,
+    "bytes": 12948,
+    "sha256": "ae0523efc7c65020ad6a82d24aa13c7d8202cd6c4419c4a6a0e50b98fbb87977"
+  },
+  {
+    "name": "batons_knuckles-icsharp_bzip2",
+    "output": "batons_knuckles-icsharp_bzip2.bytes",
+    "asset_file": "a03dd0def52a3fb46bc1d88fec8a03d5",
+    "path_id": 1,
+    "bytes": 30100,
+    "sha256": "8cf2dc30524ca32531e29ee320b685fbfa7d032e9f86523abc908863e793834e"
+  },
+  {
+    "name": "freeze_raid_params",
+    "output": "freeze_raid_params.bytes",
+    "asset_file": "a07973c7f42a3dd40ac1d658667c98ff",
+    "path_id": 1,
+    "bytes": 6718,
+    "sha256": "d8c4ebfa7c0bb98146f7325bbc6c9cf2f300b0d9ffc32e93682eacaa3d31cc16"
+  },
+  {
+    "name": "war_raid_params",
+    "output": "war_raid_params.bytes",
+    "asset_file": "a0bbbbd6bae7d0447b5e2cc76f6e2ea0",
+    "path_id": 1,
+    "bytes": 4840,
+    "sha256": "79de2f516b908b2e2c1c92b603228b93c53ee7f304e2cc7293874314b92d5820"
+  },
+  {
+    "name": "vulcan_raid_params",
+    "output": "vulcan_raid_params.bytes",
+    "asset_file": "a1c3f7d4084d1374eac5f2c278b3f5ea",
+    "path_id": 1,
+    "bytes": 2566,
+    "sha256": "07dfeb3d1696f1af5d8286ab539c51b6dc142646c5d01c5eb986b1277720adb2"
+  },
+  {
+    "name": "chn_tr",
+    "output": "chn_tr.bytes",
+    "asset_file": "a21c2eb357dbe2d4e80c428791bd54dc",
+    "path_id": 1,
+    "bytes": 488432,
+    "sha256": "7f1af23a29a971835d35a8ade41cb2dd92e2870168822269896a8a01829edc9a"
+  },
+  {
+    "name": "overhead_hit_heavy",
+    "output": "overhead_hit_heavy.bytes",
+    "asset_file": "a27cb9e86a99176478b7fb7abd92f96d",
+    "path_id": 1,
+    "bytes": 21038,
+    "sha256": "3fd1fb1e55411c59bfe96abcd800fc59d69355449b34af95e73f17207417d7a2"
+  },
+  {
+    "name": "cave_params",
+    "output": "cave_params.bytes",
+    "asset_file": "a30746d5d6e5112498d6e5e713c7eb5b",
+    "path_id": 1,
+    "bytes": 3837,
+    "sha256": "b48b966fa31e683492eaff1dcae26959b3eb96e78de22350e071abe4e7baf473"
+  },
+  {
+    "name": "batons_knives-icsharp_bzip2",
+    "output": "batons_knives-icsharp_bzip2.bytes",
+    "asset_file": "a33a2ae6684ae714299ca008c6069863",
+    "path_id": 1,
+    "bytes": 34332,
+    "sha256": "c3e55aa226f144c02300885824fea6abbbb570d3e874d3d3db39d90da35ec9ad"
+  },
+  {
+    "name": "scythe_shuanggou-icsharp_bzip2",
+    "output": "scythe_shuanggou-icsharp_bzip2.bytes",
+    "asset_file": "a39a21dfefbb5994c916ceb9edd190e2",
+    "path_id": 1,
+    "bytes": 44497,
+    "sha256": "82dca39e56955ddc8a394b9c75a90ff4161ee91fe529947b225b3c592c9360a5"
+  },
+  {
+    "name": "flying_rocks_small_params",
+    "output": "flying_rocks_small_params.bytes",
+    "asset_file": "a3f45865e95fa894fbf3fe3d047a0b5d",
+    "path_id": 1,
+    "bytes": 4629,
+    "sha256": "aad09fedf3cb34486e191f27c48b30ae2fc7e7edd0556b289a4e3340e6b6461e"
+  },
+  {
+    "name": "gatekeeper_raid_params",
+    "output": "gatekeeper_raid_params.bytes",
+    "asset_file": "a40ce8a30b41367488e80eb8d6076747",
+    "path_id": 1,
+    "bytes": 1914,
+    "sha256": "21cfba027b2c510ead631e68d62afb801de400dc845e1f7f52eac750b4a4a598"
+  },
+  {
+    "name": "advertising",
+    "output": "advertising.bytes",
+    "asset_file": "a4ce9130c370e4f99b19b1577d43c4cf",
+    "path_id": 1,
+    "bytes": 13952,
+    "sha256": "4c02b8bfff7340797fbd633df9857b194155f5b5b47283f4083e7598133b3ca2"
+  },
+  {
+    "name": "scissors_kick",
+    "output": "scissors_kick.bytes",
+    "asset_file": "a652cd77475c283448653b8882c629a5",
+    "path_id": 1,
+    "bytes": 22656,
+    "sha256": "2a21de6b42186cbfb38d0151d91e2a51742aa9637c944d485ebef7b53d9d50d1"
+  },
+  {
+    "name": "shuanggou_spear-icsharp_bzip2",
+    "output": "shuanggou_spear-icsharp_bzip2.bytes",
+    "asset_file": "a685ca00004957e46b15e53de4ebbaf4",
+    "path_id": 1,
+    "bytes": 36227,
+    "sha256": "1f7b7e93457cfb7d507eb0805110bc47f3488d10f66aa96da0a0673c9e158537"
+  },
+  {
+    "name": "back_handflip",
+    "output": "back_handflip.bytes",
+    "asset_file": "a6d875434b7906a498585f16d24148f2",
+    "path_id": 1,
+    "bytes": 27510,
+    "sha256": "14db8c48d423aff628b3d2961d84066dc8bdac95b3c975351d323e5c5c063e2c"
+  },
+  {
+    "name": "spinning_punch",
+    "output": "spinning_punch.bytes",
+    "asset_file": "a716be6fa3ff93d45bbfc1e9704a7707",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "03a10130729a88a8d534190e374ba005c04c36de3cd22e14f6ce78cfe3fe72f1"
+  },
+  {
+    "name": "whisper_raid_params",
+    "output": "whisper_raid_params.bytes",
+    "asset_file": "a756ee147737bb84f94ce05817e9d38f",
+    "path_id": 1,
+    "bytes": 5042,
+    "sha256": "4d2303940fd7a714c4525c173ad14db1920f0bfa489a6b066e47fce004ea2c6d"
+  },
+  {
+    "name": "machete_nunchaku-icsharp_bzip2",
+    "output": "machete_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "a9619f168666d6f4e9e3d9207dfa94b2",
+    "path_id": 1,
+    "bytes": 45522,
+    "sha256": "109d5aa22aec6c78b2aceca31162339e88d84b42e1bef52bcd1766b55dbf22c5"
+  },
+  {
+    "name": "knuckles_spear-icsharp_bzip2",
+    "output": "knuckles_spear-icsharp_bzip2.bytes",
+    "asset_file": "a9eb9219b4b93724ea937a79dd41fb48",
+    "path_id": 1,
+    "bytes": 32767,
+    "sha256": "c5a80be9b8a74d87405fdb4e7d27fb300e5a7652c1832d5c40fc2f4c2ac5d9ef"
+  },
+  {
+    "name": "fungus_raid_params",
+    "output": "fungus_raid_params.bytes",
+    "asset_file": "aa011aa987fd06b41963dc6dd1bd431e",
+    "path_id": 1,
+    "bytes": 2445,
+    "sha256": "1b4955f942d96440aa028db00c0d4e62a85102b02b76aa0b01e9f8ec13bc9498"
+  },
+  {
+    "name": "por",
+    "output": "por.bytes",
+    "asset_file": "aa6ac67ca379cb2479aa652c4ed9a516",
+    "path_id": 1,
+    "bytes": 508006,
+    "sha256": "07adf520380c7ae6add24490aec8e3028ad83220a24cf0b04124a8231f4de879"
+  },
+  {
+    "name": "knuckles-icsharp_bzip2",
+    "output": "knuckles-icsharp_bzip2.bytes",
+    "asset_file": "ab880a26f2d2e344eae5cec1bce60795",
+    "path_id": 1,
+    "bytes": 36548,
+    "sha256": "e902e86fe81c2600ea0634a04bad373e079c292568e070c33383b16c1c9c6a18"
+  },
+  {
+    "name": "loaderScreenSettings",
+    "output": "loaderScreenSettings.bytes",
+    "asset_file": "ac218ca636a9545248a07ef65d058379",
+    "path_id": 1,
+    "bytes": 1048,
+    "sha256": "90c4f91bfbdee353568cf6c005493080c6b31c44ef3b1139d0182932e0247971"
+  },
+  {
+    "name": "mdl_weapon_kunai",
+    "output": "mdl_weapon_kunai.bytes",
+    "asset_file": "acbc48b30aa519e4dac0cc753284f1a5",
+    "path_id": 1,
+    "bytes": 60780,
+    "sha256": "4c4443a3e2d9f7be08c7b4e869f0f3a7f25c0b6e93f28b308f207740c757a59b"
+  },
+  {
+    "name": "quests",
+    "output": "quests.bytes",
+    "asset_file": "ad47006909018454b8e104f5b4282a53",
+    "path_id": 1,
+    "bytes": 94272,
+    "sha256": "09cd2d37c8dd8ab286a5d8c0a39b997f5a80b560e0e74eb7aaf924cca493b028"
+  },
+  {
+    "name": "default-icsharp_bzip2",
+    "output": "default-icsharp_bzip2.bytes",
+    "asset_file": "ae15d8477cd9cdb4eb1039c66cda41a5",
+    "path_id": 1,
+    "bytes": 502429,
+    "sha256": "8ffe065dda308f9503286c5a7b1ebad540e93d836229f4329205b6760d26f78e"
+  },
+  {
+    "name": "fists_knives-icsharp_bzip2",
+    "output": "fists_knives-icsharp_bzip2.bytes",
+    "asset_file": "aecff94eef79b6740bb13877587de1fe",
+    "path_id": 1,
+    "bytes": 33432,
+    "sha256": "c88bb008981b4ec3106c32d0fdfc46f00c10b51d03b8e4b77beefdb769e33c53"
+  },
+  {
+    "name": "fists_ninjasword-icsharp_bzip2",
+    "output": "fists_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "b0a02aa4d3e3062419f949c06fd8ae1b",
+    "path_id": 1,
+    "bytes": 33548,
+    "sha256": "5eebf8ab829ce1e4e3ea1883cad79678b4f105ffeb16ed839f6e5bbcb27766a6"
+  },
+  {
+    "name": "jpn",
+    "output": "jpn.bytes",
+    "asset_file": "b1d26f9789f948f499dfb090882e853f",
+    "path_id": 1,
+    "bytes": 607451,
+    "sha256": "95f925e8adb97d2e43be6da90130be3d2ad6c888129951649bba9444c0a19750"
+  },
+  {
+    "name": "_ninjasword-icsharp_bzip2",
+    "output": "_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "b1e7dfb0fea286f42b1c498150cb66d6",
+    "path_id": 1,
+    "bytes": 141430,
+    "sha256": "5e57f097cb5ce86f74d7dbb3873e23ec0dcc0cf4cdebfe6029de7f1e705e685b"
+  },
+  {
+    "name": "claws_spear-icsharp_bzip2",
+    "output": "claws_spear-icsharp_bzip2.bytes",
+    "asset_file": "b2957508261cf594a9f20c9e7bd7c0ef",
+    "path_id": 1,
+    "bytes": 36084,
+    "sha256": "02aac591136f216254b6a291049a5b1eb8408cb4115b41e56b651b9ac049d268"
+  },
+  {
+    "name": "stance_idle",
+    "output": "stance_idle.bytes",
+    "asset_file": "b36e9bc6962f1cd498eec48828be6d0a",
+    "path_id": 1,
+    "bytes": 63915,
+    "sha256": "798450158864ac4bb1388e0bec1dda7bc97bc7eff4cedae11be9e9d0eb898513"
+  },
+  {
+    "name": "sai_tonfa-icsharp_bzip2",
+    "output": "sai_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "b43a3fca091e91646aa36ea2f7524d37",
+    "path_id": 1,
+    "bytes": 34028,
+    "sha256": "35c65159af3f2b57e1a8433722b37540aac5469e8b36896671af46284d053f60"
+  },
+  {
+    "name": "config_cdn",
+    "output": "config_cdn.bytes",
+    "asset_file": "b4a3f03fce41947588c6b868aeb48fc9",
+    "path_id": 1,
+    "bytes": 676504,
+    "sha256": "9e20dd48ee1a993ef27846a13d17bf0cf6cf151ff691764df40b7c40b8474b00"
+  },
+  {
+    "name": "tonfa-icsharp_bzip2",
+    "output": "tonfa-icsharp_bzip2.bytes",
+    "asset_file": "b55dd220e5dd5de419aa82e1e7abb760",
+    "path_id": 1,
+    "bytes": 41127,
+    "sha256": "f081f1d2010029ab19d7e52a81b43d06e8a0936834aedd065c7c7f6ecabcb7db"
+  },
+  {
+    "name": "freeze_raid0_params",
+    "output": "freeze_raid0_params.bytes",
+    "asset_file": "b5c54b3978add5a4e80bd60e0f7cc972",
+    "path_id": 1,
+    "bytes": 6723,
+    "sha256": "8b17695dc0f31c9ba8979a679eb08b7a22f5fbd9701f628fe83ea08952aab500"
+  },
+  {
+    "name": "gdpr",
+    "output": "gdpr.bytes",
+    "asset_file": "b5d98410d57ed474593ca19841e9afaf",
+    "path_id": 1,
+    "bytes": 3608,
+    "sha256": "5c5f7d15b464f6c3deb2a24aa68b434d4c1cf061aa9f34aa7cdadd454b2c3809"
+  },
+  {
+    "name": "sickles_swords-icsharp_bzip2",
+    "output": "sickles_swords-icsharp_bzip2.bytes",
+    "asset_file": "b5e1635a84b1b2b4f97294dee462e1db",
+    "path_id": 1,
+    "bytes": 37201,
+    "sha256": "b3d4491adc5aec4ef6d7e7656c80188c79f2096532eba713c5cd8debc85ac218"
+  },
+  {
+    "name": "duck",
+    "output": "duck.bytes",
+    "asset_file": "b6b58ac2be1237542a130ae266c9fc8e",
+    "path_id": 1,
+    "bytes": 12948,
+    "sha256": "2a55ebcd572ec7d8e4d75a2ae648df6d904824b78e0062e587fb451783c60e6d"
+  },
+  {
+    "name": "lose_tired",
+    "output": "lose_tired.bytes",
+    "asset_file": "b6c3563932cc3104e982a3fb5aa1db81",
+    "path_id": 1,
+    "bytes": 56634,
+    "sha256": "2b1ca70fd8ccb902ac4b1e0577eabe3c3306bd4b7bb16d4a873b2980ae1467fe"
+  },
+  {
+    "name": "wall_jump_4",
+    "output": "wall_jump_4.bytes",
+    "asset_file": "b75032af424461d45b946618a0190c1e",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "954b13ed9c3efecfae945270cb7dfa1c41249310846f3e044b92093291561bb6"
+  },
+  {
+    "name": "double_punch",
+    "output": "double_punch.bytes",
+    "asset_file": "b754ea08b7a0426449546b7853957131",
+    "path_id": 1,
+    "bytes": 21038,
+    "sha256": "256210778a58eb3083f7217364d4f094e1f2c3e2db960b4188f2643d5d76b096"
+  },
+  {
+    "name": "utils",
+    "output": "utils.bytes",
+    "asset_file": "b7b716e9a13f845259db316a7d0921f1",
+    "path_id": 1,
+    "bytes": 4396,
+    "sha256": "f62474de7ae67c626e175f11f1b59c03b001ec0a1922515a902da4b2a824f4d7"
+  },
+  {
+    "name": "fists_fists-icsharp_bzip2",
+    "output": "fists_fists-icsharp_bzip2.bytes",
+    "asset_file": "b838e9a23e992364a81a292153d18d6a",
+    "path_id": 1,
+    "bytes": 18523,
+    "sha256": "5bce7ccba4edf4970f7fea695226d7525a041bbfb680f266608daccc3faa8e05"
+  },
+  {
+    "name": "spear-icsharp_bzip2",
+    "output": "spear-icsharp_bzip2.bytes",
+    "asset_file": "b9ea02fefb37df143a4d59713ffb4a2c",
+    "path_id": 1,
+    "bytes": 20207,
+    "sha256": "309073945e1eefd0b9398f06eca280d6096919580150a3bb2ea27bba904b47d0"
+  },
+  {
+    "name": "mdl_skeleton",
+    "output": "mdl_skeleton.bytes",
+    "asset_file": "ba07c1a10210b404199bfc92c794d0ed",
+    "path_id": 1,
+    "bytes": 68288,
+    "sha256": "44c913f13935a766b3d2b9e7f1bf6ba4c8c8c953d4b05662b9d2982bf4159307"
+  },
+  {
+    "name": "hoaxen_raid_params",
+    "output": "hoaxen_raid_params.bytes",
+    "asset_file": "ba49ea1e032e4184f9e657c3be43eb0d",
+    "path_id": 1,
+    "bytes": 3174,
+    "sha256": "05bb7d7e1c1ce9c34cd63224478a57e76d99de1e1abf8885cf920579488907a1"
+  },
+  {
+    "name": "dodge_kick",
+    "output": "dodge_kick.bytes",
+    "asset_file": "ba6e3a8718eae914a945d8304a1f0fb7",
+    "path_id": 1,
+    "bytes": 27510,
+    "sha256": "ae04055c38f3e9d195c455b2abe4e930aaa1033fa841c2c6213f3e6ba7c00f0b"
+  },
+  {
+    "name": "ninjasword-icsharp_bzip2",
+    "output": "ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "bb1a9ba4fcbbc9747aea898c5678bf40",
+    "path_id": 1,
+    "bytes": 18490,
+    "sha256": "3dc478f2a96e260e27c9aa13807bf8244c7f901563bc8926d7f84d34094e4b63"
+  },
+  {
+    "name": "high_block",
+    "output": "high_block.bytes",
+    "asset_file": "bc3834e8bc4f1ac4bad5c1edc61c4152",
+    "path_id": 1,
+    "bytes": 13757,
+    "sha256": "302439b6210a94a32462ae8cc32553c4e840026f4a85d05a385942fe8f0c4cf2"
+  },
+  {
+    "name": "dojo_american_event_params",
+    "output": "dojo_american_event_params.bytes",
+    "asset_file": "bc77d493ebf7aaf4ead66ec8aff7cb1d",
+    "path_id": 1,
+    "bytes": 2140,
+    "sha256": "d34d36d0db10bc760abdbfb45b745c94444a33a3b59ffbd54885c3f68a5e14b1"
+  },
+  {
+    "name": "waterfall_small_params",
+    "output": "waterfall_small_params.bytes",
+    "asset_file": "be937caeb5265854a9f83cf68a68b171",
+    "path_id": 1,
+    "bytes": 5403,
+    "sha256": "56f001d758071dc972331f18c71ea50950514ef4b949bcae9392eb30960b2193"
+  },
+  {
+    "name": "throw_through_the_back_v",
+    "output": "throw_through_the_back_v.bytes",
+    "asset_file": "c08605c582e396047b96111d4eb6d14f",
+    "path_id": 1,
+    "bytes": 38836,
+    "sha256": "598b2ac0654243fc5887df7af425d1e58a312604993530335c53b02819863b15"
+  },
+  {
+    "name": "mdl_punching_bag",
+    "output": "mdl_punching_bag.bytes",
+    "asset_file": "c0bd058065b659b4f930c0a1f4f06a96",
+    "path_id": 1,
+    "bytes": 1560,
+    "sha256": "79ab5ad94a829af83ce28ee72bb38cfb101786b83b7edb3d9ed30997967277c9"
+  },
+  {
+    "name": "promotions_from_first_session",
+    "output": "promotions_from_first_session.bytes",
+    "asset_file": "c17ecfa6082a9f345bc620e58a66ae7f",
+    "path_id": 1,
+    "bytes": 2368,
+    "sha256": "e3882d31b4b2e17743f2c6228b816ad7a3b939ce34e07fea43984acdb4be2d6c"
+  },
+  {
+    "name": "eclipse",
+    "output": "eclipse.bytes",
+    "asset_file": "c1e1dd089ca1443a896b37ee389b8ca8",
+    "path_id": 1,
+    "bytes": 20076,
+    "sha256": "e5ede5a3d7fe6cc1180508db40a1b697837c6252ae9bd7ba3d24de19eaf31bd1"
+  },
+  {
+    "name": "Achievements",
+    "output": "Achievements.bytes",
+    "asset_file": "c1e7b9ee9e102dc418f995cefece71bc",
+    "path_id": 1,
+    "bytes": 56876,
+    "sha256": "ca692baaf172c53ae2eefd6fe449dd79d9d000d36717ba9aec6067c8455a6f80"
+  },
+  {
+    "name": "machete_ninjasword-icsharp_bzip2",
+    "output": "machete_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "c29213cf1b1b5f14cae41b4cc41b2768",
+    "path_id": 1,
+    "bytes": 35901,
+    "sha256": "8d9eb79c59726f4e01f5b82989b215c6c8763204f31c3560c1bcba15a2fd0ce3"
+  },
+  {
+    "name": "nunchaku-icsharp_bzip2",
+    "output": "nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "c30b2082b5013ec4a9c27795ea08831a",
+    "path_id": 1,
+    "bytes": 49609,
+    "sha256": "f0d346adbe6191163aa1446facbc5063dc294bbab10bdf6ed279455425ca18aa"
+  },
+  {
+    "name": "mdl_skeleton_missile",
+    "output": "mdl_skeleton_missile.bytes",
+    "asset_file": "c337e7af8fbdc0647b4ff38c9b21f125",
+    "path_id": 1,
+    "bytes": 2752,
+    "sha256": "ba51193601adb64b13ece21992de4a5740779110dbb0bbe5990559bdb1929bbf"
+  },
+  {
+    "name": "ambrush",
+    "output": "ambrush.bytes",
+    "asset_file": "c3577dea29226454badc17c4c2119104",
+    "path_id": 1,
+    "bytes": 8320,
+    "sha256": "c7a6f3aa95c82d11aed4b173d42e1b44059b4c271a908067e22241db825a268c"
+  },
+  {
+    "name": "standup",
+    "output": "standup.bytes",
+    "asset_file": "c3b87f2b29c1c794fb327e0c146fa780",
+    "path_id": 1,
+    "bytes": 29937,
+    "sha256": "d2fa4fd8ae63ceb4bc38efe74950d7c72c95f43b51b6e3ba58aa369db1788efc"
+  },
+  {
+    "name": "wall_jump_3",
+    "output": "wall_jump_3.bytes",
+    "asset_file": "c3ff47fcadd878b4caaf4db600996344",
+    "path_id": 1,
+    "bytes": 32364,
+    "sha256": "dcf6a6f03e2535263b14ade4920b90eb21398dfca824f7add5e5a2c5b9c67d9f"
+  },
+  {
+    "name": "update_quests",
+    "output": "update_quests.bytes",
+    "asset_file": "c44b12ca4223245a3a246345b01635e6",
+    "path_id": 1,
+    "bytes": 67884,
+    "sha256": "80c58ca79f09ffcffea12ed0da647064086333e11a4a764bba808225b1bdaa61"
+  },
+  {
+    "name": "knives_tonfa-icsharp_bzip2",
+    "output": "knives_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "c4b51e45e469e704282442e69bfb039f",
+    "path_id": 1,
+    "bytes": 34570,
+    "sha256": "617c975798ec55f70d1451f1fb06aba63f42ae68aa36472b904b39e1534e9a72"
+  },
+  {
+    "name": "_-icsharp_bzip2",
+    "output": "_-icsharp_bzip2.bytes",
+    "asset_file": "c4c6a997529b8c24390d8d901b8a4878",
+    "path_id": 1,
+    "bytes": 96284,
+    "sha256": "55b0c07dc6955e1c8a3c9537ac61d7a7e2b51dbad1e080f358d8e4aa2789e16d"
+  },
+  {
+    "name": "ruins_village_params",
+    "output": "ruins_village_params.bytes",
+    "asset_file": "c4de4f1d70f903548a291498b9970bcc",
+    "path_id": 1,
+    "bytes": 1977,
+    "sha256": "13a1d3ad975104d74937debac63ca2d772a77e6122972b5135440c0693af89d8"
+  },
+  {
+    "name": "machete_spear-icsharp_bzip2",
+    "output": "machete_spear-icsharp_bzip2.bytes",
+    "asset_file": "c6e8a717537baab4ab895351c9759c1f",
+    "path_id": 1,
+    "bytes": 37061,
+    "sha256": "4419bb05b41c6875b70789bc4a64d381ce71d3655ff18a4afd11e896fef4711f"
+  },
+  {
+    "name": "_claws-icsharp_bzip2",
+    "output": "_claws-icsharp_bzip2.bytes",
+    "asset_file": "c82cd7eb327ca0f40893d8c3170362bb",
+    "path_id": 1,
+    "bytes": 141044,
+    "sha256": "28f35833f8683e293e06df9346176534ffb76f17ae722dd476ba5fe520fbf2ea"
+  },
+  {
+    "name": "dojo_cny25_params",
+    "output": "dojo_cny25_params.bytes",
+    "asset_file": "c844f05c423ddfa4fb3ee3779a87032f",
+    "path_id": 1,
+    "bytes": 1767,
+    "sha256": "5280fe1f232790a38116f98bdb156fbcb73ef95f87f1d21a3235d9b62b92440f"
+  },
+  {
+    "name": "fra",
+    "output": "fra.bytes",
+    "asset_file": "ca1d30243d791044a8dfd2fc52c2c47c",
+    "path_id": 1,
+    "bytes": 543289,
+    "sha256": "1a42ad26f238fda9f3fa137d87d31bce2663a2b7f3cc82a4dcb84d9f0159cfa0"
+  },
+  {
+    "name": "ruins_village_small_params",
+    "output": "ruins_village_small_params.bytes",
+    "asset_file": "cad7fd902c943164cb4c0566afb68ba2",
+    "path_id": 1,
+    "bytes": 2117,
+    "sha256": "463cee292e9af50a9705a89e79bccb9c77c9e0450348c839c056714244e77131"
+  },
+  {
+    "name": "throw_forward_v",
+    "output": "throw_forward_v.bytes",
+    "asset_file": "cbc1ee5922514d045a076c95b97c6f35",
+    "path_id": 1,
+    "bytes": 41263,
+    "sha256": "30a525da6311a1582c1e7b2a13f10947050b719f8afabeff95835381f1b69ebd"
+  },
+  {
+    "name": "knuckles_machete-icsharp_bzip2",
+    "output": "knuckles_machete-icsharp_bzip2.bytes",
+    "asset_file": "cbee785d5f2d7c94f88119e142917ad0",
+    "path_id": 1,
+    "bytes": 32944,
+    "sha256": "efd30ada198cea4f3490a31335d06fcd407a27752df9a644ec8b58de01c4e153"
+  },
+  {
+    "name": "step_forward",
+    "output": "step_forward.bytes",
+    "asset_file": "cc0901bd1247ac64cb1873058571c4e8",
+    "path_id": 1,
+    "bytes": 12948,
+    "sha256": "18ef16bd166f18abed39d4ac91d835559384a3c5d9db224e3c8a5958763ced60"
+  },
+  {
+    "name": "sai_swords-icsharp_bzip2",
+    "output": "sai_swords-icsharp_bzip2.bytes",
+    "asset_file": "cc2d6a4634c0f3646963412275d51687",
+    "path_id": 1,
+    "bytes": 35988,
+    "sha256": "70ff26a5f12d7ebe394a8f1b54569c253551ec1037c1917fccc110d08300e0c0"
+  },
+  {
+    "name": "spaceship_params",
+    "output": "spaceship_params.bytes",
+    "asset_file": "cc5b91294bea70f4f995ce9f4ff51713",
+    "path_id": 1,
+    "bytes": 5219,
+    "sha256": "3d2dc0b26d25775ea4353b721ef8013ddcb901adc913f5100f3056950721aba8"
+  },
+  {
+    "name": "tonfa_tonfa-icsharp_bzip2",
+    "output": "tonfa_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "ccef25476dda8c241a6f3b97f9fedf0c",
+    "path_id": 1,
+    "bytes": 19541,
+    "sha256": "4f1d8bd1dd63069f91e8f311551ea1f33d5c389141dfd972995ae178500f7a66"
+  },
+  {
+    "name": "shop_idle",
+    "output": "shop_idle.bytes",
+    "asset_file": "cdc4dd0936337024f8d625d549b017cd",
+    "path_id": 1,
+    "bytes": 51780,
+    "sha256": "3c41dc6dd723931c342d5168bbb1b46d7dbbfc38472d061d2a9b2942c2d7c060"
+  },
+  {
+    "name": "fists_kusarigama-icsharp_bzip2",
+    "output": "fists_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "cdd3afee023ae1247a705feb42f1e75f",
+    "path_id": 1,
+    "bytes": 44485,
+    "sha256": "5c5a76806594fc887b3f52575a43adba92bd7e80eb76a51a4ccb63c2c3a83d2f"
+  },
+  {
+    "name": "forge_quests",
+    "output": "forge_quests.bytes",
+    "asset_file": "cf116e63219774848a3af06dd7962431",
+    "path_id": 1,
+    "bytes": 11372,
+    "sha256": "8fc2db0e6300e9f1976373dab6cd9ca44608a2131e72c0724fd04f0ada2f5dff"
+  },
+  {
+    "name": "autumn_params",
+    "output": "autumn_params.bytes",
+    "asset_file": "cf60f4384ef0ac74cab7e1fbeab5c88a",
+    "path_id": 1,
+    "bytes": 2271,
+    "sha256": "9781c5ef8a87ab7a643bc4327d2b9854faf10e2f85be673a09bf5b3a5bce8567"
+  },
+  {
+    "name": "mdl_head_kenji",
+    "output": "mdl_head_kenji.bytes",
+    "asset_file": "cfeb89998a986994b97e9c1e396970f0",
+    "path_id": 1,
+    "bytes": 168280,
+    "sha256": "9756d168e2ca31517720116bc684049d58307191b5a9feddc9d3c88623742d14"
+  },
+  {
+    "name": "sai_staff-icsharp_bzip2",
+    "output": "sai_staff-icsharp_bzip2.bytes",
+    "asset_file": "d0c7be8519c54c34685d4a4b51fe4215",
+    "path_id": 1,
+    "bytes": 36599,
+    "sha256": "1e9cbde7f3790e364336da014e094bc8cfa9234fa4818fa4b0d115b4d1289010"
+  },
+  {
+    "name": "castle_and_bridge_params",
+    "output": "castle_and_bridge_params.bytes",
+    "asset_file": "d1d17e779bf470741b411121437f0b9d",
+    "path_id": 1,
+    "bytes": 6207,
+    "sha256": "85f838395a54ae7c185875946070a40c6cac572a25add4252284dcc4232401eb"
+  },
+  {
+    "name": "knives_kusarigama-icsharp_bzip2",
+    "output": "knives_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "d2f2c0b92600ac941a1f1a1aa3f2719a",
+    "path_id": 1,
+    "bytes": 48155,
+    "sha256": "6f1d3b81ef9a7a63eff3c1cc99636ddd3642f3dc9827768545b0a7ed1bf5cb2b"
+  },
+  {
+    "name": "nunchaku_tonfa-icsharp_bzip2",
+    "output": "nunchaku_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "d422ae68747a6a04584869b7c689915b",
+    "path_id": 1,
+    "bytes": 42438,
+    "sha256": "ec020b6f3f175698cb44ea76e4e7df809484343e7c92719aad74f6d2c802a078"
+  },
+  {
+    "name": "village_params",
+    "output": "village_params.bytes",
+    "asset_file": "d4c1144a6a88f7d4b802394be7308520",
+    "path_id": 1,
+    "bytes": 5016,
+    "sha256": "04765d137c83e19a42838e6cae9a29ff52310abe48e9cfd5aba3f56e6e77de68"
+  },
+  {
+    "name": "server_quests",
+    "output": "server_quests.bytes",
+    "asset_file": "d4c87c2374c47ef47874f49be3e17a2b",
+    "path_id": 1,
+    "bytes": 13376,
+    "sha256": "a45d2d07f30d07e12f37741773bbf74dc29e4b2a426d009466c52d96a814355a"
+  },
+  {
+    "name": "jump",
+    "output": "jump.bytes",
+    "asset_file": "d4f2a359c8825b44c91366d31b2ea163",
+    "path_id": 1,
+    "bytes": 23465,
+    "sha256": "cb8050468e4d7e6986e54617b77ba3877232cd18bac68a1233a6b6236d2850cb"
+  },
+  {
+    "name": "flooded_village_params",
+    "output": "flooded_village_params.bytes",
+    "asset_file": "d5134f4077abc45418a4cbd85fcb7c8f",
+    "path_id": 1,
+    "bytes": 4297,
+    "sha256": "be23e3de48240411e73d794f4660e834f0a9fe859e032b08c8c3208b2ac58e52"
+  },
+  {
+    "name": "GooglePlayEmailScopeResolverConfig",
+    "output": "GooglePlayEmailScopeResolverConfig.bytes",
+    "asset_file": "d5977de536794a3bad858f7a1e960255",
+    "path_id": 1,
+    "bytes": 172,
+    "sha256": "8bef8afc8ffb94d02ac45d0bbef431cb5372a7e6deee3d4e47f2a4dc433cf614"
+  },
+  {
+    "name": "dojo_india24_params",
+    "output": "dojo_india24_params.bytes",
+    "asset_file": "d67713dff2611b74c8aab554289a557d",
+    "path_id": 1,
+    "bytes": 2760,
+    "sha256": "1b63fe4b77642a653969372da7d1d1003fbbbf5ca03c7a611277b27adebfed73"
+  },
+  {
+    "name": "stance_1",
+    "output": "stance_1.bytes",
+    "asset_file": "d68b7be87637ddd49a5f394c35699aa7",
+    "path_id": 1,
+    "bytes": 37218,
+    "sha256": "d640a244c62749c7d1dd655fe7218a4734bce9b13c26b505882c8c6fe07f91b9"
+  },
+  {
+    "name": "katars_kusarigama-icsharp_bzip2",
+    "output": "katars_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "d704c6cbdeefc974e93d90d3e17212ea",
+    "path_id": 1,
+    "bytes": 44591,
+    "sha256": "f01e02c6115cbadb3b4e6f484b1919369579d970378e0af924ef49be3a6b0694"
+  },
+  {
+    "name": "low_hit_heavy",
+    "output": "low_hit_heavy.bytes",
+    "asset_file": "d79accdb109d3f643b5ec2fd51e61633",
+    "path_id": 1,
+    "bytes": 19420,
+    "sha256": "24f982e82b8a6bc12ffe91421cab1fcbc84c2aba859219097b751e80ecae9858"
+  },
+  {
+    "name": "high_hit",
+    "output": "high_hit.bytes",
+    "asset_file": "d7bff4ce53f6d374ea1a4937ba5261f4",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "3f20c37003b073fbbd1cb0ab3ee45a606324ee18246573011934be00464c63dd"
+  },
+  {
+    "name": "LineBreaking Leading Characters",
+    "output": "LineBreaking Leading Characters.bytes",
+    "asset_file": "d82c1b31c7e74239bff1220585707d2b",
+    "path_id": 1,
+    "bytes": 95,
+    "sha256": "62d3f4d5f64aaf885692d2d13a8313f6918e6e4c5aeb3990a43f614652bfd89c"
+  },
+  {
+    "name": "spear_spear-icsharp_bzip2",
+    "output": "spear_spear-icsharp_bzip2.bytes",
+    "asset_file": "d90e17aae48efb04f9be0f32a6ba165a",
+    "path_id": 1,
+    "bytes": 22456,
+    "sha256": "7a4f1aaac1de85f21e58efa5361c14aebddd7aa233e8484a300135223ac6cbce"
+  },
+  {
+    "name": "throw_through_the_back_a",
+    "output": "throw_through_the_back_a.bytes",
+    "asset_file": "da991e5d92d844a49b9eccba807e92ce",
+    "path_id": 1,
+    "bytes": 38836,
+    "sha256": "f57ef1b86029b28a6bbca2ac515b878e7d7aa8986e151bdf206568e86afc9db1"
+  },
+  {
+    "name": "shuanggou_sickles-icsharp_bzip2",
+    "output": "shuanggou_sickles-icsharp_bzip2.bytes",
+    "asset_file": "daf748a78d12f8246acc6a60990d8d33",
+    "path_id": 1,
+    "bytes": 36575,
+    "sha256": "c8e17c5a770e58abd9ca13796505948dda10c8f4587ea587bb1a942fbae473af"
+  },
+  {
+    "name": "front_jump_kick",
+    "output": "front_jump_kick.bytes",
+    "asset_file": "dc7a60f45ae0f4847b27187337c979d7",
+    "path_id": 1,
+    "bytes": 25083,
+    "sha256": "072518bfa4675b6c8383ff70e56f8b19364fead15fd6755e3efff79bd5f26e71"
+  },
+  {
+    "name": "kusarigama_ninjasword-icsharp_bzip2",
+    "output": "kusarigama_ninjasword-icsharp_bzip2.bytes",
+    "asset_file": "dd31d630d4cda8547b90d1623fc3f770",
+    "path_id": 1,
+    "bytes": 47512,
+    "sha256": "5afcffbd3557cce97f051a65916feba5f97c5cbb61bad5b90dc8c8d182adb869"
+  },
+  {
+    "name": "overhead_hit",
+    "output": "overhead_hit.bytes",
+    "asset_file": "dd3d87417c38abe47a9b42474d9c0145",
+    "path_id": 1,
+    "bytes": 15375,
+    "sha256": "b85e3fbbb9e2587fe66fc2cb3b5eefe939d088ae5cc0f1dd959e834bb6cf4d26"
+  },
+  {
+    "name": "hardmode",
+    "output": "hardmode.bytes",
+    "asset_file": "ddd81012dff684d23ae8a0941535dfeb",
+    "path_id": 1,
+    "bytes": 3544,
+    "sha256": "e5d4d4f82ca24836d4d62744e7aae89a3e5aa73ca3b3c1724a99cfb864782ce3"
+  },
+  {
+    "name": "kusarigama-icsharp_bzip2",
+    "output": "kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "de90b7208454edb4882eb162126c1a68",
+    "path_id": 1,
+    "bytes": 46880,
+    "sha256": "fe58012b854e2ad53de5fe1ca88eedc40549404d3a9b660c69547352e2040799"
+  },
+  {
+    "name": "raid_quests",
+    "output": "raid_quests.bytes",
+    "asset_file": "de9f8736e435ff241b8fc4c3d51ba329",
+    "path_id": 1,
+    "bytes": 129792,
+    "sha256": "137a7c63d4adcb4f004744643df1535da6e8cc01b9777c4132bc6465d87fb426"
+  },
+  {
+    "name": "claws_knives-icsharp_bzip2",
+    "output": "claws_knives-icsharp_bzip2.bytes",
+    "asset_file": "df4bd6071d25bc542b7338d26953e098",
+    "path_id": 1,
+    "bytes": 36030,
+    "sha256": "f56e34dde68bf0128c43032deb39439ef65389d318c8f5ffce4193dcd2897384"
+  },
+  {
+    "name": "jump_in",
+    "output": "jump_in.bytes",
+    "asset_file": "df64dcb5cf2f09a429d96f0ea494e88a",
+    "path_id": 1,
+    "bytes": 16993,
+    "sha256": "87288259883155df135fe5c3547343c6e5ff4fda2bb62ac640e5bc85a05edca8"
+  },
+  {
+    "name": "vortex_raid_params",
+    "output": "vortex_raid_params.bytes",
+    "asset_file": "dfe6c6599fe6ee7409611e92df800e8f",
+    "path_id": 1,
+    "bytes": 1853,
+    "sha256": "8de6eaffca7841ef152d44eafdf1abab581ba32754c6db52068573b473eeadb9"
+  },
+  {
+    "name": "hunter_raid_params",
+    "output": "hunter_raid_params.bytes",
+    "asset_file": "e107c5ea9f857af4ca988499200cd37d",
+    "path_id": 1,
+    "bytes": 2565,
+    "sha256": "42edfe363a2e814aeb1017a00cd5241668ef8d6bade8aa9cc76b78baa3b8b399"
+  },
+  {
+    "name": "wall_hit_fall",
+    "output": "wall_hit_fall.bytes",
+    "asset_file": "e22b4060db8824c41a0a352306712b8f",
+    "path_id": 1,
+    "bytes": 29937,
+    "sha256": "d56000db0e697ac331adda745fa705bfce18cfc3b59d94261f0d56327914fa9c"
+  },
+  {
+    "name": "fists2_stance_idle",
+    "output": "fists2_stance_idle.bytes",
+    "asset_file": "e22dbbe434ddef04ab6aca2a7bd0d289",
+    "path_id": 1,
+    "bytes": 81713,
+    "sha256": "8460b186d6de78b9c884d8d440c3a9b8aa938116ca40204987fe304472b6c3eb"
+  },
+  {
+    "name": "premium_packs",
+    "output": "premium_packs.bytes",
+    "asset_file": "e294494d273da6243b1edcda31bdc87f",
+    "path_id": 1,
+    "bytes": 96044,
+    "sha256": "168c2eef4a902733c201026d39bc893c13658079548a217b0dd64e3f4c2de536"
+  },
+  {
+    "name": "scythe_wandererstaff-icsharp_bzip2",
+    "output": "scythe_wandererstaff-icsharp_bzip2.bytes",
+    "asset_file": "e3990cee46f35394ebc58be5c023e74c",
+    "path_id": 1,
+    "bytes": 45642,
+    "sha256": "606f27685375a31303ebfbbd7d3742cf96572673ca99a46136a413004bfa45e6"
+  },
+  {
+    "name": "LocalDaily",
+    "output": "LocalDaily.bytes",
+    "asset_file": "e40b0a577dfcca24780b4c19a122210d",
+    "path_id": 1,
+    "bytes": 1496,
+    "sha256": "369735947bcbd7ce64ed7838b9e46b93204ac8b93c4b1793762be9d5d209916f"
+  },
+  {
+    "name": "knives_nunchaku-icsharp_bzip2",
+    "output": "knives_nunchaku-icsharp_bzip2.bytes",
+    "asset_file": "e4d1d26814138004d9c261bfc7cefb99",
+    "path_id": 1,
+    "bytes": 45080,
+    "sha256": "d5bee94ec096232129410832bbe670d174eb469402d24aa73dbf82b20f07c0f2"
+  },
+  {
+    "name": "sakura_params",
+    "output": "sakura_params.bytes",
+    "asset_file": "e4ef6f733113db445bca14084ca0f337",
+    "path_id": 1,
+    "bytes": 2011,
+    "sha256": "43d5d8a4ec116774d6efdd14ddae60a9e3fb517e81ab4190611a77f9829e6236"
+  },
+  {
+    "name": "saturn_raid_params",
+    "output": "saturn_raid_params.bytes",
+    "asset_file": "e56c1e66776613e4699f4e16941ecdb4",
+    "path_id": 1,
+    "bytes": 4477,
+    "sha256": "4548642687b505e791767c32590c34c04a598adf7bc28ad9d0a4a472cdcacb5b"
+  },
+  {
+    "name": "story",
+    "output": "story__9017f5cb9f59e09f.bytes",
+    "asset_file": "e58b10bb72db9b6468b498c70e4fe901",
+    "path_id": 1,
+    "bytes": 43564,
+    "sha256": "9017f5cb9f59e09f80afb8a141d98d7d16cf94f7aa327cdae5aad30a06be0757"
+  },
+  {
+    "name": "mdl_punch_bag_anniversity",
+    "output": "mdl_punch_bag_anniversity.bytes",
+    "asset_file": "e64443703b9428842b79b0a32d21e992",
+    "path_id": 1,
+    "bytes": 403692,
+    "sha256": "ff3dd66f09938ed029108a2319d5a009a28b7d3cc834ed79127782ddd392a7e5"
+  },
+  {
+    "name": "knives_low_slash",
+    "output": "knives_low_slash.bytes",
+    "asset_file": "e65f8eda122c4c54fafcfb31f7b63e51",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "5112d36e6068c8524972acf853ec011d8ea7c7bc45481005acd0c25cfc729d3e"
+  },
+  {
+    "name": "sucker_kick",
+    "output": "sucker_kick.bytes",
+    "asset_file": "e6f517d72b7bb0242a380b1aff1596e8",
+    "path_id": 1,
+    "bytes": 25892,
+    "sha256": "52311fb4cc086ede5f37986cec349b1226fe10630c0ae2209e792c4c4fc75933"
+  },
+  {
+    "name": "night_bridge_params",
+    "output": "night_bridge_params.bytes",
+    "asset_file": "e71ef3e357578e64c9b7615c3511ceec",
+    "path_id": 1,
+    "bytes": 2753,
+    "sha256": "9ed40d5255b1b1538892efe11151a0f931ab0c7c97d6263b71ae75bd4a221676"
+  },
+  {
+    "name": "dojo_indian_event_params",
+    "output": "dojo_indian_event_params.bytes",
+    "asset_file": "e8713730e9f0cbf44b8748edf9f08439",
+    "path_id": 1,
+    "bytes": 2151,
+    "sha256": "a8462e1e8e2c0b335e4d07e1be5a2a78eee07c79dfcb7515fac2461f0e46d4b5"
+  },
+  {
+    "name": "sweep",
+    "output": "sweep.bytes",
+    "asset_file": "e8e40b5ef7fadf4478b79950f97549a3",
+    "path_id": 1,
+    "bytes": 19420,
+    "sha256": "9d41bf70fd6d5c751fc13e1a919417a612cd438f79945b15ecc10eed0bf6bc93"
+  },
+  {
+    "name": "claws_kusarigama-icsharp_bzip2",
+    "output": "claws_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "e91208da5908de3498dd87f5be018834",
+    "path_id": 1,
+    "bytes": 47150,
+    "sha256": "c82225ebbbb9a7b96d365b45c9a14e2c567e673c02a6cf038b658c261616b829"
+  },
+  {
+    "name": "low_punch",
+    "output": "low_punch.bytes",
+    "asset_file": "e995f33ffda75c24faaaebed271b3f2f",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "86390590c8fda11aa4b13175229c5b4b799115f47febb889cef8335192bccdd9"
+  },
+  {
+    "name": "shuanggou_swords-icsharp_bzip2",
+    "output": "shuanggou_swords-icsharp_bzip2.bytes",
+    "asset_file": "e9d409678f2752247aa6b3a69a07fd83",
+    "path_id": 1,
+    "bytes": 30287,
+    "sha256": "8b811fc88130d9f9de229a1427124a69d9de79287eae5583df9a135e9c5a5e42"
+  },
+  {
+    "name": "blackness_raid_params",
+    "output": "blackness_raid_params.bytes",
+    "asset_file": "ea21f0f73b6cec54fabe17551a8a50e1",
+    "path_id": 1,
+    "bytes": 2931,
+    "sha256": "a8bf81fac32c6a55a096376012129f470f9184712f7343b0e97f9eb1cac28afb"
+  },
+  {
+    "name": "knives_machete-icsharp_bzip2",
+    "output": "knives_machete-icsharp_bzip2.bytes",
+    "asset_file": "ea261f804def70f48b2ffa84cba1e561",
+    "path_id": 1,
+    "bytes": 36815,
+    "sha256": "7fff84cbe9c7029b9c23993d29c7a7a2ab7431fad896367bfb3a40fef92e7169"
+  },
+  {
+    "name": "dash_backwards",
+    "output": "dash_backwards.bytes",
+    "asset_file": "eacdf3d51d8c12844afe0e9ad3caa8af",
+    "path_id": 1,
+    "bytes": 13757,
+    "sha256": "dc860319495aff037d8807fb030569a30bac72d7e89d1658758dd73390b84bf0"
+  },
+  {
+    "name": "packs",
+    "output": "packs__43dd48dc5b424ef2.bytes",
+    "asset_file": "eb09ea4c9751d40f38579b6a4c7e9a97",
+    "path_id": 1,
+    "bytes": 5676,
+    "sha256": "43dd48dc5b424ef2ea524aa3bc64b73d9c5cb0aa7db6bd91dec1383012c148cb"
+  },
+  {
+    "name": "flying_rocks_params",
+    "output": "flying_rocks_params.bytes",
+    "asset_file": "eb2ae9551d05d6043ba12899a115e084",
+    "path_id": 1,
+    "bytes": 4467,
+    "sha256": "bb32da66d93d8ff691b89a711ec100329518e2505224e8c83e2dc46953b57062"
+  },
+  {
+    "name": "nunchaku_spear-icsharp_bzip2",
+    "output": "nunchaku_spear-icsharp_bzip2.bytes",
+    "asset_file": "eb8f49753f285e44eae3d0e51ffc1f43",
+    "path_id": 1,
+    "bytes": 44690,
+    "sha256": "e39a1bb82e864984018530bc459e3a4b3d3301401ebd801524c7b30434c4e27b"
+  },
+  {
+    "name": "item_restore_quests",
+    "output": "item_restore_quests.bytes",
+    "asset_file": "ec6a95816ac58b04ebe6e20c0d490e12",
+    "path_id": 1,
+    "bytes": 22168,
+    "sha256": "db90b6037a506b9c25941e42386ed67b09922cfdc2f88791a1d5060435b4dca8"
+  },
+  {
+    "name": "spa",
+    "output": "spa.bytes",
+    "asset_file": "ed9b77905b173c7469e7f5ba7ce75f39",
+    "path_id": 1,
+    "bytes": 513405,
+    "sha256": "35e83b5170571eac2b6cadb01618fb2554816af5e1a78445c71fbd1948db6bda"
+  },
+  {
+    "name": "dojo_params",
+    "output": "dojo_params.bytes",
+    "asset_file": "edc2d8f27c8832c42a625112628083e4",
+    "path_id": 1,
+    "bytes": 2431,
+    "sha256": "5898428d6bd9e852cb0515101455faa9f08bd9c59e14ed4e3012624efc8b9351"
+  },
+  {
+    "name": "batons_kusarigama-icsharp_bzip2",
+    "output": "batons_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "edc52535096d0884ebc8344f913a0ecd",
+    "path_id": 1,
+    "bytes": 45711,
+    "sha256": "3e0b291c21fb17e4086543dffaf0e15f86685ae2aa6ac7c2b5faf181a59f86e6"
+  },
+  {
+    "name": "fists_tonfa-icsharp_bzip2",
+    "output": "fists_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "ee5fd444db772914abc8a6affc98e4d0",
+    "path_id": 1,
+    "bytes": 32051,
+    "sha256": "8191dffd363ae73aea8de29304708fa837d069a93ff0a4d561a13121901e9598"
+  },
+  {
+    "name": "high_block_long",
+    "output": "high_block_long.bytes",
+    "asset_file": "eebb37e87a1cb7d419c183fcf68a0203",
+    "path_id": 1,
+    "bytes": 28319,
+    "sha256": "e3e8638672165da5263c7f85f2897180b91a3f8df6996f0aac00354b84a4d636"
+  },
+  {
+    "name": "_sai-icsharp_bzip2",
+    "output": "_sai-icsharp_bzip2.bytes",
+    "asset_file": "eefb0da7f5ba3d54d90125c03cd8df48",
+    "path_id": 1,
+    "bytes": 141061,
+    "sha256": "77f55a18f2ff7bf709c50b56e8cdc0c62d73a5533517d3ad59630e8d941f7ad3"
+  },
+  {
+    "name": "scythe_staff-icsharp_bzip2",
+    "output": "scythe_staff-icsharp_bzip2.bytes",
+    "asset_file": "efa82be21da9dd8438391b35b7b1e5f9",
+    "path_id": 1,
+    "bytes": 44671,
+    "sha256": "16922628f639f8df5c13e19a697c8921206552de735bb6c6953dccaf276dc9e5"
+  },
+  {
+    "name": "neural_network_params",
+    "output": "neural_network_params.bytes",
+    "asset_file": "efb0d235b32bafb4a82c35265e203218",
+    "path_id": 1,
+    "bytes": 8479,
+    "sha256": "d5f6ff703933253465aadc88a4fb43dc4f7800dd4e29c78b6b70b701e9997886"
+  },
+  {
+    "name": "tutorial_quests",
+    "output": "tutorial_quests.bytes",
+    "asset_file": "f0971de73c4c4d449ad1efcabf16a32a",
+    "path_id": 1,
+    "bytes": 15980,
+    "sha256": "53f1049cc4514ef349ba8f8170ff2e9c03400e7b0236e93096385f3fec80862d"
+  },
+  {
+    "name": "high_block_heavy",
+    "output": "high_block_heavy.bytes",
+    "asset_file": "f0f78151a4d821244bc5d419c0076bb6",
+    "path_id": 1,
+    "bytes": 23465,
+    "sha256": "5390273604d69e6729d716e247ddb28fc82b91f52567d92986fa4011b26813d0"
+  },
+  {
+    "name": "high_block_shop",
+    "output": "high_block_shop.bytes",
+    "asset_file": "f361f811cda971b4faa863cb5abf9381",
+    "path_id": 1,
+    "bytes": 16184,
+    "sha256": "468d02fa0b0b59b64aeb273d85aadb4901c13cdc574ecc3f913df17c02638d4a"
+  },
+  {
+    "name": "console_aliases",
+    "output": "console_aliases.bytes",
+    "asset_file": "f37ff72adabe84befb1defd74a53586e",
+    "path_id": 1,
+    "bytes": 256,
+    "sha256": "0fd98f50ab05cf6d946e21341ebe593048d1278f8444bd92538bd399ca8b74cc"
+  },
+  {
+    "name": "batons_fists-icsharp_bzip2",
+    "output": "batons_fists-icsharp_bzip2.bytes",
+    "asset_file": "f3b2c4368fca4904386d24ca3cf80b7b",
+    "path_id": 1,
+    "bytes": 31793,
+    "sha256": "59f106fe0f0574816c3c0ec3ff86d5d3622ab29fd7c32903570ae7f78ec387bf"
+  },
+  {
+    "name": "sai_shuanggou-icsharp_bzip2",
+    "output": "sai_shuanggou-icsharp_bzip2.bytes",
+    "asset_file": "f3ffbf67106b73a44a83f6495384122c",
+    "path_id": 1,
+    "bytes": 35565,
+    "sha256": "d34124ccaeadaddcf62cd5f0c0b2b33dba36e6bf54339e565ebf1867401319bc"
+  },
+  {
+    "name": "forward_roll",
+    "output": "forward_roll.bytes",
+    "asset_file": "f479b814974c71047a30a028fd69f8d4",
+    "path_id": 1,
+    "bytes": 21038,
+    "sha256": "0266ab9506e5f8db2ef86b96391bc3521f09262ec0d55a47819738588e31f507"
+  },
+  {
+    "name": "CdnMirrorsConfig",
+    "output": "CdnMirrorsConfig.bytes",
+    "asset_file": "f4b8b191cbac438680e5f44f10902895",
+    "path_id": 1,
+    "bytes": 492,
+    "sha256": "37687d849bfbcbf4689b1ee2201b6c4f423e34bbd79b8bc4084c4a5075b3cba2"
+  },
+  {
+    "name": "usersDefaultWarrior",
+    "output": "usersDefaultWarrior.bytes",
+    "asset_file": "f4b9f98aa3033964bb849d129aa899b4",
+    "path_id": 1,
+    "bytes": 1432,
+    "sha256": "3aed0ee102dd915251e3aa68280ee3275dc3ce2e7d3848428283eed898d2c455"
+  },
+  {
+    "name": "short_upward_elbow_strike",
+    "output": "short_upward_elbow_strike.bytes",
+    "asset_file": "f7ace29fc4dae3f44acc223675f3d8ff",
+    "path_id": 1,
+    "bytes": 11330,
+    "sha256": "19834c7ecf745aefee032b4e20c5de7d7fc8b28f9ab8b6e9cfbbc2d1228b553b"
+  },
+  {
+    "name": "knuckles_kusarigama-icsharp_bzip2",
+    "output": "knuckles_kusarigama-icsharp_bzip2.bytes",
+    "asset_file": "f7e1080d344e909499a63c848416a2f6",
+    "path_id": 1,
+    "bytes": 43435,
+    "sha256": "36c17c9bcab6885d89d4da39a101ea6365008df4926db77973bbb5a1fcb8359f"
+  },
+  {
+    "name": "claws_machete-icsharp_bzip2",
+    "output": "claws_machete-icsharp_bzip2.bytes",
+    "asset_file": "f9038f13d8fe5b5488a18e5f2785ad4f",
+    "path_id": 1,
+    "bytes": 36688,
+    "sha256": "49f0597d97d41e186d07d4b83503a17a58d01a2c14803c91e12201e19f7fcaab"
+  },
+  {
+    "name": "offers_quests",
+    "output": "offers_quests.bytes",
+    "asset_file": "f99ec806e710c95448fe40c7879061a5",
+    "path_id": 1,
+    "bytes": 9920,
+    "sha256": "03d1e642e06d3228924b477dc87dc5aaf1b18b1bdfbdc699546a45b58b812b2d"
+  },
+  {
+    "name": "stone_dragon_params",
+    "output": "stone_dragon_params.bytes",
+    "asset_file": "fa0906fa31acf9d48b672df7acf6303c",
+    "path_id": 1,
+    "bytes": 1849,
+    "sha256": "ca9fa20d1966d46eaf7f2bc57efbdc72a625d958aaa96531c3e18185aed07283"
+  },
+  {
+    "name": "volcano_params",
+    "output": "volcano_params.bytes",
+    "asset_file": "fad89312e519e2e4c8fa94cf3b9d9201",
+    "path_id": 1,
+    "bytes": 2387,
+    "sha256": "e9434504c4ea5532a746dcc9a328f8996e520007c067065c7ee41bd5060f66cd"
+  },
+  {
+    "name": "LineBreaking Following Characters",
+    "output": "LineBreaking Following Characters.bytes",
+    "asset_file": "fade42e8bc714b018fac513c043d323b",
+    "path_id": 1,
+    "bytes": 269,
+    "sha256": "3a73e5ffe2510756dd3c2e982fdc1218b4be82c6e21abde88070d6860e1bc8e6"
+  },
+  {
+    "name": "spinning_hit_heavy",
+    "output": "spinning_hit_heavy.bytes",
+    "asset_file": "fcaf5f885b0ca684cb1d0b894e010345",
+    "path_id": 1,
+    "bytes": 26701,
+    "sha256": "7a8de70c3239becee435e2f3a59e38995f4fd117daef6f341e22e21f6818b429"
+  },
+  {
+    "name": "spear_tonfa-icsharp_bzip2",
+    "output": "spear_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "fddad1adaacd4654688904e9c788f66a",
+    "path_id": 1,
+    "bytes": 34832,
+    "sha256": "eb8e873b2f19b62088453ad99e3c2ea89bf1ecc69fd0c7b74b2d34802ad0a7d8"
+  },
+  {
+    "name": "chest_laser_ray_player",
+    "output": "chest_laser_ray_player.bytes",
+    "asset_file": "fe312d3164c7f9f4ca6fbdb1d0ee277d",
+    "path_id": 1,
+    "bytes": 49353,
+    "sha256": "6f380c94d9906d68fe58d01800d5837370a097323a0699023d70dbc2aa0b565c"
+  },
+  {
+    "name": "claws_tonfa-icsharp_bzip2",
+    "output": "claws_tonfa-icsharp_bzip2.bytes",
+    "asset_file": "ff858435572beee4dac0127fca0abbb8",
+    "path_id": 1,
+    "bytes": 33588,
+    "sha256": "eff8e6701b41778c9e865e838c0e53683cbb13b1372b5e7ee1bbcd0003f2d95b"
+  },
+  {
+    "name": "short_jump_kick",
+    "output": "short_jump_kick.bytes",
+    "asset_file": "ffc2b9e0db3a8c14598ac15f29a33499",
+    "path_id": 1,
+    "bytes": 20229,
+    "sha256": "1f304b871ba7bc698bd123e043b9ce5d0c83712490e53426cffcc28f8ea08e31"
+  }
+]

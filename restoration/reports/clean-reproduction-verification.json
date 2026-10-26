@@ -1,0 +1,33 @@
+{
+  "clean_pipeline_completed": true,
+  "source_original_sha256": "4f1cecf66a154da43ee71bca509d351c7349be26a355d76276482d09ddc54375",
+  "active_apk": {
+    "bytes": 737947037,
+    "sha256": "575b3102fa86a0d97186dc5e0a8fa44f4e07f8c0f0691d25f9f3c335beeaf7fe"
+  },
+  "reproduced_apk_sha256": "118a2263d9897b6614f6886b8afcd505f26db7cec01c2bd6f6b24becdda0aaff",
+  "compared_non_META_INF_entries": 3279,
+  "changed_entries": [
+    "assets/revival/index.json"
+  ],
+  "cache_index_semantically_equal": true,
+  "all_other_non_META_INF_payloads_identical": true,
+  "tested_source_scripts": 23,
+  "all_current_source_scripts_match_reproduction_input": true,
+  "recovered_counts": {
+    "not_base64": 330,
+    "xml": 78,
+    "txt": 7
+  },
+  "packs_verified": 88,
+  "movies_verified": 2,
+  "predicate_tests": 32,
+  "profile": {
+    "owned_items": 789,
+    "items_added": 784,
+    "battle_groups_unlocked": 49,
+    "fight_records": 760,
+    "hero_level": 52,
+    "contains_device_or_account_identifiers": false
+  }
+}
